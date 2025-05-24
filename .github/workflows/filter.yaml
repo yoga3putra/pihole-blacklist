@@ -32,6 +32,6 @@ jobs:
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
-        git add blacklist_pihole.txt
-        git commit -m "Update filtered Adlist_Pihole.txt" || echo "Tidak ada perubahan"
+        git add pihole_blacklist.txt
+        git commit -m "Update filtered pihole_blacklist.txt" || echo "Tidak ada perubahan"
         git push
