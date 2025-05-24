@@ -1,0 +1,37 @@
+name: Filter Blacklist
+on:
+  push:
+    paths:
+      - 'blacklist_pihole.txt'
+      - 'filter_blacklist.py'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 17 * * *'  # 12 malam WIB
+jobs:
+  run-filter:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GH_PAT }}
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    
+    - name: Install requests
+      run: pip install requests
+    
+    - name: Jalankan filter
+      run: python3 filter_blacklist.py
+    
+    - name: Commit dan push hasil
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add blacklist_pihole.txt
+        git commit -m "Update filtered Adlist_Pihole.txt" || echo "Tidak ada perubahan"
+        git push
