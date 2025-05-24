@@ -1,21 +1,19 @@
 import requests
 
 def split_header_and_domains(filename):
-    """Pisahkan header dan daftar domain"""
     header_lines = []
     domain_lines = []
-    header_done = False
-
+    domain_section_started = False
     with open(filename, "r") as f:
         for line in f:
-            if not header_done and line.strip().startswith("0.0.0.0"):
-                header_done = True
-            if header_done:
+            if not domain_section_started and line.strip().startswith("0.0.0.0") and len(line.strip().split()) == 2:
+                domain_section_started = True
+            if domain_section_started:
                 domain_lines.append(line)
             else:
                 header_lines.append(line)
-
     return header_lines, domain_lines
+
 
 def extract_domains(lines):
     """Ambil domain dari baris yang valid"""
