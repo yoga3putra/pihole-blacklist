@@ -2,7 +2,7 @@ name: Filter Blacklist
 on:
   push:
     paths:
-      - 'blacklist_pihole.txt'
+      - 'pihole_blacklist.txt'
       - 'filter_blacklist.py'
   workflow_dispatch:
   schedule:
