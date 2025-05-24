@@ -51,7 +51,7 @@ def save_filtered_file(header_lines, domains, filename):
 
 def main():
     URL = "https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/alsyundawy_blacklist_complete.txt"
-    FILENAME = "blacklist_pihole.txt"
+    FILENAME = "pihole_blacklist.txt"
 
     header_lines, domain_lines = split_header_and_domains(FILENAME)
     my_domains = extract_domains(domain_lines)
