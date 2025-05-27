@@ -804,7 +804,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 254.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 255.190.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
-0.0.0.0 257639.com
 0.0.0.0 2578.api.swrve.com
 0.0.0.0 2578.content.swrve.com
 0.0.0.0 25starnrawekrfcika.com
@@ -1612,7 +1611,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.company-target.com
 0.0.0.0 a.cookpad-ads.com
 0.0.0.0 a.custompc.co.uk
-0.0.0.0 a.cxvdfaasd.top
 0.0.0.0 a.dpmsrv.com
 0.0.0.0 a.dynad.net
 0.0.0.0 a.environmentaldefense.org
@@ -3895,7 +3893,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adserver.bluereactor.com
 0.0.0.0 adserver.bondage.com
 0.0.0.0 adserver.break-even.it
-0.0.0.0 adserver.cantv.net
 0.0.0.0 adserver.cebu-online.com
 0.0.0.0 adserver.chickclick.com
 0.0.0.0 adserver.click4cash.de
@@ -13600,7 +13597,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bobcraft-games.com
 0.0.0.0 bobgear.fr
 0.0.0.0 boca-raton-directory.com
-0.0.0.0 boca-raton-locksmith.com
 0.0.0.0 bocahambrienta.com
 0.0.0.0 boclogistic.com
 0.0.0.0 bod.opnlibreu.com
@@ -21995,7 +21991,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 francelbleu.fr
 0.0.0.0 francescalbiol.com
 0.0.0.0 francescopallanti.org
-0.0.0.0 franci.shop
 0.0.0.0 franciscodiazsanjuan.com
 0.0.0.0 franciscohergueta.com
 0.0.0.0 francofooods.com
@@ -23037,7 +23032,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 go.mooncklick.com
 0.0.0.0 go.oclaserver.com
 0.0.0.0 go.oclasrv.com
-0.0.0.0 go.padsdel.com
 0.0.0.0 go.padsdelivery.com
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pl.bbelements.com
@@ -23479,7 +23473,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 guccimenjpsale.com
 0.0.0.0 guerra-fussboedene.com
 0.0.0.0 guerria-skateboard-tommy.tabrays.com
-0.0.0.0 guess-pl.com
 0.0.0.0 guess.mediav.com
 0.0.0.0 guest.adultfriendfinder.com
 0.0.0.0 guiaberlin.com
@@ -24095,7 +24088,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hjbmta.whampl.top
 0.0.0.0 hjdec12454.top
 0.0.0.0 hjjwts.whampl.top
-0.0.0.0 hjpharrna.org
 0.0.0.0 hk-gmtdmp.mookie1.com
 0.0.0.0 hk-graphic.xyz
 0.0.0.0 hk-match.taboola.com
@@ -24190,7 +24182,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 home.townisp.com
 0.0.0.0 home1.stock-trading-us.click
 0.0.0.0 home24banks.com
-0.0.0.0 homearena.pl
 0.0.0.0 homecareassistanceannandale.com
 0.0.0.0 homecfcprogress.com
 0.0.0.0 homedepot.tt.omtrdc.net
@@ -26887,7 +26878,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jumplowerth.xyz
 0.0.0.0 jumpsuitpajamas.com
 0.0.0.0 jumut.store
-0.0.0.0 jungroup.com
 0.0.0.0 juniorleagueshowhouse.com
 0.0.0.0 jupiter.us.intellitxt.com
 0.0.0.0 jupune-lazahe.website
@@ -28622,7 +28612,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 log1.adsplay.net
 0.0.0.0 log2.adsplay.net
 0.0.0.0 log3.adsplay.net
-0.0.0.0 log3.optimizely.com
 0.0.0.0 log4.adsplay.net
 0.0.0.0 log999.goo.ne.jp
 0.0.0.0 loga.hit-parade.com
@@ -33087,7 +33076,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 oferta874535.xyz
 0.0.0.0 ofertadeblackfriday.com
 0.0.0.0 ofertasenblackfriday.com
-0.0.0.0 ofertaspezsalvaje.com
 0.0.0.0 ofertaviva.com
 0.0.0.0 oferty-plus.fun
 0.0.0.0 offer.camp
@@ -42215,7 +42203,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sarribikesweb.com
 0.0.0.0 sartoriz.fr
 0.0.0.0 sas.decisionnews.com
-0.0.0.0 sasa-demarie.com
 0.0.0.0 sascentral.com
 0.0.0.0 sasdiskcleaner.com
 0.0.0.0 sashvat.com
@@ -43078,7 +43065,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sewingmachinerepairauroraco.com
 0.0.0.0 sexosoi.icu
 0.0.0.0 sexualidadypareja.com
-0.0.0.0 sexualleadership.com
 0.0.0.0 sexytopp.com
 0.0.0.0 seyatosan.iaigiri.com
 0.0.0.0 seznam.hit.gemius.pl
@@ -48031,8 +48017,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tuyenquang22.com
 0.0.0.0 tuyo.tonespath.com
 0.0.0.0 tuzita.com
-0.0.0.0 tv-google.com
-0.0.0.0 tv-googlevip.com
 0.0.0.0 tv-now.us.intellitxt.com
 0.0.0.0 tv-rightcelebrity.us.intellitxt.com
 0.0.0.0 tv.apachenews.xyz
@@ -48049,7 +48033,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tvads.alphonso.tv
 0.0.0.0 tvcsgsb3.lat
 0.0.0.0 tvfanatic.us.intellitxt.com
-0.0.0.0 tvgooglenvip.com
 0.0.0.0 tvguide.112.2o7.net
 0.0.0.0 tvn24-regionalnieinfo.com.pl
 0.0.0.0 tvn24-regionalnieinfo.pl
@@ -122699,7 +122682,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zmienkolory.blogspot.com
 0.0.0.0 zmpeo-ori-943.standard.us-east-1.oortstorage.com
 0.0.0.0 zmxu.net
-0.0.0.0 znajdzprzetargi.pl
 0.0.0.0 znaptag-us.s3.amazonaws.com
 0.0.0.0 znopbji2hv0ua8w.platalerts.pl
 0.0.0.0 zobaczktopodgladaa.blogspot.com
