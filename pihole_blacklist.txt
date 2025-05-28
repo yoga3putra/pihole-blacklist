@@ -1926,14 +1926,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 aashyamayro.com
 0.0.0.0 aata.ero-advertising.com
 0.0.0.0 aavacations.com.102.112.2o7.net
-0.0.0.0 aax-cpm.amazon-adsystem.com
-0.0.0.0 aax-dtb-cf.amazon-adsystem.com
 0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-us-east-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-us-east-retail-direct.amazon.com
-0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
-0.0.0.0 aax-us-pdx.amazon-adsystem.com
-0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aaxads.com.edgekey.net
 0.0.0.0 ab-mknodepub.marketo.com
 0.0.0.0 ab.5.p2l.info
@@ -16333,7 +16328,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cloudstreamprosto.com
 0.0.0.0 cloudtracked.com
 0.0.0.0 cloudwhirl.online
-0.0.0.0 clownsong.com
 0.0.0.0 cls.vrvm.com
 0.0.0.0 cltxhot.fun
 0.0.0.0 club4you.pl
@@ -23810,7 +23804,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 healthychoices.top
 0.0.0.0 healthyvibe.net
 0.0.0.0 healtyrecipe.com
-0.0.0.0 healy.shop
 0.0.0.0 hearst.amp.permutive.com
 0.0.0.0 hearst.blueconic.net
 0.0.0.0 hearst.gscontxt.net
@@ -28571,7 +28564,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 log-thuonggiaonline.epicdn.me
 0.0.0.0 log-tinnhanhchungkhoan.epicdn.me
 0.0.0.0 log-tinnhanhchungkhoan.zadn.vn
-0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log-vietnamdaily.zadn.vn
 0.0.0.0 log-vovworld.zadn.vn
 0.0.0.0 log.adap.tv
@@ -29766,7 +29758,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mcount.easebar.com
 0.0.0.0 mcquophy.org
 0.0.0.0 mcrf.pe-nf.top
-0.0.0.0 mcs-va.tiktok.com
 0.0.0.0 mcsgrp.com
 0.0.0.0 mcsoft365.com
 0.0.0.0 mct.rkdms.com
@@ -29819,7 +29810,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mealrentyard.com
 0.0.0.0 measure.office.com
 0.0.0.0 measuread.com
-0.0.0.0 meatspin.biz
 0.0.0.0 mebelbe.com
 0.0.0.0 mecemeconmimo.com
 0.0.0.0 mechtech.za.com
@@ -30823,8 +30813,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 momplw.promq.top
 0.0.0.0 momply.promq.top
 0.0.0.0 mon-conertisseur.fr
-0.0.0.0 mon-va.byteoversea.com
-0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mon.adx.vn
 0.0.0.0 mon.ecmx.top
 0.0.0.0 mon.freetheme.top
@@ -37091,7 +37079,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 partners.realgirlsmedia.com
 0.0.0.0 partners.tremorhub.com
 0.0.0.0 partners.webmasterplan.com
-0.0.0.0 partners.xhamster.com
 0.0.0.0 partnershipforsuccess.org
 0.0.0.0 partnersup.website
 0.0.0.0 partsclaim.com
@@ -42413,7 +42400,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 scripts.verticalacuity.com
 0.0.0.0 scripts.webcontentassessor.com
 0.0.0.0 scripts.webspectator.com
-0.0.0.0 scrollbelow.com
 0.0.0.0 scrollingads.hustlermegapass.com
 0.0.0.0 scrooge.click10.com
 0.0.0.0 scrooge.nbc11.com
