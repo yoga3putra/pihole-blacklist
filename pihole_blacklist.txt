@@ -11094,7 +11094,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.omnilocal.ai
 0.0.0.0 api.omniture.com
 0.0.0.0 api.oneaudience.com
-0.0.0.0 api.optimizely.com
 0.0.0.0 api.optmnstr.com
 0.0.0.0 api.optmstr.com
 0.0.0.0 api.optnmnstr.com
@@ -11330,7 +11329,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 app.networkad.net
 0.0.0.0 app.ohchat.net
 0.0.0.0 app.oncustomer.asia
-0.0.0.0 app.optimizely.com
 0.0.0.0 app.optinmonster.com
 0.0.0.0 app.pho8.com
 0.0.0.0 app.phonalytics.com
