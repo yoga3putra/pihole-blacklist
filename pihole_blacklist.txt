@@ -4027,7 +4027,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.nl
 0.0.0.0 adserving.aan.speedshiftmedia.com
 0.0.0.0 adserving.speedshiftmedia.com
-0.0.0.0 adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
 0.0.0.0 adseu.novem.pl
 0.0.0.0 adsfeed3.brabys.co.za
 0.0.0.0 adsgen.bangbros.com
@@ -6378,7 +6377,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegr0lokalnie.502321.xyz
 0.0.0.0 allegra.1.p2l.info
 0.0.0.0 allegro-pl.online
-0.0.0.0 allegro-pll.twilightparadox.com
 0.0.0.0 allegro.0c9a710-871624.buzz
 0.0.0.0 allegro.0x9v-a91091.shop
 0.0.0.0 allegro.0xv0a121.buzz
@@ -9697,7 +9695,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-oferta9177011.shop
 0.0.0.0 allegrolokalnie.pl-oferta9182068.sbs
 0.0.0.0 allegrolokalnie.pl-oferta9270318.shop
-0.0.0.0 allegrolokalnie.pl-oferta932417.com
 0.0.0.0 allegrolokalnie.pl-oferta9327229.shop
 0.0.0.0 allegrolokalnie.pl-oferta9341016.icu
 0.0.0.0 allegrolokalnie.pl-oferta9343.online
@@ -12025,7 +12022,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 austriyaprinting.com
 0.0.0.0 auth-gateway.digital
 0.0.0.0 auth-google.site
-0.0.0.0 auth-webmail-quarantined-emails.netlify.app
 0.0.0.0 auth.blast-tournaments.com
 0.0.0.0 auth.cityads.com
 0.0.0.0 auth.follow-apps.com
@@ -12436,7 +12432,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 balticpipe.icu
 0.0.0.0 balticpipe1.jabjee.com
 0.0.0.0 balticpipe4.jabjee.com
-0.0.0.0 baltpi.tilda.ws
 0.0.0.0 bam.eu01.nr-data.net
 0.0.0.0 bamsfirestonedirectprod.112.2o7.net
 0.0.0.0 bamtech.sc.omtrdc.net
@@ -12945,7 +12940,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 benveistanbul.com
 0.0.0.0 benvesiz.com
 0.0.0.0 benveturkiye.com
-0.0.0.0 benzkartel.duckdns.org
 0.0.0.0 beoagencia.com
 0.0.0.0 beonlinetrainer.com
 0.0.0.0 bepayedtoday.com
@@ -13519,7 +13513,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bn4jec.lat
 0.0.0.0 bn6uwp.hair
 0.0.0.0 bnb-prime.online
-0.0.0.0 bng3ycb202a2f806782ec569da049a2a21a6a.ip-ddns.com
 0.0.0.0 bngsart.com
 0.0.0.0 bngyous.monster
 0.0.0.0 bnikis.budtrs.top
@@ -13969,7 +13962,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 budda7tv7.blogspot.com
 0.0.0.0 buddabudda77.blogspot.com
 0.0.0.0 buddacash.top
-0.0.0.0 buddp.tilda.ws
 0.0.0.0 budgetlink.xyz
 0.0.0.0 budihariyana.com
 0.0.0.0 budmcmurray.com
@@ -15492,7 +15484,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cerrajeriaurgentemadrid.com
 0.0.0.0 cerrajerosmadridabrehogar.com
 0.0.0.0 cerrajerossantaisabel.com
-0.0.0.0 certificat-ntfix.redirectme.net
 0.0.0.0 certifiedwinners.info
 0.0.0.0 certifiedwinners.today
 0.0.0.0 certify-amp.alexametrics.com
@@ -15548,7 +15539,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cfd.capitals-gain.com
 0.0.0.0 cfd.carreracapitallimited.proxy84-2.com
 0.0.0.0 cfd.celestialtrade.6kdvu69l3nxzgk7v765mevji3.com
-0.0.0.0 cfd.chiron-group.limited
 0.0.0.0 cfd.chrono-free.com
 0.0.0.0 cfd.cryptotrustcap.com
 0.0.0.0 cfd.daytona-capital-ltd.com
@@ -15993,7 +15983,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cleanpcnow.com
 0.0.0.0 cleanrepublique.com
 0.0.0.0 cleansearch.net
-0.0.0.0 cleansite.us
 0.0.0.0 cleansofts.com
 0.0.0.0 cleanspacenyc.com
 0.0.0.0 cleansyncmgmt.com
@@ -18884,8 +18873,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 doctorinuniforma.com
 0.0.0.0 doctorsassociatesrx.112.2o7.net
 0.0.0.0 doctorschoicenursing.com
-0.0.0.0 document-cloud-online.latosbono.workers.dev
-0.0.0.0 docusign2.godaddysites.com
 0.0.0.0 dodadowanie-orng.digital
 0.0.0.0 dodax.pl
 0.0.0.0 dodgingeazy.com
@@ -21014,7 +21001,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 factorybirmingham.com
 0.0.0.0 factroviana.info
 0.0.0.0 factsource.cfd
-0.0.0.0 facturationabonnement.ip-ddns.com
 0.0.0.0 facturydodatpoweiade.pl
 0.0.0.0 fadadosexo.com.br
 0.0.0.0 fadelmitchell.cfd
@@ -23782,7 +23768,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 helpdisneyplus.co
 0.0.0.0 helpdsk-logiztique.xyz
 0.0.0.0 helper-stats.wondershare.com
-0.0.0.0 helpful-moonbeam-6e746e.netlify.app
 0.0.0.0 helpingtrk.com
 0.0.0.0 helpint.mywebsearch.com
 0.0.0.0 helpinteriamail.biz
@@ -29174,7 +29159,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mailtrack.fr
 0.0.0.0 mailtribune.112.2o7.net
 0.0.0.0 mailtribunecom.112.2o7.net
-0.0.0.0 mailzimbra-accessconnect-085f77.netlify.app
 0.0.0.0 main-boost.com
 0.0.0.0 main.acrocephalia.com
 0.0.0.0 main.askewnesssys.com
@@ -29418,8 +29402,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 marketo.clearbit.com
 0.0.0.0 marketo.com.edgekey.net
 0.0.0.0 marketplace-android-b235.hyprmx.com
-0.0.0.0 marketplace-assistant-new.netlify.app
-0.0.0.0 marketplaces-businesscontact.netlify.app
 0.0.0.0 marketrealist.shop
 0.0.0.0 marketrom.com
 0.0.0.0 marketsecure.sa.com
@@ -30766,7 +30748,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 moodretrieval.com
 0.0.0.0 moodscapr.com
 0.0.0.0 moonaligners.com
-0.0.0.0 moonpla.tilda.ws
 0.0.0.0 moonwoodspirit.com
 0.0.0.0 moorhawkbowling.com
 0.0.0.0 moplmq.promq.top
@@ -31242,8 +31223,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mynetflixapp.com
 0.0.0.0 mynetflx-infos.com
 0.0.0.0 mynevyfedera1.org
-0.0.0.0 mynss.redirectme.net
-0.0.0.0 myntf.servegame.com
 0.0.0.0 myoffers.co.uk
 0.0.0.0 myogamiami.com
 0.0.0.0 myonlinemedstore.com
@@ -32368,7 +32347,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nte.santoriniontheroad.com
 0.0.0.0 nte6zmlghq5a2jy.schpl.pl
 0.0.0.0 ntfiixaccess.info
-0.0.0.0 ntfix-wp.ddns.net
 0.0.0.0 ntkrnlpa.info
 0.0.0.0 ntracking.optimatic.com
 0.0.0.0 ntralpenedhy.pro
@@ -36087,7 +36065,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 onetag.io.edgekey.net
 0.0.0.0 onetapgames.com
 0.0.0.0 onetoone.112.2o7.net
-0.0.0.0 onetpatrn.tilda.ws
 0.0.0.0 onetreewebsite.com
 0.0.0.0 onievasolutions.com
 0.0.0.0 onilne.fr
@@ -38907,7 +38884,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 poczta.47876483.xyz
 0.0.0.0 poczta.86505484.xyz
 0.0.0.0 poczta.es-8312.ml
-0.0.0.0 poczta.godaddysites.com
 0.0.0.0 poczta.pl-zplt.info
 0.0.0.0 poczta.rgcom.icu
 0.0.0.0 poczta.takpotsnord.online
@@ -38990,7 +38966,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 polarisarc.online
 0.0.0.0 polariswave.website
 0.0.0.0 polarnimbus.website
-0.0.0.0 polbat.tilda.ws
 0.0.0.0 poldk.nuggad.net
 0.0.0.0 pole-emploi-deux-sevres.xyz
 0.0.0.0 pole-emploi-drome.xyz
@@ -39604,14 +39579,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 proidees.fr
 0.0.0.0 proiectehoreca.com
 0.0.0.0 projai.facepl.com
-0.0.0.0 project10794217.tilda.ws
-0.0.0.0 project11494831.tilda.ws
-0.0.0.0 project11567969.tilda.ws
-0.0.0.0 project11616465.tilda.ws
-0.0.0.0 project11637669.tilda.ws
-0.0.0.0 project11640621.tilda.ws
-0.0.0.0 project11670805.tilda.ws
-0.0.0.0 project12005857.tilda.ws
 0.0.0.0 projectai.infplm.top
 0.0.0.0 projectcontrolsprofessionalservices.com
 0.0.0.0 projectgoals.net
@@ -41175,11 +41142,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 rncig.doctortrf.com
 0.0.0.0 rnd.novanet.vn
 0.0.0.0 rnetegroup.net
-0.0.0.0 rnew.sytes.net
 0.0.0.0 rnewaccess.com
 0.0.0.0 rnewmovie.com
 0.0.0.0 rnews.focus-news.net
-0.0.0.0 rnews.sytes.net
 0.0.0.0 rngetek.com
 0.0.0.0 ro-gmtdmp.mookie1.com
 0.0.0.0 ro.search.etargetnet.com
@@ -41479,7 +41444,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rtve.d1.sc.omtrdc.net
 0.0.0.0 rtx.kimishien.com
 0.0.0.0 ru-geo.cityads.com
-0.0.0.0 ru.mst.dns-cloud.net
 0.0.0.0 ru.redtram.com
 0.0.0.0 ru2.hit.stat24.com
 0.0.0.0 rub-winners-eu-west-1-rtb.adroll.com
@@ -41872,7 +41836,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sadartd.com
 0.0.0.0 sadc.wipmai.top
 0.0.0.0 sadc1.outbrain.org
-0.0.0.0 sade.ignorelist.com
 0.0.0.0 sadgfua54a.xyz
 0.0.0.0 sadjadtavakoli.com
 0.0.0.0 sadly.holcom.top
@@ -43403,7 +43366,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 slideboc.fr
 0.0.0.0 slim-up.xyz
 0.0.0.0 slimpalketo.com
-0.0.0.0 slimxxxtubedlb.ddns.name
 0.0.0.0 sllate.fr
 0.0.0.0 slo-engine.intextad.net
 0.0.0.0 slodki.shop
@@ -43907,7 +43869,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sparkdepth.site
 0.0.0.0 sparkfunhaven902.sbs
 0.0.0.0 sparkle.locationlabs.com
-0.0.0.0 sparkling-cassata-49ab11.netlify.app
 0.0.0.0 sparknetworks.112.2o7.net
 0.0.0.0 sparkusdiscoverdcm781744349491.s.moatpixel.com
 0.0.0.0 sparkvortexnet.com
@@ -45069,16 +45030,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 sublimatethis.com
 0.0.0.0 submit.zapr.in
 0.0.0.0 subplots341.site
-0.0.0.0 subscription.ddns.net
-0.0.0.0 subskryp.gotdns.com
 0.0.0.0 subskryp.sells-it.net
-0.0.0.0 subskryp.space-to-rent.com
 0.0.0.0 subskrypcj.ncore.io
-0.0.0.0 subskrypcji-ntfix.ddns.net
-0.0.0.0 subskrypcji.dnsalias.com
 0.0.0.0 subskrypcji.gotdns.com
 0.0.0.0 subskrypcji.ncore.io
-0.0.0.0 subskrypcji.on-the-web.tv
 0.0.0.0 subspacenode.site
 0.0.0.0 subway2016.tt.omtrdc.net
 0.0.0.0 subwayfranchiseeadvertising.sc.omtrdc.net
@@ -48833,7 +48788,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 verifiedimmediatesessiondetected.top
 0.0.0.0 verifiedimproperrealtimemobile.top
 0.0.0.0 verifiednewss.info
-0.0.0.0 verify-protect-marketplace.netlify.app
 0.0.0.0 verify.956825.cfd
 0.0.0.0 verify.faceltcheck.top
 0.0.0.0 verify.mob.com
@@ -49996,7 +49950,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 weather.fixitpro.ro
 0.0.0.0 weatherbug.adsbynimbus.com
 0.0.0.0 weatherbugbrowserbar.mywebsearch.com
-0.0.0.0 weathered-recipe-0ea5.iceber.workers.dev
 0.0.0.0 weavegotyoucovered.com
 0.0.0.0 web-api.tjme.io
 0.0.0.0 web-bars.com
@@ -50322,7 +50275,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 whatsolarpanels.com
 0.0.0.0 whattat.opnlibreu.com
 0.0.0.0 whatthetech.us.intellitxt.com
-0.0.0.0 whattp900.tilda.ws
 0.0.0.0 whbp67rpckie65063rqrl3ku.animalsaidz.com
 0.0.0.0 whcaaljpavfo1c47j45rfuas.techdase.com
 0.0.0.0 whecd2l2jk2i5du6394qfrl2.moviefaux.com
