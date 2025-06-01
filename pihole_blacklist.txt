@@ -13364,7 +13364,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blackpress.122.2o7.net
 0.0.0.0 blackqpid.org.uk
 0.0.0.0 blacksexycam.com
-0.0.0.0 blackshelter.org
 0.0.0.0 blackspnut.store
 0.0.0.0 blacksportsonline.us.intellitxt.com
 0.0.0.0 blackstruckequipments.com
@@ -18551,7 +18550,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 diegoprimitivo.com
 0.0.0.0 dielectric-cube.com
 0.0.0.0 dienlanhductai.com
-0.0.0.0 dienstechpassinc.com
 0.0.0.0 diernupea.top
 0.0.0.0 dieselgroen.com
 0.0.0.0 diesilberamis.meeriwelt.de
@@ -18782,7 +18780,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dl.ijinshan.com
 0.0.0.0 dl.keywordstrategy.org
 0.0.0.0 dl.logging.admicro.vn
-0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dl.payforme.top
 0.0.0.0 dl.privatecollection.top
 0.0.0.0 dl.sj.ijinshan.com
@@ -31264,7 +31261,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mytotalsearch.com
 0.0.0.0 myvertelec.battereyelect.org
 0.0.0.0 myvisualiq.net
-0.0.0.0 myway.com
 0.0.0.0 myweblayout.com
 0.0.0.0 myworldbusiness.net
 0.0.0.0 mywot.com
@@ -43715,7 +43711,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 solutionspace.info
 0.0.0.0 solvagency.com
 0.0.0.0 solveseek.com
-0.0.0.0 solvusoft.com
 0.0.0.0 som.aeroplan.com
 0.0.0.0 soma-assets.smaato.net
 0.0.0.0 soma-store.visa-usa.ru
@@ -50617,7 +50612,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wondfo-ccn.com
 0.0.0.0 wonmeuphv1k3f3873euf7eda.musicfise.com
 0.0.0.0 woo15.top
-0.0.0.0 woobids.com
 0.0.0.0 woocommerce01.datatrics.com
 0.0.0.0 woodadesign.com
 0.0.0.0 woodendryingracks.com
