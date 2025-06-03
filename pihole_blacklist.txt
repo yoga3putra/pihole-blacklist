@@ -6094,9 +6094,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alebilet.store
 0.0.0.0 alebilet.tvpinfo24.pl
 0.0.0.0 alebilet.zamowienie-21m44xqv2dlf0znb86ryp1.onl
-0.0.0.0 alebilet.zamowienie-28m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-2k44xqv2dlf0znb86ryp1.onl
-0.0.0.0 alebilet.zamowienie-33m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-34m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-3f44xqv2dlf0znb86ryp1.com
 0.0.0.0 alebilet.zamowienie-3f44xqv2dlf0znb86ryp1.onl
@@ -28459,7 +28457,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 log.smaato.net
 0.0.0.0 log.starseed.fr
-0.0.0.0 log.tagcade.com
 0.0.0.0 log.tapatalk.com
 0.0.0.0 log.vads.net.vn
 0.0.0.0 log.vda.viettel.vn
@@ -37451,7 +37448,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 picmetr.metplxx.com
 0.0.0.0 pics.cnomy.com
 0.0.0.0 picture-uploads.com
-0.0.0.0 pictures-album.com
 0.0.0.0 picturesque-mountain-lake-3890.newdesign.sbs
 0.0.0.0 picura.it
 0.0.0.0 pido.widgetmarkething.com
@@ -45123,7 +45119,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 supremewellnessdetox.org
 0.0.0.0 supremewellnessrecovery.net
 0.0.0.0 supude.soundasays.com
-0.0.0.0 supvia-enterprises-109c6a1.ingress-earth.ewp.live
 0.0.0.0 supzup.com
 0.0.0.0 sureads.com
 0.0.0.0 surebaby.us.intellitxt.com
