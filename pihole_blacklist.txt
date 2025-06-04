@@ -263,7 +263,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0llx.77493874.xyz
 0.0.0.0 0llx.78403478.xyz
 0.0.0.0 0llx.97948323.xyz
-0.0.0.0 0lovespells0.blogspot.com
 0.0.0.0 0lx.03098233.xyz
 0.0.0.0 0lx.06253652.xyz
 0.0.0.0 0lx.077433343.xyz
@@ -3244,7 +3243,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.gamecopyworld.no
 0.0.0.0 ads.gameservers.com
 0.0.0.0 ads.gamned.com
-0.0.0.0 ads.garga.biz
 0.0.0.0 ads.genericlink.com
 0.0.0.0 ads.getlucky.com
 0.0.0.0 ads.ghettotube.com
@@ -4759,7 +4757,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 akshdesignstudio.com
 0.0.0.0 aktiv-blog.com
 0.0.0.0 aktiv-mit-ms.fr
-0.0.0.0 aktivator-windows10.blogspot.com
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 aktualizacja.schooldocu.com
 0.0.0.0 aktualizacjafacebooka.blogspot.com
@@ -11314,7 +11311,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 app.reflectivedata.com
 0.0.0.0 app.roximity.com
 0.0.0.0 app.rumoalua.com
-0.0.0.0 app.sbz.workers.dev
 0.0.0.0 app.scanscout.com
 0.0.0.0 app.server.topbrandfoods.cam
 0.0.0.0 app.slimads.vn
@@ -12306,7 +12302,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 backstagechaos.online
 0.0.0.0 backup.click-info.online
 0.0.0.0 backup.dla-redirect.online
-0.0.0.0 backuperwebcam.weebly.com
 0.0.0.0 backupgetconnect.com
 0.0.0.0 bacr.com.pk
 0.0.0.0 bacskateszov.hu
@@ -13371,7 +13366,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blastivex.com
 0.0.0.0 blastro.us.intellitxt.com
 0.0.0.0 blasze.com
-0.0.0.0 blasze.tk
 0.0.0.0 blatfee.ero-advertising.com
 0.0.0.0 blazeharbor.website
 0.0.0.0 blazemark.site
@@ -13795,7 +13789,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bravexel.store
 0.0.0.0 braviorestaurante.com
 0.0.0.0 bravo.israelinfo.ru
-0.0.0.0 brawlstart1.blogspot.com
 0.0.0.0 braze.eu
 0.0.0.0 breaker-news.com
 0.0.0.0 breakingnewscentral.click
@@ -18488,7 +18481,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dgtase.top
 0.0.0.0 dgyu536ds.appspot.com
 0.0.0.0 dh484.com
-0.0.0.0 dhauzja511.co.cc
 0.0.0.0 dhc.encrypterz.com
 0.0.0.0 dhcpserver.net
 0.0.0.0 dhg-logging.us-east-1.elasticbeanstalk.com
@@ -27559,7 +27551,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lamlsace.fr
 0.0.0.0 lampak.biz
 0.0.0.0 lamycontracting.com
-0.0.0.0 land.purifier.cc
 0.0.0.0 landerbalza.com
 0.0.0.0 landing.aaroninjections.com
 0.0.0.0 landing.mediaz.vn
@@ -30196,7 +30187,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 microsoft-debug-098.com
 0.0.0.0 microsoft-home-en.com
 0.0.0.0 microsoft-online-en-us.com
-0.0.0.0 microsoft-update.name
 0.0.0.0 microsoft-ware.com
 0.0.0.0 microsoft.updatecatalogs.com
 0.0.0.0 microsoftadvertisingdevcenter.112.2o7.net
@@ -38551,7 +38541,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 platodejamon.com
 0.0.0.0 platonicstore.com
 0.0.0.0 platoona.xyz
-0.0.0.0 plausibleio.workers.dev
 0.0.0.0 plavix.shengen.ru
 0.0.0.0 play-vulkan-vegas.online
 0.0.0.0 play.adsparc.com
@@ -39104,7 +39093,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 popunder.fpctraffic.com
 0.0.0.0 popunder.loading-delivery1.com
 0.0.0.0 popunder.paypopup.com
-0.0.0.0 popunhot1.blogspot.com
 0.0.0.0 popup.oxcash.com
 0.0.0.0 popup.softreklam.com
 0.0.0.0 popup.taboola.com
@@ -39409,7 +39397,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 prizes.co.uk
 0.0.0.0 prizesfu74.life
 0.0.0.0 prjcq.com
-0.0.0.0 prk.roverinvolv.bid
 0.0.0.0 prmqe2t4vs7bxa.dis-pl.lat
 0.0.0.0 pro-accesssoires.fr
 0.0.0.0 pro-insights.info
@@ -40235,7 +40222,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 r.popin.cc
 0.0.0.0 r.profilepassport.jp
 0.0.0.0 r.refinedads.com
-0.0.0.0 r.reklama.biz
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 r.scoota.co
 0.0.0.0 r.teads.tv
@@ -43618,7 +43604,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 software-issue-high-data.top
 0.0.0.0 software-phile.com
 0.0.0.0 software-updates.co
-0.0.0.0 software-wenc.co.cc
 0.0.0.0 softwareactivitiesissueadvanced.top
 0.0.0.0 softwareissuehigh.top
 0.0.0.0 softwareissuehighdata.top
@@ -49975,7 +49960,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 webload101.hitbox.com
 0.0.0.0 weblog.blogads.com
 0.0.0.0 webmail-autho.xuanzhenge.com
-0.0.0.0 webmail-cake-924c-vvn.fresfst.workers.dev
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 webmail.case-update325.click
 0.0.0.0 webmail.mmtimes.net
