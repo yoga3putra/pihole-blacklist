@@ -6107,7 +6107,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alebilet.zamowienie-63m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-77m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-85m44xqv2dlf0znb86ryp1.onl
-0.0.0.0 alebilet.zamowienie-86m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-91m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-93m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zen-pay.pl
@@ -10506,7 +10505,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics-digit-in.cdn.ampproject.org
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-eu.tactilews.com
-0.0.0.0 analytics-phi-nfl.yinzcam.com
 0.0.0.0 analytics-pit-nfl.yinzcam.com
 0.0.0.0 analytics-tcp.mintegral.net
 0.0.0.0 analytics.112.2o7.net
@@ -16786,7 +16784,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 contemporarystonescapes.net
 0.0.0.0 content-cdn.swrve.com
 0.0.0.0 content-ml.admicro.vn
-0.0.0.0 content-prod3.glance-internal.inmobi.com
 0.0.0.0 content-thumbnail.cxpublic.com
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
@@ -24041,10 +24038,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 home-poczta.serwer-p71.site
 0.0.0.0 home-pursuits.com
 0.0.0.0 home-schooling-printables.com
-0.0.0.0 home.about.com
 0.0.0.0 home.bansheesos.com
 0.0.0.0 home.dla2.online
-0.0.0.0 home.foni.net
 0.0.0.0 home.gelsennet.de
 0.0.0.0 home.hit.stat24.com
 0.0.0.0 home.pedicelliformet.com
@@ -42031,7 +42026,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sbmsisteml.com
 0.0.0.0 sbsblukgov.112.2o7.net
 0.0.0.0 sbtechus.com
-0.0.0.0 sbux-dl.urbanairship.com
 0.0.0.0 sbv-gov-vn.com
 0.0.0.0 sc.5.p2l.info
 0.0.0.0 sc.omtrdc.net
