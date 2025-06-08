@@ -2065,7 +2065,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 account-review.com
 0.0.0.0 account-worda-ads.cacaobliss.pt
 0.0.0.0 account.help-eu.life
-0.0.0.0 account.intelligences.digital
 0.0.0.0 account.resolutoin.click
 0.0.0.0 account.secure-autth.com
 0.0.0.0 accountaccess-update.com
@@ -2305,7 +2304,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.garantiarkadas.com
 0.0.0.0 ad.gazeta.pl
 0.0.0.0 ad.ghfusion.com
-0.0.0.0 ad.gr.doubleclick.net
 0.0.0.0 ad.groupon.be
 0.0.0.0 ad.groupon.co.uk
 0.0.0.0 ad.groupon.com
@@ -2324,7 +2322,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.icasthq.com
 0.0.0.0 ad.iconadserver.com
 0.0.0.0 ad.ie.doubleclick.net
-0.0.0.0 ad.iloveinterracial.com
 0.0.0.0 ad.imediaaudiences.com
 0.0.0.0 ad.insight.a-i-ad.com
 0.0.0.0 ad.insightexpress.com
@@ -2370,7 +2367,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.network60.com
 0.0.0.0 ad.nicovideo.jp
 0.0.0.0 ad.nl.doubleclick.net
-0.0.0.0 ad.no.doubleclick.net
 0.0.0.0 ad.nozonedata.com
 0.0.0.0 ad.nz.doubleclick.net
 0.0.0.0 ad.ohmynews.com
@@ -2385,7 +2381,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.premiumonlinemedia.com
 0.0.0.0 ad.primead.jp
 0.0.0.0 ad.prismamediadigital.com
-0.0.0.0 ad.pt.doubleclick.net
 0.0.0.0 ad.qyer.com
 0.0.0.0 ad.reachppc.com
 0.0.0.0 ad.realist.gen.tr
@@ -2661,7 +2656,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad9digital.checkm8.com
 0.0.0.0 adaashton.com
 0.0.0.0 adactive-ads.aimatch.com
-0.0.0.0 adagiobanner.s3.amazonaws.com
 0.0.0.0 adamsfilms.com
 0.0.0.0 adamstavarache.com
 0.0.0.0 adanaevyemekleri.com
@@ -3607,7 +3601,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.web21.com
 0.0.0.0 ads.webfeat.com
 0.0.0.0 ads.webheat.com
-0.0.0.0 ads.webhosting.info
 0.0.0.0 ads.webindia123.com
 0.0.0.0 ads.webnet.advance.net
 0.0.0.0 ads.websearch.com
@@ -3770,7 +3763,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsdk.picooapps.com
 0.0.0.0 adsdk.vrvm.com
 0.0.0.0 adsearch.adkontekst.pl
-0.0.0.0 adsearch.pl
 0.0.0.0 adsearch.wp.pl
 0.0.0.0 adselect.nuggad.net
 0.0.0.0 adserv.adbonus.com
@@ -6073,13 +6065,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 alebilet.zamowienie-34m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-3f44xqv2dlf0znb86ryp1.com
 0.0.0.0 alebilet.zamowienie-3f44xqv2dlf0znb86ryp1.onl
-0.0.0.0 alebilet.zamowienie-3lm44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-44m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-45m44xqv2dlf0znb86ryp1.com
 0.0.0.0 alebilet.zamowienie-45m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-4f34xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-4k44xqv2dlf0znb86ryp1.onl
-0.0.0.0 alebilet.zamowienie-59m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-85m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-91m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-93m44xqv2dlf0znb86ryp1.onl
@@ -11620,7 +11610,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 as.waptrad.top
 0.0.0.0 as.y.atwola.com
 0.0.0.0 as00.estara.com
-0.0.0.0 as1.casinocity.com
 0.0.0.0 as1.inoventiv.com
 0.0.0.0 as1.mistupid.com
 0.0.0.0 as1image1.adshuffle.com
@@ -12494,7 +12483,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 banners.4d5.net
 0.0.0.0 banners.absolpublisher.com
 0.0.0.0 banners.adgoto.com
-0.0.0.0 banners.adnetmedia.lt
 0.0.0.0 banners.adventory.com
 0.0.0.0 banners.advidi.com
 0.0.0.0 banners.affiliatefuel.com
@@ -13054,7 +13042,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bidentonrccom.122.2o7.net
 0.0.0.0 bideo-endpoint.xyz
 0.0.0.0 bideo-schnellvpn.xyz
-0.0.0.0 bideronka.is-best.net
 0.0.0.0 bidfnt-asia.adsmoloco.com
 0.0.0.0 bidi-geo.mythings.com
 0.0.0.0 bidstream.advertserve.com
@@ -15738,7 +15725,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cicontents.biz
 0.0.0.0 cider-sun.com
 0.0.0.0 cidersun.com
-0.0.0.0 ciezkieczasy.is-best.net
 0.0.0.0 cifi.widgetbuzz.com
 0.0.0.0 cifw.fr
 0.0.0.0 cig-arrete.com
@@ -17061,7 +17047,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cpxigen865632366955.s.moatpixel.com
 0.0.0.0 cra-arc-gc-ca.noads.biz
 0.0.0.0 cra-etransfer.online
-0.0.0.0 crackfulldownload.com
 0.0.0.0 crackguru.tk
 0.0.0.0 cracksplanet.com
 0.0.0.0 crackzplanet.com
@@ -18118,7 +18103,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 delivery.adnetwork.vn
 0.0.0.0 delivery.adnuntius.com
 0.0.0.0 delivery.adrecover.com
-0.0.0.0 delivery.ads.gfsrv.net
 0.0.0.0 delivery.advanseads.com
 0.0.0.0 delivery.adyea.com
 0.0.0.0 delivery.akadigital.vn
@@ -19064,7 +19048,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ds.waptrad.top
 0.0.0.0 ds5f8f.cc
 0.0.0.0 dsa.moatads.com
-0.0.0.0 dsads123a.is-best.net
 0.0.0.0 dsadsadaw.yeroses.com
 0.0.0.0 dsb.troove.top
 0.0.0.0 dsbzk.comfortykive.xyz
@@ -20857,35 +20840,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 faizmalik.com
 0.0.0.0 fajnefanty.com
 0.0.0.0 faks-up.org
-0.0.0.0 faksowy.is-best.net
 0.0.0.0 faksup.org
 0.0.0.0 faktagameterbaik.com
-0.0.0.0 faktoswe.is-best.net
-0.0.0.0 faktowace.is-best.net
-0.0.0.0 faktowe.is-best.net
-0.0.0.0 faktowy.is-best.net
-0.0.0.0 faktowya.is-best.net
-0.0.0.0 faktowyua.is-best.net
-0.0.0.0 faktujea.is-best.net
-0.0.0.0 faktujemy.is-best.net
 0.0.0.0 fakturalokalnie.art
 0.0.0.0 fakture-invoice.net
-0.0.0.0 fakty24a.is-best.net
-0.0.0.0 fakty25a.is-best.net
-0.0.0.0 fakty26a.is-best.net
-0.0.0.0 fakty27a.is-best.net
-0.0.0.0 fakty28a.is-best.net
-0.0.0.0 fakty29a.is-best.net
-0.0.0.0 fakty30a.is-best.net
-0.0.0.0 fakty31a.is-best.net
-0.0.0.0 fakty32a.is-best.net
-0.0.0.0 fakty33a.is-best.net
-0.0.0.0 fakty34a.is-best.net
-0.0.0.0 fakty35a.is-best.net
-0.0.0.0 fakty37a.is-best.net
-0.0.0.0 fakty39a.is-best.net
-0.0.0.0 faktya.is-best.net
-0.0.0.0 faktyas.is-best.net
 0.0.0.0 falkcoppercookware.fr
 0.0.0.0 fall-protection-blog.xyz
 0.0.0.0 fallacydetective.org
@@ -21363,7 +21321,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fixxermorsel.za.com
 0.0.0.0 fixya.us.intellitxt.com
 0.0.0.0 fiyopu-jomoni.site
-0.0.0.0 fizzylabs.afftrack.com
 0.0.0.0 fj2qnb.lat
 0.0.0.0 fjallraven-polska.com
 0.0.0.0 fjallravensyvip.shop
@@ -25042,7 +24999,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 inexity.com
 0.0.0.0 inf.dataeconomist.finance
 0.0.0.0 inf0rma.com
-0.0.0.0 infasd2a.is-best.net
 0.0.0.0 infinevolution.com
 0.0.0.0 infinite-vision.info
 0.0.0.0 infiniteconcepts.space
@@ -25104,15 +25060,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 information-update.dynamic-dns.net
 0.0.0.0 informativelibrary.info
 0.0.0.0 informazionicoronavirus.it
-0.0.0.0 informcje1.is-best.net
-0.0.0.0 informcje2.is-best.net
-0.0.0.0 informcje3.is-best.net
 0.0.0.0 informgridonline.info
-0.0.0.0 informje3.is-best.net
-0.0.0.0 informje4.is-best.net
-0.0.0.0 informje5.is-best.net
-0.0.0.0 informje7.is-best.net
-0.0.0.0 informje8.is-best.net
 0.0.0.0 informje9.is-great.net
 0.0.0.0 informmelater.com
 0.0.0.0 inforyx.info
@@ -25586,7 +25534,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 intogossip.us.intellitxt.com
 0.0.0.0 intomobile.us.intellitxt.com
 0.0.0.0 intouch.arcsoft.com
-0.0.0.0 intrack.pl
 0.0.0.0 introheroes.com
 0.0.0.0 intrstingnewoffrs.com
 0.0.0.0 intuitinc.122.2o7.net
@@ -25942,7 +25889,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jainpetrolhzb.com
 0.0.0.0 jakartaculinary.com
 0.0.0.0 jakeludington.us.intellitxt.com
-0.0.0.0 jakotako.is-best.net
 0.0.0.0 jalvapic.com
 0.0.0.0 jambocast.com
 0.0.0.0 james-joyce.site
@@ -26541,7 +26487,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 justwatch.asia
 0.0.0.0 jutiagroup.us.intellitxt.com
 0.0.0.0 jutofi-wadali.site
-0.0.0.0 jutrobedzie.is-best.net
 0.0.0.0 juventuis.fr
 0.0.0.0 juvexo.webflow.io
 0.0.0.0 juworae.store
@@ -26963,7 +26908,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kn46huqi.pages.dev
 0.0.0.0 knac.us.intellitxt.com
 0.0.0.0 knalc.com
-0.0.0.0 knc.lv
 0.0.0.0 knightmobsesports.com
 0.0.0.0 knights-athletics.xyz
 0.0.0.0 knovix.info
@@ -28549,9 +28493,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lubet.api.new.livejasmin.com
 0.0.0.0 lubet.modelcenter.livejasmin.com
 0.0.0.0 lubet.www.livejasmin.com
-0.0.0.0 lubicplacki.is-best.net
-0.0.0.0 lubiego.is-best.net
-0.0.0.0 lubiszto.is-best.net
 0.0.0.0 lucaraluca.com
 0.0.0.0 lucent.122.2o7.net
 0.0.0.0 luceroarquitectos.com
@@ -30339,7 +30280,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mojeklientasupportdisney.com
 0.0.0.0 mojeklientmailsupport.com
 0.0.0.0 mojeklientmailsupportddns.com
-0.0.0.0 mojekobe.is-best.net
 0.0.0.0 mojekumpele.blogspot.com
 0.0.0.0 mojerekord.store
 0.0.0.0 mojesupportklient.com
@@ -31486,7 +31426,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 new.mmtimes.org
 0.0.0.0 new.nowej-get.online
 0.0.0.0 newads.cmpnet.com
-0.0.0.0 newadserver.interfree.it
 0.0.0.0 newafricanglobalsenergy.com
 0.0.0.0 newagevz.homes
 0.0.0.0 newandroidapps.net
@@ -38792,7 +38731,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 popup.oxcash.com
 0.0.0.0 popup.softreklam.com
 0.0.0.0 popup.taboola.com
-0.0.0.0 popups.afftrack001.com
 0.0.0.0 popups.infostart.com
 0.0.0.0 porady-prawny.online
 0.0.0.0 porannyziew.eu
@@ -39519,7 +39457,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pubmatic-winners-us-east-1-rtb.adroll.com
 0.0.0.0 pubmatic-winners-us-west-2-rtb.adroll.com
 0.0.0.0 pubmatic.edgekey.net
-0.0.0.0 pubpress.net
 0.0.0.0 pubs.hiddennetwork.com
 0.0.0.0 pubudoy.pro
 0.0.0.0 puertoricocarfreight.com
@@ -42329,7 +42266,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 server.connecto.io
 0.0.0.0 server.iad.liveperson.net
 0.0.0.0 server.idreams.pl
-0.0.0.0 server.it.boosterthoughts.com
 0.0.0.0 server.seadform.net
 0.0.0.0 server.siteamplifier.net
 0.0.0.0 server.vulcanxxxstart.cfd
@@ -43639,9 +43575,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 spp12l.lol
 0.0.0.0 sppszezz.com
 0.0.0.0 spragnienimilosci.pl
-0.0.0.0 sprawdzam.is-best.net
 0.0.0.0 sprawdzktopodgglada.blogspot.com
-0.0.0.0 sprawdzto.is-best.net
 0.0.0.0 sprawdzzdjecia.24.eu
 0.0.0.0 sprayanddecorateltd.com
 0.0.0.0 spreadinggoogle.com
@@ -44213,7 +44147,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.iwebtrack.com
 0.0.0.0 stats.jippii.com
 0.0.0.0 stats.kumulos.com
-0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 stats.ladotstats.nl
 0.0.0.0 stats.livingsocial.com
 0.0.0.0 stats.mediaforge.com
@@ -44689,7 +44622,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 superegalado.com
 0.0.0.0 superficial.crwdcntrl.net
 0.0.0.0 superherohype.us.intellitxt.com
-0.0.0.0 superhistoria.is-best.net
 0.0.0.0 superinterstitial.com
 0.0.0.0 superior400.site
 0.0.0.0 superlecker.info
@@ -45567,7 +45499,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 telecharger-openoffice.fr
 0.0.0.0 telecyborg.com
 0.0.0.0 telefloracom.112.2o7.net
-0.0.0.0 telefon-50-zl.is-best.net
 0.0.0.0 telefoniabologna.it
 0.0.0.0 telefonica.es.intellitxt.com
 0.0.0.0 telefonino.it.intellitxt.com
@@ -46250,7 +46181,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 toggletools.com
 0.0.0.0 tohoku-fg.xyz
 0.0.0.0 toje.fungizmos.st
-0.0.0.0 tojestto.is-best.net
 0.0.0.0 tokatpastane.com
 0.0.0.0 token.api.kochava.com
 0.0.0.0 tokenbitk.top
@@ -49360,7 +49290,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 warisan138amp9.com
 0.0.0.0 warnerbrothersrecords.112.2o7.net
 0.0.0.0 warnermediagroup-com.videoplayerhub.com
-0.0.0.0 warosprawdzic.is-best.net
 0.0.0.0 warp.media.net
 0.0.0.0 warringtonspiritualistchurch.com
 0.0.0.0 warszawa-klif.top
@@ -50107,7 +50036,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wojo.cybersvaults.com
 0.0.0.0 woju.cybersvaults.com
 0.0.0.0 wokqfc381uret2b9jduui3di.expertgardeningadvice.com
-0.0.0.0 wolaklosza.is-best.net
 0.0.0.0 wolfmanscreations.com
 0.0.0.0 wolfsleecher.com
 0.0.0.0 wolnesingielki.pl
@@ -121705,7 +121633,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zalandonulk.xyz
 0.0.0.0 zalandonullk.cc
 0.0.0.0 zalandonullk.top
-0.0.0.0 zalbani.is-best.net
 0.0.0.0 zalo-ads-240-td.zadn.vn
 0.0.0.0 zalo-ads-480-td.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
