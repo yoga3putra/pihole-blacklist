@@ -15,17 +15,13 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 
 # ============================================================
-# Custom host records are listed here.
+# Tulis domain yang ingin diblokir sesuai dengan contoh dibawah
 #
-# blacklist
-#
-# The contents of this file (containing a listing of additional
-# domains in 'hosts' file format) are appended to the unified
-# hosts file during the update process.
-#
-# Example:
-# 0.0.0.0 example.com
+# contoh:
+# 0.0.0.0 domain.com
 # ============================================================
+
+0.0.0.0 bunga99bet.net
 
 0.0.0.0 0-1-x.009418154.xyz
 0.0.0.0 0-1-x.06215785.xyz
