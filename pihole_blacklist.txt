@@ -21,8 +21,6 @@ ff02::3 ip6-allhosts
 # 0.0.0.0 domain.com
 # ============================================================
 
-0.0.0.0 bunga99bet.net
-
 0.0.0.0 0-1-x.009418154.xyz
 0.0.0.0 0-1-x.06215785.xyz
 0.0.0.0 0-1-x.15170956.xyz
@@ -36522,7 +36520,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 partner.tagscreator.com
 0.0.0.0 partner.wapacz.pl
 0.0.0.0 partner.wapster.pl
-0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partners-hotwire-com.impactradius.com
 0.0.0.0 partners.10bet.com
 0.0.0.0 partners.adklick.de
