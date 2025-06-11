@@ -2572,7 +2572,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad4.thumbs.ero-advertising.com
 0.0.0.0 ad40.checkm8.com
 0.0.0.0 ad40digital.checkm8.com
-0.0.0.0 ad41.atlas.cz
 0.0.0.0 ad41.checkm8.com
 0.0.0.0 ad41digital.checkm8.com
 0.0.0.0 ad42.checkm8.com
@@ -2651,7 +2650,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adbmetrics.saloncomicdonostia.com
 0.0.0.0 adboost.finalid.com
 0.0.0.0 adbooth.adk2.co
-0.0.0.0 adbot.theonion.com
 0.0.0.0 adbox.inbox-online.com
 0.0.0.0 adbrite.112.2o7.net
 0.0.0.0 adbrite.122.2o7.net
@@ -2742,7 +2740,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adi.vcmedia.vn
 0.0.0.0 adidm.idmnet.pl
 0.0.0.0 adimage.asia1.com.sg
-0.0.0.0 adimage.blm.net
 0.0.0.0 adimages.earthweb.com
 0.0.0.0 adimages.mp3.com
 0.0.0.0 adimg.activeadv.net
@@ -3052,7 +3049,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.bridgetrack.com.edgesuite.net
 0.0.0.0 ads.bsplayer.com
 0.0.0.0 ads.burgasinfo.com
-0.0.0.0 ads.buscape.com.br
 0.0.0.0 ads.businessclick.com
 0.0.0.0 ads.businessweek.com
 0.0.0.0 ads.calgarystampede.com
@@ -3170,11 +3166,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.freecaster.tv
 0.0.0.0 ads.freeonlinegames.com
 0.0.0.0 ads.freeskreen.com
-0.0.0.0 ads.freshmeat.net
 0.0.0.0 ads.friendfinder.com
 0.0.0.0 ads.fuckingmachines.com
 0.0.0.0 ads.fuelo.net
-0.0.0.0 ads.fulldls.com
 0.0.0.0 ads.fulltiltpoker.com
 0.0.0.0 ads.game.net
 0.0.0.0 ads.gamecopyworld.no
@@ -3275,7 +3269,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.lovercash.com
 0.0.0.0 ads.loveshack.org
 0.0.0.0 ads.lucidmedia.com
-0.0.0.0 ads.lycos.com
 0.0.0.0 ads.lzjl.com
 0.0.0.0 ads.magnetic.is
 0.0.0.0 ads.mail3x.com
@@ -3293,7 +3286,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.memob.com
 0.0.0.0 ads.metblogs.com
 0.0.0.0 ads.miarroba.com
-0.0.0.0 ads.millionairemate.com
 0.0.0.0 ads.milliyet.cubecdn.net
 0.0.0.0 ads.mindsetnetwork.com
 0.0.0.0 ads.mindviz.com
@@ -3399,7 +3391,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.rd.linksynergy.com
 0.0.0.0 ads.rdstore.com
 0.0.0.0 ads.realcastmedia.com
-0.0.0.0 ads.realcities.com
 0.0.0.0 ads.realmedia.de
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.reduxmediagroup.com
@@ -3425,7 +3416,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.ruralpress.com
 0.0.0.0 ads.samba.tv
 0.0.0.0 ads.samsung.com
-0.0.0.0 ads.satyamonline.com
 0.0.0.0 ads.scabee.com
 0.0.0.0 ads.schmoozecom.net
 0.0.0.0 ads.scott-sports.com
@@ -3478,7 +3468,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.stoiximan.gr
 0.0.0.0 ads.sumotorrent.com
 0.0.0.0 ads.superawesome.tv
-0.0.0.0 ads.svnt.com
 0.0.0.0 ads.swiftnews.com
 0.0.0.0 ads.sxx.com
 0.0.0.0 ads.sysmesh.com
@@ -3501,7 +3490,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.tmcs.net
 0.0.0.0 ads.tnt.tv
 0.0.0.0 ads.toplayaffiliates.com
-0.0.0.0 ads.topwam.com
 0.0.0.0 ads.toronto.com
 0.0.0.0 ads.track.net
 0.0.0.0 ads.tracking202.com
@@ -3514,7 +3502,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.tunein.com
 0.0.0.0 ads.tw.adsonar.com
 0.0.0.0 ads.uberads.com
-0.0.0.0 ads.uigc.net
 0.0.0.0 ads.ukclimbing.com
 0.0.0.0 ads.uknetguide.co.uk
 0.0.0.0 ads.ultimatesurrender.com
@@ -3553,7 +3540,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.waps.cn
 0.0.0.0 ads.watchmygf.net
 0.0.0.0 ads.watson.ch
-0.0.0.0 ads.web21.com
 0.0.0.0 ads.webfeat.com
 0.0.0.0 ads.webheat.com
 0.0.0.0 ads.webindia123.com
@@ -3612,7 +3598,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads1.performancingads.com
 0.0.0.0 ads1.realcities.com
 0.0.0.0 ads1.revenue.net
-0.0.0.0 ads1.speedbit.com
 0.0.0.0 ads1.tripod.com
 0.0.0.0 ads1.updated.com
 0.0.0.0 ads10.focalink.com
@@ -3647,10 +3632,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads2.realcities.com
 0.0.0.0 ads2.revenue.net
 0.0.0.0 ads2.servebom.com
-0.0.0.0 ads2.speedbit.com
 0.0.0.0 ads2.vasmg.com
 0.0.0.0 ads2.vortexmediagroup.com
-0.0.0.0 ads2.weblogssl.com
 0.0.0.0 ads2.zeusclicks.com
 0.0.0.0 ads20.focalink.com
 0.0.0.0 ads21.focalink.com
@@ -3676,7 +3659,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads3.freebannertrade.com
 0.0.0.0 ads3.haber3.com
 0.0.0.0 ads3.realcities.com
-0.0.0.0 ads3.speedbit.com
 0.0.0.0 ads31.vertamedia.com
 0.0.0.0 ads32.vertamedia.com
 0.0.0.0 ads33.vertamedia.com
@@ -3687,17 +3669,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads4.advance.net
 0.0.0.0 ads4.adviad.com
 0.0.0.0 ads4.realcities.com
-0.0.0.0 ads4.speedbit.com
 0.0.0.0 ads5.advance.net
 0.0.0.0 ads5.fxdepo.com
-0.0.0.0 ads5.speedbit.com
 0.0.0.0 ads6.advance.net
-0.0.0.0 ads6.speedbit.com
 0.0.0.0 ads7.advance.net
-0.0.0.0 ads7.speedbit.com
-0.0.0.0 ads8.speedbit.com
 0.0.0.0 ads82jad.cc
-0.0.0.0 ads9.speedbit.com
 0.0.0.0 adsaccount.appcpi.net
 0.0.0.0 adsadmin.corusradionetwork.com
 0.0.0.0 adsances.ero-advertising.com
@@ -4060,7 +4036,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adv-mydarkness.ggcorp.me
 0.0.0.0 adv-op2.joygames.me
 0.0.0.0 adv.0tub.com
-0.0.0.0 adv.440network.com
 0.0.0.0 adv.ad-splash.jp
 0.0.0.0 adv.addeluxe.jp
 0.0.0.0 adv.adflex.vn
@@ -6009,7 +5984,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alebilet.zamowienie-21m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-34m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-3f44xqv2dlf0znb86ryp1.com
-0.0.0.0 alebilet.zamowienie-3f44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-44m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-45m44xqv2dlf0znb86ryp1.com
 0.0.0.0 alebilet.zamowienie-45m44xqv2dlf0znb86ryp1.onl
@@ -29397,7 +29371,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 member.ad.org.vn
 0.0.0.0 members.commissionmonster.com
 0.0.0.0 members.iinet.net.au
-0.0.0.0 members.sexroulette.com
 0.0.0.0 memberservicesinc.122.2o7.net
 0.0.0.0 membership.dsinyplus.kckserver.com
 0.0.0.0 membership.update14632.clientview.com
@@ -35675,7 +35648,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 open.talk.igexin.com
 0.0.0.0 open4.com
 0.0.0.0 open8video.blob.core.windows.net
-0.0.0.0 openadext.tf1.fr
 0.0.0.0 openads.dimcab.com
 0.0.0.0 openads.nightlifemagazine.ca
 0.0.0.0 openads.smithmag.net
@@ -35742,7 +35714,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 optimalbotsolutions.com
 0.0.0.0 optimalgrowth.info
 0.0.0.0 optimamonday.click
-0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 optimize.adpushup.com
 0.0.0.0 optimize.indieclick.com
 0.0.0.0 optimize.innity.com
@@ -43220,7 +43191,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 spearheadcareer.com
 0.0.0.0 special-alerts.com
 0.0.0.0 specialforstrangers.blogspot.com
-0.0.0.0 specially4u.net
 0.0.0.0 specialsections.siteseer.ca
 0.0.0.0 specilized.com
 0.0.0.0 specjalniedlaciebie.com
@@ -48446,7 +48416,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vinted.vint-vint.com.de
 0.0.0.0 vinted.vinte1de.com
 0.0.0.0 vinted.vinted-order2012.shop
-0.0.0.0 vinted.vintedverify905217paypal.com
 0.0.0.0 vinted.zahlung13.de
 0.0.0.0 vinted.zahlung17.de
 0.0.0.0 vinted.zahlung172364.shop
