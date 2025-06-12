@@ -1361,7 +1361,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 781.metrd.site
 0.0.0.0 78265956.xyz
 0.0.0.0 78276.ussdns01.heketwe.com
-0.0.0.0 78276.ussdns02.heketwe.com
 0.0.0.0 784re0ikiuy7389ui2jer7teyui.pages.dev
 0.0.0.0 78843.hittail.com
 0.0.0.0 78901-8cf0d.api.pushwoosh.com
@@ -4942,7 +4941,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alebilet.oferta-9947599.icu
 0.0.0.0 alebilet.oferta-99482326.shop
 0.0.0.0 alebilet.oferta-9990049.shop
-0.0.0.0 alebilet.oferta-bilety-983823.shop
 0.0.0.0 alebilet.oferta0512852.cfd
 0.0.0.0 alebilet.oferta785124.sbs
 0.0.0.0 alebilet.oferta8357832.com
@@ -8063,7 +8061,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.96714xcv-3856zy.xyz
 0.0.0.0 allegrolokalnie.972689.cfd
 0.0.0.0 allegrolokalnie.97285.lol
-0.0.0.0 allegrolokalnie.980598.shop
 0.0.0.0 allegrolokalnie.9812412-id.buzz
 0.0.0.0 allegrolokalnie.98412-59125.sbs
 0.0.0.0 allegrolokalnie.9847-12895.xyz
@@ -14587,7 +14584,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cazaclii.com
 0.0.0.0 cb-investms.com
 0.0.0.0 cb.amazingcounters.com
-0.0.0.0 cb.dehatop.com
 0.0.0.0 cb.mdnhinc.com
 0.0.0.0 cb.mopub.com
 0.0.0.0 cb.sailthru.com
@@ -14795,7 +14791,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.beginads.com
 0.0.0.0 cdn.betgorebysson.club
 0.0.0.0 cdn.bidgear.com
-0.0.0.0 cdn.bidmatrixdsp.com
 0.0.0.0 cdn.bigmining.com
 0.0.0.0 cdn.bitmedianetwork.com
 0.0.0.0 cdn.bizible.com
@@ -15339,7 +15334,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cfd.heizanalytics.proxy121-1.com
 0.0.0.0 cfd.hspchart.com
 0.0.0.0 cfd.hugo-bitt.com
-0.0.0.0 cfd.hycm.finance
 0.0.0.0 cfd.ibnpa2321jfj324fn.c76rivk223ye448z6h.com
 0.0.0.0 cfd.iimperium-ltd.com
 0.0.0.0 cfd.imperium-ltd.com
@@ -15496,7 +15490,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 checkin-contr.shop
 0.0.0.0 checkout360now.net
 0.0.0.0 checkshuttercount.shop
-0.0.0.0 checls.dream.org.il
 0.0.0.0 cheerfulgamespark615.sbs
 0.0.0.0 cheerfulstepy4.cam
 0.0.0.0 cheerfultrekl2.cam
@@ -16175,7 +16168,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 co.dewrain.life
 0.0.0.0 co.rapidfinancekingdom.com
 0.0.0.0 co.vaicore.site
-0.0.0.0 co.vaicore.xyz
 0.0.0.0 co8ccj.cyou
 0.0.0.0 coachingbusinesschallenge.com
 0.0.0.0 coastalcapriclub.org
@@ -18535,7 +18527,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dm.tocdefd.com
 0.0.0.0 dmatica.it
 0.0.0.0 dmb-productions.com
-0.0.0.0 dmc.otarvesq.com
 0.0.0.0 dmcontactmanagement.122.2o7.net
 0.0.0.0 dmg.demdex.net
 0.0.0.0 dmp-log.yomedia.vn
@@ -19065,8 +19056,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dzerodixital.com
 0.0.0.0 dzi-portis.life
 0.0.0.0 dziendobry-polsat.pl
-0.0.0.0 dziennik-info.x9.eu
-0.0.0.0 dziennik-polski.x9.eu
 0.0.0.0 dzik2.com.pl
 0.0.0.0 dzikiiq.promq.top
 0.0.0.0 dzikiiw.promq.top
@@ -24912,7 +24901,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 infopulsehub.online
 0.0.0.0 informacja-dnia.com
 0.0.0.0 informacje-koncie.com
-0.0.0.0 informacje-naszemiasto.x9.eu
 0.0.0.0 informacjepowiattwojemiasto24.online
 0.0.0.0 informacjeszok24.blogspot.com
 0.0.0.0 informalbodega.com
@@ -26808,7 +26796,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kolloryfejsa.blogspot.com
 0.0.0.0 koloryfejsa.blogspot.com
 0.0.0.0 kolyxyy.autos
-0.0.0.0 kom.dehatop.com
 0.0.0.0 komachi.yomiuri.co.jp
 0.0.0.0 komaranodp.thatharo.com
 0.0.0.0 kombinacion.com
@@ -26893,7 +26880,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kryspublishing.com
 0.0.0.0 kryzixwave.xyz
 0.0.0.0 ks.5.p2l.info
-0.0.0.0 ks.dehatop.com
 0.0.0.0 ksi2trk.com
 0.0.0.0 ksmo.skin
 0.0.0.0 kt1lno.lat
@@ -28078,7 +28064,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 login.servicedetails.com.es
 0.0.0.0 login.servicesnl.se
 0.0.0.0 login.steampowered.company
-0.0.0.0 login.steamspowered.com.pl
 0.0.0.0 login.workshopcolor.com
 0.0.0.0 login.workshopcurator.com
 0.0.0.0 login.yahoo.com.id451295.com
@@ -29645,7 +29630,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mi3cd.com
 0.0.0.0 miajewelry.com
 0.0.0.0 miami.ero-advertising.com
-0.0.0.0 miasto-wiadomosci-24h.x9.eu
 0.0.0.0 mibaji.tech-fizz.com
 0.0.0.0 mic-c.metrd.site
 0.0.0.0 mic-cc.metrd.site
@@ -30863,8 +30847,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nasioc.us.intellitxt.com
 0.0.0.0 nasonex.1.p2l.info
 0.0.0.0 nasseconsult.com
-0.0.0.0 naszemiasto-fakty24.x9.eu
-0.0.0.0 naszemiasto-wiadomosci24.x9.eu
 0.0.0.0 nata.ero-advertising.com
 0.0.0.0 nataciondoshermanas.com
 0.0.0.0 nataliafenixart.blogspot.com
@@ -35507,7 +35489,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 online-poker.shengen.ru
 0.0.0.0 online-prod.zenmxapps.com
 0.0.0.0 online-store2.vip
-0.0.0.0 online.circumstance.life
 0.0.0.0 online.lettters.click
 0.0.0.0 online.miarroba.com
 0.0.0.0 online.mobify.net
@@ -35743,7 +35724,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 or.5.p2l.info
 0.0.0.0 or1ydh.icu
 0.0.0.0 or3xmi.lat
-0.0.0.0 ora.carlaarrabitoarchitetto.com
 0.0.0.0 oraclecom.112.2o7.net
 0.0.0.0 oracleglobal.112.2o7.net
 0.0.0.0 oralse.ca
@@ -35916,7 +35896,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 otsserver.com
 0.0.0.0 ottacknet.112.2o7.net
 0.0.0.0 ottdailytidingscom.112.2o7.net
-0.0.0.0 otto.store-google-play.com
 0.0.0.0 ougtafn0qris74.pl-dis.online
 0.0.0.0 ouitrek.com
 0.0.0.0 oulixx.com
@@ -38552,7 +38531,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 portal-mobillepayla.com
 0.0.0.0 portal.adbro.me
 0.0.0.0 portal2.org
-0.0.0.0 portalrandkowy.c.pl
 0.0.0.0 portbaby.com
 0.0.0.0 portdusoleil.fr
 0.0.0.0 portfoliobydesign.com
@@ -38623,7 +38601,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 powersitemainservfjr.org
 0.0.0.0 powertoolszone.site
 0.0.0.0 powertrfic.fr
-0.0.0.0 powiekszgo.c.pl
 0.0.0.0 poxo.widgetmart.st
 0.0.0.0 poxzta-polska.cfd
 0.0.0.0 poznaj-singielki.pl
@@ -40340,7 +40317,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 reverso.refr.adgtw.orangeads.fr
 0.0.0.0 revguroo.com
 0.0.0.0 revid.centech.glulive.com
-0.0.0.0 review-payment-document-april.factory-servicemanual.com
 0.0.0.0 review-request-awfbt.ondigitalocean.app
 0.0.0.0 reviewcentrecom.skimlinks.com
 0.0.0.0 reviewerbd.com
@@ -40403,7 +40379,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rhyzoseducacao.net
 0.0.0.0 ri.5.p2l.info
 0.0.0.0 ri.clickability.com
-0.0.0.0 ri.dehatop.com
 0.0.0.0 ri.nuggad.net
 0.0.0.0 ri.revolvermaps.com
 0.0.0.0 riaincallahan.com
@@ -42154,7 +42129,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 serwer-p8902.online
 0.0.0.0 serwerhomepl6292726295.blob.core.windows.net
 0.0.0.0 serwertmqjv20y.blob.core.windows.net
-0.0.0.0 serwisinformacyjny.x9.eu
 0.0.0.0 serwislaptopowwarszawa.com.pl
 0.0.0.0 serwisy.gremimedia.pl
 0.0.0.0 sesajai.com
@@ -46006,7 +45980,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 toofab.us.intellitxt.com
 0.0.0.0 tool.alinatraine.com
 0.0.0.0 tool.cleverads.vn
-0.0.0.0 tool.store-google-play.com
 0.0.0.0 toolbar.wibiya.com
 0.0.0.0 toolbar.wips.com
 0.0.0.0 toolbarwizard.vmn.net
@@ -47083,7 +47056,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 twoja-historia.24.eu
 0.0.0.0 twoja-wygrana.com
 0.0.0.0 twojdlug.pl
-0.0.0.0 twoje-miasto.x9.eu
 0.0.0.0 twoje-nagrody.com.pl
 0.0.0.0 twojepodatki.org
 0.0.0.0 twojszczesliwydzien.com
@@ -47508,7 +47480,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 uptobar.com
 0.0.0.0 uptodatecontent.net
 0.0.0.0 uqfpefw.vvzys.info
-0.0.0.0 ur.dehatop.com
 0.0.0.0 uralcoins.com
 0.0.0.0 urbact.fr
 0.0.0.0 urban.adspirit.de
@@ -48283,7 +48254,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vintagefleurs.blogspot.com
 0.0.0.0 vinted-cz.myoffer10.com
 0.0.0.0 vinted-dk.skemallp.shop
-0.0.0.0 vinted-es.service-get.info
 0.0.0.0 vinted-es.success-pay.com
 0.0.0.0 vinted-it.blizebos.shop
 0.0.0.0 vinted-it.koseboo.shop
@@ -49536,7 +49506,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wi8ege.icu
 0.0.0.0 wi9u5rmbrid04dv5j3c5qt0l.animalsaidz.com
 0.0.0.0 wiadomocentry.cfd
-0.0.0.0 wiadomosci-naszemiasto24.x9.eu
 0.0.0.0 wiadomosci-obywatelskie.website
 0.0.0.0 wiadomosci-spoleczne.site
 0.0.0.0 wiadomosci-web.24.eu
@@ -49709,7 +49678,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wissende.122.2o7.net
 0.0.0.0 wisteria-js.excite.co.jp
 0.0.0.0 wisudae5.pro
-0.0.0.0 witamina.c.pl
 0.0.0.0 witchscape.com
 0.0.0.0 withcam.com
 0.0.0.0 withleather.us.intellitxt.com
@@ -120860,12 +120828,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wx4mh.lat
 0.0.0.0 wy.5.p2l.info
 0.0.0.0 wy.adyboh.com
-0.0.0.0 wybielaniezebow.c.pl
-0.0.0.0 wydarzenia-24.x9.eu
-0.0.0.0 wydarzenia-naszemiasto-24.x9.eu
-0.0.0.0 wydarzenia-naszemiasto.x9.eu
-0.0.0.0 wydarzenia-naszemiasto24.x9.eu
-0.0.0.0 wydarzenia24.x9.eu
 0.0.0.0 wydawca.lead.network
 0.0.0.0 wygraj-samsunga.24.eu
 0.0.0.0 wyh.minncon.top
@@ -121098,7 +121060,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xvika.net
 0.0.0.0 xw2i6skl4uh3jrg.tvshna.pl
 0.0.0.0 xx.c.appier.net
-0.0.0.0 xx.dehatop.com
 0.0.0.0 xxcloud.corsazone.com
 0.0.0.0 xxidyzz.space
 0.0.0.0 xxsweety.com
@@ -121462,7 +121423,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zdarzeniawypadki24h.pl
 0.0.0.0 zdau-builder.122.2o7.net
 0.0.0.0 zdbb.netshelter.net
-0.0.0.0 zdjecienago2.c.pl
 0.0.0.0 zdnet.be.intellitxt.com
 0.0.0.0 ze.zeroredirect1.com
 0.0.0.0 ze.zeroredirect2.com
@@ -121471,7 +121431,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zeblogdefrancais.com
 0.0.0.0 zebranebula.site
 0.0.0.0 zebutal.1.p2l.info
-0.0.0.0 zebywybielanie.c.pl
 0.0.0.0 zee.cws.conviva.com
 0.0.0.0 zeedzap.com
 0.0.0.0 zeekadventure.com
@@ -121539,7 +121498,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zgarniij_vouchher.skroc.pl
 0.0.0.0 zgarnij-nagrode.com
 0.0.0.0 zgloszeniaiwypadki.pl
-0.0.0.0 zh.yomobi.net
 0.0.0.0 zh1.zeroredirect11.com
 0.0.0.0 zhivi.prostosdavai.top
 0.0.0.0 ziablov.com
