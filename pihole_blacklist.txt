@@ -2822,7 +2822,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adn.fusionads.net
 0.0.0.0 adn.plxnt.com
 0.0.0.0 adn.static-files.com
-0.0.0.0 adn.zone-telechargement.com
 0.0.0.0 adnayagreensolutions.com
 0.0.0.0 adnet.affinity.com
 0.0.0.0 adnet.pravda.com.ua
@@ -3333,7 +3332,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.offsidebet.com
 0.0.0.0 ads.ogdenpubs.com
 0.0.0.0 ads.online.ie
-0.0.0.0 ads.onvertise.com
 0.0.0.0 ads.open.pl
 0.0.0.0 ads.outpersonals.com
 0.0.0.0 ads.oxymoronent.com
@@ -5981,7 +5979,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alebilet.tvpinfo24.pl
 0.0.0.0 alebilet.zamowienie-21m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-34m44xqv2dlf0znb86ryp1.onl
-0.0.0.0 alebilet.zamowienie-3f44xqv2dlf0znb86ryp1.com
 0.0.0.0 alebilet.zamowienie-44m44xqv2dlf0znb86ryp1.onl
 0.0.0.0 alebilet.zamowienie-45m44xqv2dlf0znb86ryp1.com
 0.0.0.0 alebilet.zamowienie-45m44xqv2dlf0znb86ryp1.onl
@@ -11237,7 +11234,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 applipromotion.com
 0.0.0.0 applitezz.xyz
 0.0.0.0 applledld.com-nmnzxlh.info
-0.0.0.0 applog.matrix.easebar.com
 0.0.0.0 applovin-europe-rtb.liftoff.io
 0.0.0.0 applovin.com.edgekey.net
 0.0.0.0 applovin2-asia-imp.aarki.net
@@ -15312,7 +15308,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cfd.capital-x.net
 0.0.0.0 cfd.capitalerb.com
 0.0.0.0 cfd.capitalimmortalltd.com
-0.0.0.0 cfd.capitals-gain.com
 0.0.0.0 cfd.carreracapitallimited.proxy84-2.com
 0.0.0.0 cfd.celestialtrade.6kdvu69l3nxzgk7v765mevji3.com
 0.0.0.0 cfd.cryptotrustcap.com
@@ -36970,7 +36965,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.adblade.com
 0.0.0.0 pixel.adcrowd.com
 0.0.0.0 pixel.admedia.com
-0.0.0.0 pixel.admobclick.com
 0.0.0.0 pixel.adsniper.ru
 0.0.0.0 pixel.adsparc.net
 0.0.0.0 pixel.adssafeprotected.com
@@ -39615,7 +39609,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 r.clicktale.net
 0.0.0.0 r.crm0502.space
 0.0.0.0 r.eclick.vn
-0.0.0.0 r.edge.inmobicdn.com
 0.0.0.0 r.logrocket.io
 0.0.0.0 r.looksmart.com
 0.0.0.0 r.oblox.com.pl
@@ -40586,7 +40579,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rotorooterslo.com
 0.0.0.0 rottary.com
 0.0.0.0 rottentomatoes.fr
-0.0.0.0 round2025.blob.core.windows.net
 0.0.0.0 roundcubesharepoint-login.localto.net
 0.0.0.0 roundrobin-log.agoop.net
 0.0.0.0 roundtheclocknews.click
