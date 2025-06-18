@@ -16187,7 +16187,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 collector-9306.us.tvsquared.com
 0.0.0.0 collector-px8fcgygk4.px-cloud.net
 0.0.0.0 collector-pxel3l4xih.perimeterx.net
-0.0.0.0 collector.bughd.com
 0.0.0.0 collector.capturly.com
 0.0.0.0 collector.deepmetrix.com
 0.0.0.0 collector.doordash.com
@@ -35539,7 +35538,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 outils.yesmessenger.com
 0.0.0.0 outletdelmotormalaga.com
 0.0.0.0 outleteco.com
-0.0.0.0 outletsstar.com
 0.0.0.0 outofsightmedia.us.intellitxt.com
 0.0.0.0 outrageousandcontagiouslaughter.com
 0.0.0.0 outrageouscontagiouslaughter.com
@@ -44578,7 +44576,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 teapeandco.com
 0.0.0.0 teapocalypse.com
 0.0.0.0 tearbelt.com
-0.0.0.0 tearsofrabeekeeping.com
 0.0.0.0 teaujihiz.uk
 0.0.0.0 tebiwa.rhythmyspeak.com
 0.0.0.0 tec.sarl.tk
@@ -44743,7 +44740,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tenispro.fr
 0.0.0.0 tenlomejor.com
 0.0.0.0 tenmagazines.us.intellitxt.com
-0.0.0.0 tenncycles.com
 0.0.0.0 tennis.oewabox.at
 0.0.0.0 tensig.net
 0.0.0.0 tensinorum-new.org
@@ -44798,7 +44794,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tetra.hitbox.com
 0.0.0.0 tevcanarias.com
 0.0.0.0 tevendomipisoenmerida.com
-0.0.0.0 tevernisa.com
 0.0.0.0 tewxda71.secure.ne.jp
 0.0.0.0 tex-sync.rockyou.net
 0.0.0.0 tex.ero-advertising.com
@@ -44869,7 +44864,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 the-chunky-chef.org
 0.0.0.0 the-computer-repair-man.xyz
 0.0.0.0 the-corner-of-life.blogspot.com
-0.0.0.0 the-gryphon.com
 0.0.0.0 the-kret.popunder.ru
 0.0.0.0 the-motormate.org
 0.0.0.0 the-mvp-group.com
@@ -44884,7 +44878,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 theadoned.pics
 0.0.0.0 theadvertiser.us.intellitxt.com
 0.0.0.0 theagentsoracle.com
-0.0.0.0 theambedkar.com
 0.0.0.0 theatlantic.blueconic.net
 0.0.0.0 thebarbellgarage.com
 0.0.0.0 thebarremethod.com
@@ -44939,7 +44932,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 thediscoveryrun.com
 0.0.0.0 thedoctorgarden.com
 0.0.0.0 thedogwhispererdiaries.com
-0.0.0.0 thedolphindeals.com
 0.0.0.0 thedrpink.com
 0.0.0.0 thedstreetjournal.com
 0.0.0.0 theeldergeek.us.intellitxt.com
@@ -45011,7 +45003,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 themalloflimassol.com
 0.0.0.0 themanroom.us.intellitxt.com
 0.0.0.0 themaplemethod.com
-0.0.0.0 thembsolution.com
 0.0.0.0 themedifitness.com
 0.0.0.0 themembershipcoach.com
 0.0.0.0 thememecollection.com
@@ -45021,7 +45012,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 themgosaythemgohalla.com
 0.0.0.0 themillionaireinpjs.net
 0.0.0.0 theministryofhappiness.com
-0.0.0.0 themoonstarjournaling.com
 0.0.0.0 themuddybean.com
 0.0.0.0 themusicnetwork.co.uk
 0.0.0.0 thenewswire.fr
@@ -45053,7 +45043,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 thesearchster.com
 0.0.0.0 theshellabella.com
 0.0.0.0 theshemalesurvey.com
-0.0.0.0 theshopi.com
 0.0.0.0 theshopofthings.com
 0.0.0.0 theshoppersreports.com
 0.0.0.0 thesillyworks.com
@@ -45099,7 +45088,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 thewaltdisneyco.co
 0.0.0.0 thewelcominghome.org
 0.0.0.0 thewellson12.com
-0.0.0.0 thewilmereyeinstitute.com
 0.0.0.0 thewinecopywriters.com
 0.0.0.0 thewisevegan.com
 0.0.0.0 thewomenpedia.com
@@ -45180,7 +45168,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ticker.conduit.com
 0.0.0.0 ticket20.tripod.com
 0.0.0.0 ticketforchange.fr
-0.0.0.0 ticketinger.com
 0.0.0.0 tickets-steampowered.com
 0.0.0.0 ticketspy.fr
 0.0.0.0 ticks2.bugsense.com
@@ -45248,7 +45235,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 timerealsimple.112.2o7.net
 0.0.0.0 timespctenbest.122.2o7.net
 0.0.0.0 timesworld.lat
-0.0.0.0 timesyoung.com
 0.0.0.0 timeteenpeople.122.2o7.net
 0.0.0.0 timetraveltheory.online
 0.0.0.0 timewarner.122.2o7.net
@@ -45296,7 +45282,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tiucovn.com
 0.0.0.0 tiumbs.ero-advertising.com
 0.0.0.0 tizanidine.1.p2l.info
-0.0.0.0 tjenestetorget.net
 0.0.0.0 tjx.112.2o7.net
 0.0.0.0 tk.ads.mmondi.com
 0.0.0.0 tkclick.smardroid.com
@@ -45540,7 +45525,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tostaditas.com
 0.0.0.0 tot.facticprogi.site
 0.0.0.0 totalav.com
-0.0.0.0 totalbuilds.com
 0.0.0.0 totaldebrid.fr
 0.0.0.0 totaldermic.com
 0.0.0.0 totalfitnessweb.com
@@ -45558,10 +45542,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 tour.sweetdiscreet.com
 0.0.0.0 tour.xxxblackbook.com
 0.0.0.0 touraccesiblemalaga.com
-0.0.0.0 tourismcybersecurity.com
 0.0.0.0 tourismelenslievin.fr
 0.0.0.0 tournamentary.pro
-0.0.0.0 touroma.com
 0.0.0.0 tourxperience.com
 0.0.0.0 towerecords.com
 0.0.0.0 townhousefilms.com
@@ -45942,7 +45924,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tradeexchanging.com
 0.0.0.0 tradeffocus.click
 0.0.0.0 tradegridz.top
-0.0.0.0 tradeinn.fr
 0.0.0.0 tradem.com
 0.0.0.0 tradepayx.top
 0.0.0.0 tradeplapp.plawax.com
@@ -45987,7 +45968,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 trafsearchonline.com
 0.0.0.0 trailblazers.122.2o7.net
 0.0.0.0 traileraddict.us.intellitxt.com
-0.0.0.0 trailerairconditioner.com
 0.0.0.0 trailerservicescom.112.2o7.net
 0.0.0.0 tramadol.1.p2l.info
 0.0.0.0 tramadol.3.p2l.info
@@ -46286,7 +46266,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tssmotorc.shop
 0.0.0.0 tste.startribune.com
 0.0.0.0 tsukasa-ind.xyz
-0.0.0.0 tsumyshop.com
 0.0.0.0 tsxclub.us.intellitxt.com
 0.0.0.0 tt.bjqbzx8.za.com
 0.0.0.0 tt.fslbxc5.za.com
@@ -46387,7 +46366,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tuscontenidos.com
 0.0.0.0 tusdecimosdeloteria.net
 0.0.0.0 tuserteguia.com
-0.0.0.0 tusharwedssaloni.com
 0.0.0.0 tusit.pics
 0.0.0.0 tusita-gopmx.com
 0.0.0.0 tusregalicos.com
@@ -46622,7 +46600,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ufs.adkmob.com
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ug.whampl.top
-0.0.0.0 ugc-network.com
 0.0.0.0 ugccorner.net
 0.0.0.0 ugcrohk5jl3tsm.plus-show.lat
 0.0.0.0 uggirgthh.info
@@ -46630,7 +46607,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ugo.eu-adcenter.net
 0.0.0.0 uh.ggcpvxtlkd.es
 0.0.0.0 uh5eoq.lol
-0.0.0.0 uholdsandbox.com
 0.0.0.0 uhrencoterie.com
 0.0.0.0 uhrkanton.com
 0.0.0.0 ui.clevernt.com
@@ -46763,7 +46739,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 universbebe.com
 0.0.0.0 universe.send.microad.jp
 0.0.0.0 universeexpansion.space
-0.0.0.0 universehealinghub.com
 0.0.0.0 universidadabiertadeeuropa.com
 0.0.0.0 universidadabiertadeeuropa.net
 0.0.0.0 universidadabiertaeuropa.net
@@ -46779,7 +46754,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 unodieuxconnard.fr
 0.0.0.0 unonoticias.net
 0.0.0.0 unpx.lat
-0.0.0.0 unrealcommander.biz
 0.0.0.0 unrealcommander.com
 0.0.0.0 unrealcommander.org
 0.0.0.0 unrulywomen.com
@@ -47251,7 +47225,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vase-medicis.com
 0.0.0.0 vasha-reklama.com
 0.0.0.0 vasook.com
-0.0.0.0 vasslium.com
 0.0.0.0 vast-events-staging.inner-active.mobi
 0.0.0.0 vast-events.inner-active.mobi
 0.0.0.0 vast-pop-pao.mathtag.com
@@ -47266,7 +47239,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vast.vertamedia.com
 0.0.0.0 vast.w.inmobi.com
 0.0.0.0 vastdump-staging.adpushup.com
-0.0.0.0 vastreamlinecalifornia.com
 0.0.0.0 vastx.moatads.com
 0.0.0.0 vatdokumenty.blob.core.windows.net
 0.0.0.0 vault-encryption.com
@@ -48063,7 +48035,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vreamart.com
 0.0.0.0 vrefonl.shop
 0.0.0.0 vrfk886.com
-0.0.0.0 vrgrocermart.com
 0.0.0.0 vrikshajeevan.com
 0.0.0.0 vrl.m.conviva.com
 0.0.0.0 vrml-datax.icu
@@ -48097,7 +48068,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vu5xld.lat
 0.0.0.0 vuebello.com
 0.0.0.0 vuelveaserhumano.com
-0.0.0.0 vuhoteles.com
 0.0.0.0 vuittonu.com
 0.0.0.0 vukakuo.online
 0.0.0.0 vulcan-defence.com
@@ -48431,7 +48401,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 watchanime21.com
 0.0.0.0 watchingdarknessdescend.com
 0.0.0.0 watchvantage.com
-0.0.0.0 watchwrestling9.com
 0.0.0.0 water-bed.8p.org.uk
 0.0.0.0 waterdamagehomeinsuranceclaims.com
 0.0.0.0 waterfrontmedia.112.2o7.net
@@ -48550,7 +48519,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 web1b.netreflector.com
 0.0.0.0 web2.alphonso.tv
 0.0.0.0 web2.deja.com
-0.0.0.0 web3crypt.com
 0.0.0.0 web3poll.com
 0.0.0.0 web4.realtracker.com
 0.0.0.0 web4soft-free-seo-list.xyz
@@ -48676,7 +48644,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 weightlossgeneral.com
 0.0.0.0 weightuna.com
 0.0.0.0 weissflix.com
-0.0.0.0 weithel.com
 0.0.0.0 wekkbfthfng3vo583cfltssm.petsnows.com
 0.0.0.0 welblo.metplxx.com
 0.0.0.0 welbox.metplxx.com
@@ -49013,7 +48980,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 windowsphishingalert158.s3.amazonaws.com
 0.0.0.0 windwarddesignstudio.com
 0.0.0.0 wineenthusiastcom.112.2o7.net
-0.0.0.0 wineroutesmallorca.com
 0.0.0.0 winewomenfilmfestival.com
 0.0.0.0 winfluenze.com
 0.0.0.0 winfuture.de.intellitxt.com
@@ -49175,7 +49141,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 word-res.tuanguwen.com
 0.0.0.0 word-v1.tuanguwen.com
 0.0.0.0 wordcolonies.com
-0.0.0.0 wordgamescentral.com
 0.0.0.0 wordgarten.org
 0.0.0.0 wordmavenn.site
 0.0.0.0 wordscolony.com
@@ -49226,7 +49191,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 worldsgayestman.com
 0.0.0.0 worldtrack789.sbs
 0.0.0.0 worldtravelguide.uk.intellitxt.com
-0.0.0.0 worldtus.com
 0.0.0.0 worldwidefestival.fr
 0.0.0.0 worldwlde-express.com
 0.0.0.0 wormfresh.xyz
@@ -49241,7 +49205,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wosoxii.pics
 0.0.0.0 wota-tournament.com
 0.0.0.0 wow.ero-advertising.com
-0.0.0.0 wowcleaningcompany.com
 0.0.0.0 wowinterface.us.intellitxt.com
 0.0.0.0 wp-cdn.cityads.com
 0.0.0.0 wp-club.net
@@ -120330,7 +120293,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xhealthmobiltools.112.2o7.net
 0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
 0.0.0.0 ximiloy.pics
-0.0.0.0 ximprrove.top
 0.0.0.0 xinebye.pics
 0.0.0.0 xinghsi-material.com
 0.0.0.0 xisa.widgetmarkething.com
@@ -120419,7 +120381,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xtb24.com
 0.0.0.0 xtb24.info
 0.0.0.0 xtb24.online
-0.0.0.0 xtendpainting.com
 0.0.0.0 xtr.carambo.la
 0.0.0.0 xtrafic.ro
 0.0.0.0 xtrasizeoriginal.com.br
@@ -120538,7 +120499,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 yepaton.com
 0.0.0.0 yershousshow.xyz
 0.0.0.0 yesbakuflowers.com
-0.0.0.0 yesecoin.com
 0.0.0.0 yev.moviesdirectpro.com
 0.0.0.0 yexex.comfortykive.xyz
 0.0.0.0 yglhqwfi756kcu.dis-tv.fun
@@ -120613,7 +120573,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 yoursmartrewards.com
 0.0.0.0 yourspeakingpower.com
 0.0.0.0 yourstats.net
-0.0.0.0 yoursuccessfulbrand.com
 0.0.0.0 yoursuperservice.com
 0.0.0.0 yourtango.us.intellitxt.com
 0.0.0.0 yourtourpackage.com
@@ -120701,7 +120660,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zabka-casyno.casino-official-game.com
 0.0.0.0 zabka-kasyno.play-goog-max.com
 0.0.0.0 zabuk.click
-0.0.0.0 zaderun.com
 0.0.0.0 zads.zedo.com
 0.0.0.0 zafirmarbella.com
 0.0.0.0 zafiti01.webtrekk-us.net
@@ -120856,7 +120814,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zeruka.reviewssphere.com
 0.0.0.0 zesttyziing.xyz
 0.0.0.0 zesura-hawaje.website
-0.0.0.0 zetaffiliates.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zevents.com
 0.0.0.0 zew-wiosny.pl
