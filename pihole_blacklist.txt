@@ -20153,7 +20153,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 everythingisstory.com
 0.0.0.0 everythingxebony.com
 0.0.0.0 evesaddictin.com
-0.0.0.0 evevoip.com
 0.0.0.0 evidon.com
 0.0.0.0 evidon.com.edgekey.net
 0.0.0.0 eviebot.fr
@@ -20796,7 +20795,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fileshare-storage.com
 0.0.0.0 filestation.nocoshop.ru
 0.0.0.0 filestation.uploadbox.world
-0.0.0.0 filihd.pl
 0.0.0.0 filipelucio.com
 0.0.0.0 fillfox.xyz
 0.0.0.0 fillour.website
@@ -20812,7 +20810,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 filmserialeonlineee.blogspot.com
 0.0.0.0 filmstew.us.intellitxt.com
 0.0.0.0 filmthreat.us.intellitxt.com
-0.0.0.0 filmy-seriale.net
 0.0.0.0 filmy-za-free.blogspot.com
 0.0.0.0 filmyonlien.blogspot.com
 0.0.0.0 filmyonline-24.blogspot.com
@@ -21038,7 +21035,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fluxthread.online
 0.0.0.0 flw.ero-advertising.com
 0.0.0.0 flyenvirobuchu.space
-0.0.0.0 flyingatlas.com
 0.0.0.0 flyingmag.com.122.2o7.net
 0.0.0.0 flyingmag.us.intellitxt.com
 0.0.0.0 flytoasmile.com
@@ -21675,7 +21671,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gapizo.racepulse40.com
 0.0.0.0 gapl.hit.gemius.pl
 0.0.0.0 gar-tech.com
-0.0.0.0 garahisar.com
 0.0.0.0 garant.bos.ru
 0.0.0.0 garciaestelles.com
 0.0.0.0 garciaprints.com
@@ -21824,7 +21819,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gdyn.veryfunnyads.com
 0.0.0.0 gear2d.com
 0.0.0.0 gearedforliving.com
-0.0.0.0 gearmatch.com
 0.0.0.0 geartheworld.org
 0.0.0.0 gearupguilford.net
 0.0.0.0 geburtstermin-berechnen.online
@@ -21978,7 +21972,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 getinifinityinternet.com
 0.0.0.0 getlink-service.com
 0.0.0.0 getlink.pw
-0.0.0.0 getmoreauctions.com
 0.0.0.0 getmyfreegiftcard.com
 0.0.0.0 getnewstandard.site
 0.0.0.0 getpantherized.com
@@ -22347,7 +22340,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gohonyc.store
 0.0.0.0 goki.basspulse22.com
 0.0.0.0 gold-airhandling.com
-0.0.0.0 golddoorre.com
 0.0.0.0 goldencherry.xyz
 0.0.0.0 goldenlion.sg
 0.0.0.0 goldenpulsereport.site
@@ -23314,7 +23306,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hk567rsda.appspot.com
 0.0.0.0 hkrevolt.com
 0.0.0.0 hksdf924pzxoias.appspot.com
-0.0.0.0 hksunfaichit.com
 0.0.0.0 hl.tapystore.buzz
 0.0.0.0 hlcsm.com
 0.0.0.0 hleonard.com
@@ -23393,7 +23384,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 homedepot.tt.omtrdc.net
 0.0.0.0 homedepoy.com
 0.0.0.0 homedotco.com
-0.0.0.0 homeedish.com
 0.0.0.0 homefaktury.blob.core.windows.net
 0.0.0.0 homegymsweb.com
 0.0.0.0 homehre.bravehost.com
@@ -23466,7 +23456,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 horoscope.us.intellitxt.com
 0.0.0.0 horsewarery.top
 0.0.0.0 hospedajejavier.com
-0.0.0.0 hospedium.org
 0.0.0.0 hospitallosmadronos.com
 0.0.0.0 hospitalveterinariopuchol.net
 0.0.0.0 hospltalitym.com
@@ -23688,7 +23677,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hwr.wtrad.top
 0.0.0.0 hx.hexun.com
 0.0.0.0 hxtrack.holidayextras.co.uk
-0.0.0.0 hy-tec.com
 0.0.0.0 hybird.mtgglobals.com
 0.0.0.0 hybridclient.naiadsystems.com
 0.0.0.0 hybridization809.site
@@ -25273,7 +25261,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 itempana.site
 0.0.0.0 itfchoi.com
 0.0.0.0 itgirishtimesprod.112.2o7.net
-0.0.0.0 itgoshi.com
 0.0.0.0 itmedia.122.2o7.net
 0.0.0.0 itmune.pics
 0.0.0.0 itoman.doorblog.jp
@@ -25405,7 +25392,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jago89-login.com
 0.0.0.0 jahanpar.com
 0.0.0.0 jailbaits.top
-0.0.0.0 jainpetrolhzb.com
 0.0.0.0 jakartaculinary.com
 0.0.0.0 jakeludington.us.intellitxt.com
 0.0.0.0 jalvapic.com
@@ -25760,7 +25746,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jovmex.click
 0.0.0.0 joxami.site
 0.0.0.0 joxlq81sdtn5ic.dsn-oferty.fun
-0.0.0.0 joybilgi.com
 0.0.0.0 joycewall.com
 0.0.0.0 joydove.com
 0.0.0.0 joyeljoyas.com
@@ -26386,7 +26371,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 klikk.linkpulse.com
 0.0.0.0 klimbertrust.xyz
 0.0.0.0 klindafood.com
-0.0.0.0 klineinternational.com
 0.0.0.0 klipmart.forbes.com
 0.0.0.0 klk-njii2a.lol
 0.0.0.0 klkstrm.kargo.com
@@ -26430,7 +26414,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 knowyourmobile.uk.intellitxt.com
 0.0.0.0 knv.apeweae.top
 0.0.0.0 ko1vkg.hair
-0.0.0.0 ko66-bet.com
 0.0.0.0 ko6zuh.skin
 0.0.0.0 kobecreo.maxen.top
 0.0.0.0 kobecreotwo.maxen.top
@@ -26493,7 +26476,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kosmosenergy-benin.com
 0.0.0.0 kosterkeunen.net
 0.0.0.0 koszykrd.wp.pl
-0.0.0.0 kotetech.com
 0.0.0.0 kotoran.com
 0.0.0.0 koudas.alphonso.tv
 0.0.0.0 kourier-tpat.eks-prod-1b.vungle.com
@@ -27038,7 +27020,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 leieccge.newhealthsources.com
 0.0.0.0 leighties.fr
 0.0.0.0 leileigallery.com
-0.0.0.0 leisureholisticgroup.com
 0.0.0.0 lejija.testedforya.com
 0.0.0.0 lekarz-medfile.com
 0.0.0.0 lekkalaharish.com
@@ -28169,7 +28150,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 macenasys.xyz
 0.0.0.0 macgamefiles.us.intellitxt.com
 0.0.0.0 macguinessis.xyz
-0.0.0.0 machadopsi.com
 0.0.0.0 machautomations.com
 0.0.0.0 mackeeperapp.zeobit.com
 0.0.0.0 mackeeperapp1.zeobit.com
@@ -28334,7 +28314,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 malaysiacampaiingshope.online
 0.0.0.0 malcondiy.top
 0.0.0.0 malefontie.xyz
-0.0.0.0 malest.com
 0.0.0.0 malindifilmfestival.com
 0.0.0.0 maliovka.com
 0.0.0.0 malkiyyat.com
@@ -29369,10 +29348,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 minc.metrd.site
 0.0.0.0 mindcel.com
 0.0.0.0 mindenegybenblog.net
-0.0.0.0 mindfulmunchiesaz.com
 0.0.0.0 mindhatch.website
 0.0.0.0 mindlatch.site
-0.0.0.0 mindlessforminerva.com
 0.0.0.0 mindplume.online
 0.0.0.0 mindquark.site
 0.0.0.0 mindrelay.site
@@ -29785,7 +29762,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 monthdisco.xyz
 0.0.0.0 montrealgazette.stats.com
 0.0.0.0 montsaint-bruno.online
-0.0.0.0 monvoyagesenior.com
 0.0.0.0 monworx.net
 0.0.0.0 monyey.com
 0.0.0.0 moodoo.com.cn
@@ -30388,7 +30364,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 naglewypadki24h.pl
 0.0.0.0 naiadsystems.com
 0.0.0.0 naicourier.com
-0.0.0.0 nailsvillage.com
 0.0.0.0 naissaance.fr
 0.0.0.0 naja.prizetracker45.com
 0.0.0.0 najerajazz.com
@@ -30504,7 +30479,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 naturalparadisecosmetics.net
 0.0.0.0 naturalpath7.sbs
 0.0.0.0 naturephotographie.fr
-0.0.0.0 naturepiel.com
 0.0.0.0 natureworldnews.us.intellitxt.com
 0.0.0.0 naturofeels.com
 0.0.0.0 nauco-on.fr
@@ -31052,7 +31026,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nimbio.site
 0.0.0.0 nimeboo.pics
 0.0.0.0 nimes-olympique.fr
-0.0.0.0 nimviral.com
 0.0.0.0 ninawertz.pl
 0.0.0.0 nine-a.p.adnxs.com
 0.0.0.0 ninewestpolska.pl
@@ -35387,7 +35360,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 orinvest.xyz
 0.0.0.0 orion.iad.appboy.com
 0.0.0.0 orion.platino.gov.ve
-0.0.0.0 orionclinicabellezaspa.com
 0.0.0.0 orkan.com
 0.0.0.0 orktee.com
 0.0.0.0 orlandoinfocom.112.2o7.net
@@ -35697,7 +35669,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 painelhosp.com
 0.0.0.0 painolympics.info
 0.0.0.0 painolympics.org
-0.0.0.0 painreliefnarur.com
 0.0.0.0 paintball-gun.tripod.com
 0.0.0.0 paintballhistory.org
 0.0.0.0 paintballkillers.net
@@ -35784,7 +35755,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 panelist.placed.com
 0.0.0.0 panimi.fr
 0.0.0.0 panitak.com
-0.0.0.0 panmaa.com
 0.0.0.0 pannaraitherapy.com
 0.0.0.0 pantallashinchables.com
 0.0.0.0 pantaya.fr
@@ -38497,7 +38467,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 prolapseman.com
 0.0.0.0 proleskatop.xyz
 0.0.0.0 proletai.link
-0.0.0.0 prollox.com
 0.0.0.0 promart-ec.com
 0.0.0.0 prombid.com
 0.0.0.0 promexfy.ink
