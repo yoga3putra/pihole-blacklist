@@ -38780,7 +38780,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 purchasingpower.fr
 0.0.0.0 pure-solutions.info
 0.0.0.0 purebreedcanecorsohome.com
-0.0.0.0 purepods.fr
 0.0.0.0 pureupdate.cfd
 0.0.0.0 puroclean.com
 0.0.0.0 puroentrevero.com
@@ -39053,14 +39052,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 quickpwn.us.intellitxt.com
 0.0.0.0 quicksaledeal.su
 0.0.0.0 quickword.cfd
-0.0.0.0 quieretemejorcoach.com
 0.0.0.0 quiflo.top
 0.0.0.0 quik2link.com
 0.0.0.0 quinni.cyou
 0.0.0.0 quinoa-personal-identify-prod.sense360eng.com
 0.0.0.0 quinstreet.us.intellitxt.com
 0.0.0.0 quinterlink.com
-0.0.0.0 quirkdesignstudio.com
 0.0.0.0 quiropraxista.net
 0.0.0.0 quirozbuilderz.com
 0.0.0.0 quixylen.site
@@ -39327,7 +39324,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 readlogic.xyz
 0.0.0.0 readmastery.xyz
 0.0.0.0 readquick.xyz
-0.0.0.0 readyandwillin.com
 0.0.0.0 readyexpressions.com
 0.0.0.0 reaktywacjainformac.com
 0.0.0.0 real-estatescout.com
@@ -40009,9 +40005,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 romus.craftsman-nabeo.info
 0.0.0.0 rongistrvs.com
 0.0.0.0 ronswank.com
-0.0.0.0 roofrepairdelaware.com
 0.0.0.0 rooftoppigeons.com
-0.0.0.0 rooftopsalou.com
 0.0.0.0 roomierent.com
 0.0.0.0 rooms19821.world
 0.0.0.0 roomsattende882148.world
@@ -40857,7 +40851,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 scarylarry.com
 0.0.0.0 scatsmut.com
 0.0.0.0 scauthenticbrand.com
-0.0.0.0 scavengerswtf.com
 0.0.0.0 scc.ssacdn.com
 0.0.0.0 scdaz.holcom.top
 0.0.0.0 scdn.cxense.com
@@ -41695,7 +41688,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 shebudgets.us.intellitxt.com
 0.0.0.0 sheenasharmadating.com
 0.0.0.0 sheffield-printing.xyz
-0.0.0.0 sheilablog.com
 0.0.0.0 sheiterlogic.com
 0.0.0.0 shekerowe.de
 0.0.0.0 sheknows.us.intellitxt.com
@@ -41888,7 +41880,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sinesscoffee.com
 0.0.0.0 sinettrk.com
 0.0.0.0 sinfulsecretproductions.com
-0.0.0.0 singaporelawbot.com
 0.0.0.0 singaporemathematics.com
 0.0.0.0 singaporesandwichco.com
 0.0.0.0 single.upsight-api.com
@@ -41940,7 +41931,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sitesofa.za.com
 0.0.0.0 sitespectdata.112.2o7.net
 0.0.0.0 sitestat.com
-0.0.0.0 sitetrackedge.com
 0.0.0.0 sitholecreative.com
 0.0.0.0 sitkaclothing.com
 0.0.0.0 sitrion.fr
@@ -43446,7 +43436,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stemcommunuity.com
 0.0.0.0 stemncommunity.com
 0.0.0.0 stenmcommunty.com
-0.0.0.0 stentelrudolfadrian.com
 0.0.0.0 stenzzo.com
 0.0.0.0 step-service.crossinstall.io
 0.0.0.0 stepan007.popunder.ru
@@ -43754,7 +43743,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 superinterstitial.com
 0.0.0.0 superior400.site
 0.0.0.0 superlecker.info
-0.0.0.0 superlifeclub.com
 0.0.0.0 superlinks4u.com
 0.0.0.0 supermed.oewabox.at
 0.0.0.0 supernaturalart.com
@@ -44332,7 +44320,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tanio-najtaniej.com
 0.0.0.0 tanja-christina.blogspot.com
 0.0.0.0 tannoer.top
-0.0.0.0 tantra-madrid.com
 0.0.0.0 tantrayanaresorts.com
 0.0.0.0 taobaoafp.allyes.cn
 0.0.0.0 taodelagua.com
@@ -44525,7 +44512,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 techinnovators.space
 0.0.0.0 techkomventure.com
 0.0.0.0 techlearnsacademy.com
-0.0.0.0 techmorphism.com
 0.0.0.0 techms-shop.su
 0.0.0.0 technalloy.com
 0.0.0.0 technobuffalo.us.intellitxt.com
@@ -45011,7 +44997,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 thewaltdisneyco.co
 0.0.0.0 thewelcominghome.org
 0.0.0.0 thewellson12.com
-0.0.0.0 thewinecopywriters.com
 0.0.0.0 thewisevegan.com
 0.0.0.0 thewomenpedia.com
 0.0.0.0 theworldoftortoise.blogspot.com
@@ -45457,7 +45442,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 totszentmarton.hu
 0.0.0.0 toubkaltrekkingmarruecos.com
 0.0.0.0 touch.media-serving.com
-0.0.0.0 touchswitchshop.com
 0.0.0.0 touchtuner.com
 0.0.0.0 toulsremounts.xyz
 0.0.0.0 tour.affbuzzads.com
@@ -46641,8 +46625,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 unitdotto.club
 0.0.0.0 unitedcode.site
 0.0.0.0 unitedghostwriters.com
-0.0.0.0 unitedinourgoals.com
-0.0.0.0 unitedinourgoals.org
 0.0.0.0 unitedparcelgo.com
 0.0.0.0 unitedparcelservice.sc.omtrdc.net
 0.0.0.0 unitedreg.cc
@@ -47309,7 +47291,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vestyre.net
 0.0.0.0 vet-us-east-1.track.smaato.net
 0.0.0.0 veterinariamente.com
-0.0.0.0 veterinariarevolucionaria.com
 0.0.0.0 veterinarycharity.org
 0.0.0.0 vexlo-yield.net
 0.0.0.0 vexodu.rewardzonehub101.com
@@ -47738,7 +47719,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 virtualite.online
 0.0.0.0 virtualzenith.space
 0.0.0.0 virtuezmedia.com
-0.0.0.0 virturiomed.com
 0.0.0.0 vis.sexlist.com
 0.0.0.0 vis.vi-serve.com
 0.0.0.0 vis5.sexlist.com
@@ -47870,7 +47850,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vnumedia04.webtrekk.net
 0.0.0.0 vnunet.uk.intellitxt.com
 0.0.0.0 vocaloid-rank.xyz
-0.0.0.0 vod-disney.com
 0.0.0.0 vod-media-aka.warnermediacdn.com
 0.0.0.0 vod.topbucks.com
 0.0.0.0 vodafoneit.solution.weborama.fr
@@ -120369,7 +120348,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 yahoo.nuggad.net
 0.0.0.0 yahudagear.com
 0.0.0.0 yakovu.widgetmart.st
-0.0.0.0 yalla-letsgo.com
 0.0.0.0 yallastackz.com
 0.0.0.0 yamaha.122.2o7.net
 0.0.0.0 yanbalbeauty.com
@@ -120574,7 +120552,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 za.zeroredirect1.com
 0.0.0.0 za2.zeroredirect8.com
 0.0.0.0 zaaris.com
-0.0.0.0 zabafashion.net
 0.0.0.0 zabavazaodrasle.com
 0.0.0.0 zabbix.bidgear.com
 0.0.0.0 zabbix.symanteprotection.com
