@@ -7,6 +7,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 17 * * *'  # 12 malam WIB
+permissions:
+  contents: write
 jobs:
   run-filter:
     runs-on: ubuntu-latest
@@ -15,7 +17,7 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v3
       with:
-        token: ${{ secrets.GH_PAT }}
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Setup Python
       uses: actions/setup-python@v4
