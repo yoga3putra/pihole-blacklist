@@ -15226,7 +15226,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cds.adecn.com
 0.0.0.0 cds.connatix.com
 0.0.0.0 cds.taboola.com
-0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 cdslog.contextweb.com
 0.0.0.0 cdssdaw.endiim.com
 0.0.0.0 cdsusa.veinteractive.com
@@ -20820,7 +20819,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fbmt1.facepl.com
 0.0.0.0 fbnew.metfrpl.com
 0.0.0.0 fboftyubfx3zcgxeivnl5olkagob6ijn.terminalbetjp.xyz
-0.0.0.0 fbtoken.evai.pl
 0.0.0.0 fbweryfikacja123.blogspot.com
 0.0.0.0 fc-os.com
 0.0.0.0 fc78c4aa2d.d-plus.site
@@ -21359,9 +21357,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 forextrading.hut1.ru
 0.0.0.0 forextradingninja.com
 0.0.0.0 foribya.pro
-0.0.0.0 form-ap1-560957.public.500apps.org
 0.0.0.0 form-binance.com
-0.0.0.0 form-us1-561250.public.500apps.org
 0.0.0.0 formacioncampusautismo.com
 0.0.0.0 formacioncampusautismo.net
 0.0.0.0 formaciondepadel.com
@@ -24813,7 +24809,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 informativelibrary.info
 0.0.0.0 informazionicoronavirus.it
 0.0.0.0 informgridonline.info
-0.0.0.0 informje9.is-great.net
 0.0.0.0 informmelater.com
 0.0.0.0 inforyx.info
 0.0.0.0 infos-du-net.fr.intellitxt.com
@@ -25922,7 +25917,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jobreel.org
 0.0.0.0 jobwohn.oewabox.at
 0.0.0.0 jobzdk.nuggad.net
-0.0.0.0 jocoly.esvnpe.com
 0.0.0.0 jodansglobal.com
 0.0.0.0 jodybelisle.blogspot.com
 0.0.0.0 joe.freelogs.com
@@ -35885,7 +35879,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 padelmentoring.com
 0.0.0.0 paedaily.com
 0.0.0.0 paesdevesa.com
-0.0.0.0 pafiilate.byethost32.com
 0.0.0.0 pagafantascertificado.com
 0.0.0.0 page-store10.quest
 0.0.0.0 page-store9.quest
