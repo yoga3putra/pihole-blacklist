@@ -21664,7 +21664,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 funfunding.com
 0.0.0.0 fungizmos.st
 0.0.0.0 funkyfishfortlauderdale.com
-0.0.0.0 funkyvinobali.com
 0.0.0.0 funnel-assets.startappservice.com
 0.0.0.0 funnelbig.com
 0.0.0.0 funnelbooks.com
@@ -49277,7 +49276,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 withleather.us.intellitxt.com
 0.0.0.0 witskill.com
 0.0.0.0 wittegallery.com
-0.0.0.0 wittyclothier.com
 0.0.0.0 wixe.widgetmarkething.com
 0.0.0.0 wizardswoodworkshop.com
 0.0.0.0 wizhumpgyros.com
