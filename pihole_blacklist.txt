@@ -17147,7 +17147,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cryptotradenexus.com
 0.0.0.0 cryptovote.top
 0.0.0.0 cryptovotez.xyz
-0.0.0.0 cryptozabka.xcartpro.com
 0.0.0.0 crystalshift.store
 0.0.0.0 cs-dhl.com
 0.0.0.0 cs-kn.de
@@ -20034,7 +20033,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 err.izooto.com
 0.0.0.0 erranteclub.com
 0.0.0.0 errdoc.gabia.net
-0.0.0.0 erritz.xcartpro.com
 0.0.0.0 error-renewvod.com
 0.0.0.0 error.demdex.net
 0.0.0.0 error.fc2.com
@@ -20190,7 +20188,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eu-api.swrve.com
 0.0.0.0 eu-averydennison.com
 0.0.0.0 eu-carhartt.shop
-0.0.0.0 eu-central-1.appodeal.com
 0.0.0.0 eu-commercialb.com
 0.0.0.0 eu-content.swrve.com
 0.0.0.0 eu-cookie-law.info
