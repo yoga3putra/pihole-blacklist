@@ -4261,7 +4261,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 advisionwebp.yicha.jp
 0.0.0.0 advpic.yicha.jp
 0.0.0.0 advq.troove.top
-0.0.0.0 advrts.onelouder.com
 0.0.0.0 advs.adgorithms.com
 0.0.0.0 advshield.goforandroid.com
 0.0.0.0 advt.webindia123.com
@@ -7301,7 +7300,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-oferta9367127.icu
 0.0.0.0 allegro.pl-oferta9378696.shop
 0.0.0.0 allegro.pl-oferta941273.sbs
-0.0.0.0 allegro.pl-oferta941274.rest
 0.0.0.0 allegro.pl-oferta9413154.click
 0.0.0.0 allegro.pl-oferta9431404.cfd
 0.0.0.0 allegro.pl-oferta94365.cfd
