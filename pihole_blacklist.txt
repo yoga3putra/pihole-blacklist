@@ -23870,7 +23870,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 idspaces.ero-advertising.com
 0.0.0.0 idsync.reson8.com
 0.0.0.0 idsync.rlcdn.com
-0.0.0.0 idvipteam.com
 0.0.0.0 idwanaflow.xyz
 0.0.0.0 iedalo.fr
 0.0.0.0 ieeauditores.com
@@ -24868,7 +24867,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 interia-pl-eu.icu
 0.0.0.0 interia.account-euro.top
 0.0.0.0 interia.adsearch.adkontekst.pl
-0.0.0.0 interia.grupa-mailowa.top
 0.0.0.0 interia.grupamailowa.icu
 0.0.0.0 interia.grupamailowa.top
 0.0.0.0 interia.help-europe.life
@@ -25515,7 +25513,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jiwtmj.122.2o7.net
 0.0.0.0 jizahotimo.pro
 0.0.0.0 jizies.info
-0.0.0.0 jiztini.com
 0.0.0.0 jjcboe.org
 0.0.0.0 jjklk.meelou.top
 0.0.0.0 jjkopi.com
