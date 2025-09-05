@@ -3873,7 +3873,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adserve.postrelease.com
 0.0.0.0 adserve.profit-smart.com
 0.0.0.0 adserve.shopzilla.com
-0.0.0.0 adserve.viaarena.com
 0.0.0.0 adserve5.nikkeibp.co.jp
 0.0.0.0 adserver-2.ig.com.br
 0.0.0.0 adserver-4.ig.com.br
@@ -8375,7 +8374,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-6872328.cyou
 0.0.0.0 allegrolokalnie.oferta-6875513.icu
 0.0.0.0 allegrolokalnie.oferta-693933.icu
-0.0.0.0 allegrolokalnie.oferta-6977571.vip
 0.0.0.0 allegrolokalnie.oferta-6986549.shop
 0.0.0.0 allegrolokalnie.oferta-7072706.icu
 0.0.0.0 allegrolokalnie.oferta-7090236.icu
@@ -22231,7 +22229,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go.visionaryhub.life
 0.0.0.0 go.vtyfiken.sbs
-0.0.0.0 go.yobox.cloud
 0.0.0.0 go.youlamedia.com
 0.0.0.0 go.zbigniewlenard.com
 0.0.0.0 go1.aniview.com
@@ -22848,7 +22845,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 haso.pubmatic.com
 0.0.0.0 hasujyy.pics
 0.0.0.0 hata.ero-advertising.com
-0.0.0.0 hatdfg-rhgreh684.frge.io
 0.0.0.0 hatenoone.com
 0.0.0.0 hathor.eztonez.com
 0.0.0.0 hathucosmetic.com
@@ -23334,7 +23330,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 honeyholebaitshops.com
 0.0.0.0 honeyseduction.com
 0.0.0.0 honeyvn.com
-0.0.0.0 honfurniture.122.2o7.net
 0.0.0.0 hongkiat.us.intellitxt.com
 0.0.0.0 hongliujs-cn.com
 0.0.0.0 honolulu.app.ur.gcion.com
@@ -23799,7 +23794,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 id-871233.sbs
 0.0.0.0 id-cdn.effectivemeasure.net
 0.0.0.0 id-gmtdmp.mookie1.com
-0.0.0.0 id-unconfirmeduser.frge.io
 0.0.0.0 id.5.p2l.info
 0.0.0.0 id.adsplay.net
 0.0.0.0 id.analytics.glance.inmobi.com
@@ -24873,7 +24867,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 interia.mail-help.icu
 0.0.0.0 interia.mailowagrupa.top
 0.0.0.0 interia.support-konto.top
-0.0.0.0 interia.weryfikacjakontapoczty.top
 0.0.0.0 interiahelp-mail.biz
 0.0.0.0 interimairesssante.fr
 0.0.0.0 interiordesignerperth.com
@@ -29609,7 +29602,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mountainway.sbs
 0.0.0.0 mournesactivitycentre.com
 0.0.0.0 mousesteader.com
-0.0.0.0 moustafid.yobox.cloud
 0.0.0.0 mouthmasks.com
 0.0.0.0 mov-c.appli-info.com
 0.0.0.0 movbmog.ga
@@ -30652,7 +30644,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 newstoyoulive.world
 0.0.0.0 newstreampulse.top
 0.0.0.0 newsweekpolska.info
-0.0.0.0 newsyintera24.medianewsonline.com
 0.0.0.0 newtechengg.com
 0.0.0.0 newtod.website
 0.0.0.0 newtoday.uno
@@ -34762,7 +34753,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 onet.poczty-weryfikacja.tech
 0.0.0.0 onet.polandgrupapocztowa.top
 0.0.0.0 onet.system-pocztowy.tech
-0.0.0.0 onet.weryfikacjakontapoczty.top
 0.0.0.0 onet.weryfikacjakonto.top
 0.0.0.0 onetag-geo-grouping.s-onetag.com
 0.0.0.0 onetag-geo.onscroll.com
@@ -46087,7 +46077,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 u810.15.spylog.com
 0.0.0.0 u920.31.spylog.com
 0.0.0.0 u977.40.spylog.com
-0.0.0.0 ua-consumerpanel.frge.io
 0.0.0.0 ua-myfitnesspal.adsbynimbus.com
 0.0.0.0 ua.badongo.com
 0.0.0.0 ua.supersonicads.com
@@ -46368,7 +46357,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 update.tas.yieldmo.com
 0.0.0.0 update.wo.gumgum.com
 0.0.0.0 update.wtag.adaptv.advertising.com
-0.0.0.0 update.yobox.cloud
 0.0.0.0 update714.membership.louis-ip.com
 0.0.0.0 update714.membership.servernux.com
 0.0.0.0 updateapps.net
