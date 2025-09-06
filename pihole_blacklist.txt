@@ -12650,8 +12650,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 beacon.tunecore.com
 0.0.0.0 beacon.ztgame.com
 0.0.0.0 beacons.extremereach.io
-0.0.0.0 beacons.gcp.gvt2.com
-0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons2.gvt2.com
 0.0.0.0 beacons3.gvt2.com
 0.0.0.0 beacons4.gvt2.com
@@ -13175,7 +13173,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blanyo.com
 0.0.0.0 blastivex.com
 0.0.0.0 blastro.us.intellitxt.com
-0.0.0.0 blasze.com
 0.0.0.0 blatfee.ero-advertising.com
 0.0.0.0 blazeharbor.website
 0.0.0.0 blazemark.site
@@ -20380,7 +20377,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 facebookj.fr
 0.0.0.0 facebookkviewer.blogspot.com
 0.0.0.0 facebookloginsignin.com
-0.0.0.0 facebooktbtoolbar.ourtoolbar.com
 0.0.0.0 facebookunblocking.com
 0.0.0.0 faceboook-replyei0ki.montadalitihad.com
 0.0.0.0 faceit-connect.getportsid.com
@@ -24865,7 +24861,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 interia.grupamailowa.top
 0.0.0.0 interia.help-europe.life
 0.0.0.0 interia.mail-help.icu
-0.0.0.0 interia.mailowagrupa.top
 0.0.0.0 interia.support-konto.top
 0.0.0.0 interiahelp-mail.biz
 0.0.0.0 interimairesssante.fr
@@ -35754,7 +35749,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pcash.wildmatch.com
 0.0.0.0 pcblibraries.fr
 0.0.0.0 pcbutts1-therealtruth.blogspot.com
-0.0.0.0 pcbutts1.ourtoolbar.com
 0.0.0.0 pcbutts1.software.informer.com
 0.0.0.0 pccleaner-update.xyz
 0.0.0.0 pccleanerpro.com
