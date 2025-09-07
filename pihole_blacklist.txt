@@ -2342,7 +2342,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-image.val.jp
 0.0.0.0 ad-logging2.ap-northeast-2.elasticbeanstalk.com
 0.0.0.0 ad-monitor.kargo.com
-0.0.0.0 ad-sell.com
 0.0.0.0 ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 ad-shot.com
 0.0.0.0 ad-souk.com
@@ -7349,7 +7348,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-ogloszenia-telefony-5815.rest
 0.0.0.0 allegro.pl-ogloszenia2891.icu
 0.0.0.0 allegro.pl-ogloszenia2891.shop
-0.0.0.0 allegro.pl-ogloszenia78517.shop
 0.0.0.0 allegro.pl-ogloszenie-293281.rest
 0.0.0.0 allegro.pl-ogloszenie-72384.rest
 0.0.0.0 allegro.pl-ogloszenie-79283.sbs
@@ -8281,7 +8279,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-202822.sbs
 0.0.0.0 allegrolokalnie.oferta-205855.shop
 0.0.0.0 allegrolokalnie.oferta-2089365.icu
-0.0.0.0 allegrolokalnie.oferta-21789.shop
 0.0.0.0 allegrolokalnie.oferta-219252.cfd
 0.0.0.0 allegrolokalnie.oferta-2285958.cfd
 0.0.0.0 allegrolokalnie.oferta-2326166.icu
@@ -8444,7 +8441,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-97904052.cfd
 0.0.0.0 allegrolokalnie.oferta-9829890.icu
 0.0.0.0 allegrolokalnie.oferta-983722.cfd
-0.0.0.0 allegrolokalnie.oferta-9876269.shop
 0.0.0.0 allegrolokalnie.oferta-9947599.icu
 0.0.0.0 allegrolokalnie.oferta-99482326.shop
 0.0.0.0 allegrolokalnie.oferta-9990049.shop
@@ -9724,7 +9720,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-ogloszenia-proponowane-842.blog
 0.0.0.0 allegrolokalnie.pl-ogloszenia-telefony-5815.rest
 0.0.0.0 allegrolokalnie.pl-ogloszenia2891.icu
-0.0.0.0 allegrolokalnie.pl-ogloszenia78517.shop
 0.0.0.0 allegrolokalnie.pl-ogloszenie-293281.rest
 0.0.0.0 allegrolokalnie.pl-ogloszenie-72384.rest
 0.0.0.0 allegrolokalnie.pl-ogloszenie-79283.sbs
@@ -12436,7 +12431,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 banners.lottoelite.com
 0.0.0.0 banners.meccahoo.com
 0.0.0.0 banners.mellowads.com
-0.0.0.0 banners.millionairemate.com
 0.0.0.0 banners.mynakedweb.com
 0.0.0.0 banners.nbcupromotes.com
 0.0.0.0 banners.pennyweb.com
@@ -12822,7 +12816,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 beta.easyhitcounters.com
 0.0.0.0 beta.galleries.paperstreetcash.com
 0.0.0.0 beta.hotkeys.com
-0.0.0.0 beta.kaprila.com
 0.0.0.0 beta.newopenx.detik.com
 0.0.0.0 beta.oncustomer.asia
 0.0.0.0 beta.onfluencer.net
