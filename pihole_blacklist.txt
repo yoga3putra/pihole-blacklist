@@ -2435,7 +2435,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.egloos.com
 0.0.0.0 ad.ekonomikticaret.com
 0.0.0.0 ad.epochtimes.com
-0.0.0.0 ad.eporner.com
 0.0.0.0 ad.eurosport.com
 0.0.0.0 ad.fi.doubleclick.net
 0.0.0.0 ad.filmweb.pl
@@ -17694,7 +17693,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 deepvoidtheories.website
 0.0.0.0 deeranddeerhunting.shop
 0.0.0.0 def.5.p2l.info
-0.0.0.0 def.dev-nano.com
 0.0.0.0 default.exp-tas.com
 0.0.0.0 defaultdsp.admicro.vn
 0.0.0.0 defaultdsp.contineljs.com
@@ -30871,7 +30869,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 novaaxis360.com
 0.0.0.0 novaengine.online
 0.0.0.0 novafact.info
-0.0.0.0 novafinanza.com
 0.0.0.0 novainkasso.info
 0.0.0.0 novapulse.life
 0.0.0.0 novaqubit.online
@@ -42256,7 +42253,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sports.rightpundits.us.intellitxt.com
 0.0.0.0 sportsbutik-dk.top
 0.0.0.0 sportscarillustrated.us.intellitxt.com
-0.0.0.0 sportscatchup.com
 0.0.0.0 sportseve.com
 0.0.0.0 sportsillustrated.tags.crwdcntrl.net
 0.0.0.0 sportsnorthface.shop
@@ -43235,7 +43231,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sugasafe.org
 0.0.0.0 sugenyy.com
 0.0.0.0 suhunsoo.uk
-0.0.0.0 suibonus.com
 0.0.0.0 suicidaltendencies.fr
 0.0.0.0 suiomcpbwq.cfolks.pl
 0.0.0.0 suirco.com
@@ -47882,7 +47877,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 web.api.adtimaserver.vn
 0.0.0.0 web.bnclevel.com
 0.0.0.0 web.bscapital-ltd.com
-0.0.0.0 web.cab-tml.com
 0.0.0.0 web.cellfun.mobi
 0.0.0.0 web.defendergroupltd.com
 0.0.0.0 web.ghostglobaltd.com
@@ -119869,7 +119863,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 yhdnrjncdndswnrj.nl
 0.0.0.0 yhjmta.whampl.top
 0.0.0.0 yield-manager.browsiprod.com
-0.0.0.0 yiiep.com
 0.0.0.0 yildun.iad-03.appboy.com
 0.0.0.0 yimoju.gadgetscartcom.com
 0.0.0.0 ying.hitbox.com
@@ -119908,7 +119901,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 youliehow.com
 0.0.0.0 youmakeashion.fr
 0.0.0.0 youmakit.com
-0.0.0.0 younglust.to
 0.0.0.0 younglustforum.pw
 0.0.0.0 youngtree-partners.com
 0.0.0.0 your-gift-zone.com
