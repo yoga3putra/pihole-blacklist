@@ -6968,7 +6968,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-oferta2318924.icu
 0.0.0.0 allegro.pl-oferta2320592.shop
 0.0.0.0 allegro.pl-oferta23579.shop
-0.0.0.0 allegro.pl-oferta2379113.shop
 0.0.0.0 allegro.pl-oferta2393485.cfd
 0.0.0.0 allegro.pl-oferta2425.icu
 0.0.0.0 allegro.pl-oferta2428971.icu
@@ -8289,7 +8288,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-2932823.icu
 0.0.0.0 allegrolokalnie.oferta-3036743.icu
 0.0.0.0 allegrolokalnie.oferta-3136196.digital
-0.0.0.0 allegrolokalnie.oferta-3156512.shop
 0.0.0.0 allegrolokalnie.oferta-321452.icu
 0.0.0.0 allegrolokalnie.oferta-324543.icu
 0.0.0.0 allegrolokalnie.oferta-32862.shop
@@ -9243,7 +9241,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-oferta2320592.shop
 0.0.0.0 allegrolokalnie.pl-oferta23579.shop
 0.0.0.0 allegrolokalnie.pl-oferta2374020.icu
-0.0.0.0 allegrolokalnie.pl-oferta2379113.shop
 0.0.0.0 allegrolokalnie.pl-oferta2393485.cfd
 0.0.0.0 allegrolokalnie.pl-oferta2425.icu
 0.0.0.0 allegrolokalnie.pl-oferta2428971.icu
@@ -29008,7 +29005,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 milioner2023.pl
 0.0.0.0 military.us.intellitxt.com
 0.0.0.0 miliville.org
-0.0.0.0 milkfountain.com
 0.0.0.0 milleniaktywc2025.com
 0.0.0.0 millerderm.com
 0.0.0.0 millingknistand.com
