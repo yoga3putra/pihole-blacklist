@@ -7073,7 +7073,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-oferta5071921.icu
 0.0.0.0 allegro.pl-oferta5095356.shop
 0.0.0.0 allegro.pl-oferta5166835.cfd
-0.0.0.0 allegro.pl-oferta5182631.shop
 0.0.0.0 allegro.pl-oferta5191120.cfd
 0.0.0.0 allegro.pl-oferta5202863.shop
 0.0.0.0 allegro.pl-oferta5212941.icu
@@ -7268,7 +7267,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-oferta8913732.icu
 0.0.0.0 allegro.pl-oferta8929153.shop
 0.0.0.0 allegro.pl-oferta89371243.icu
-0.0.0.0 allegro.pl-oferta8942390.shop
 0.0.0.0 allegro.pl-oferta8943641.icu
 0.0.0.0 allegro.pl-oferta8949258.cfd
 0.0.0.0 allegro.pl-oferta8949730.shop
@@ -8250,7 +8248,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-130043212-pl-aukcja.icu
 0.0.0.0 allegrolokalnie.oferta-1343.icu
 0.0.0.0 allegrolokalnie.oferta-1576868.shop
-0.0.0.0 allegrolokalnie.oferta-163959.shop
 0.0.0.0 allegrolokalnie.oferta-1647686.icu
 0.0.0.0 allegrolokalnie.oferta-1670927.icu
 0.0.0.0 allegrolokalnie.oferta-1675.top
@@ -8513,7 +8510,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.ogloszenie-574826.shop
 0.0.0.0 allegrolokalnie.ogloszenie-5911742.shop
 0.0.0.0 allegrolokalnie.ogloszenie-671553.shop
-0.0.0.0 allegrolokalnie.ogloszenie-7219610.shop
 0.0.0.0 allegrolokalnie.ogloszenie-7375599.shop
 0.0.0.0 allegrolokalnie.ogloszenie-7449315.shop
 0.0.0.0 allegrolokalnie.ogloszenie-745115.shop
@@ -9377,7 +9373,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-oferta5071921.icu
 0.0.0.0 allegrolokalnie.pl-oferta5095356.shop
 0.0.0.0 allegrolokalnie.pl-oferta5166835.cfd
-0.0.0.0 allegrolokalnie.pl-oferta5182631.shop
 0.0.0.0 allegrolokalnie.pl-oferta5191120.cfd
 0.0.0.0 allegrolokalnie.pl-oferta5202863.shop
 0.0.0.0 allegrolokalnie.pl-oferta5212941.icu
@@ -9614,7 +9609,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-oferta8913732.icu
 0.0.0.0 allegrolokalnie.pl-oferta8929153.shop
 0.0.0.0 allegrolokalnie.pl-oferta89371243.icu
-0.0.0.0 allegrolokalnie.pl-oferta8942390.shop
 0.0.0.0 allegrolokalnie.pl-oferta8943641.icu
 0.0.0.0 allegrolokalnie.pl-oferta8949258.cfd
 0.0.0.0 allegrolokalnie.pl-oferta8949730.shop
@@ -20889,7 +20883,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-fe.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
-0.0.0.0 fls-na.amazon.com
 0.0.0.0 fls.au.doubleclick.net
 0.0.0.0 fls.uk.doubleclick.net
 0.0.0.0 flttracksecure.com
@@ -42797,7 +42790,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.avast.com
 0.0.0.0 stats.aws.rubiconproject.com
 0.0.0.0 stats.bannersnack.com
-0.0.0.0 stats.becu.org
 0.0.0.0 stats.canalblog.com
 0.0.0.0 stats.cityadstrack.com
 0.0.0.0 stats.clickability.com
