@@ -2555,7 +2555,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.thisav.com
 0.0.0.0 ad.tom.com
 0.0.0.0 ad.track.us.org
-0.0.0.0 ad.trafficmp.com
 0.0.0.0 ad.traffique.net
 0.0.0.0 ad.trident.net
 0.0.0.0 ad.triplemind.com
@@ -3386,7 +3385,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.intellicast.com
 0.0.0.0 ads.intentiq.com
 0.0.0.0 ads.inviziads.com
-0.0.0.0 ads.ireel.com
 0.0.0.0 ads.ireport.com
 0.0.0.0 ads.iwangmedia.com
 0.0.0.0 ads.iwannawatch.to
@@ -6715,7 +6713,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-928592.cfd
 0.0.0.0 allegro.pl-93045492.sbs
 0.0.0.0 allegro.pl-9385940.icu
-0.0.0.0 allegro.pl-938596.rest
 0.0.0.0 allegro.pl-9402394.shop
 0.0.0.0 allegro.pl-9423192137.cfd
 0.0.0.0 allegro.pl-94296953.cfd
@@ -7136,7 +7133,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-oferta65483.rest
 0.0.0.0 allegro.pl-oferta658364.com
 0.0.0.0 allegro.pl-oferta6647915.cfd
-0.0.0.0 allegro.pl-oferta6670794.shop
 0.0.0.0 allegro.pl-oferta6721554.shop
 0.0.0.0 allegro.pl-oferta6723664.shop
 0.0.0.0 allegro.pl-oferta674203.sbs
@@ -8059,7 +8055,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.20839047.xyz
 0.0.0.0 allegrolokalnie.2096732.online
 0.0.0.0 allegrolokalnie.2354-katlegorie-ogrodove-986yc.xyz
-0.0.0.0 allegrolokalnie.2841-94219-48124.shop
 0.0.0.0 allegrolokalnie.2952031.xyz
 0.0.0.0 allegrolokalnie.30961257.xyz
 0.0.0.0 allegrolokalnie.3842027.xyz
@@ -8238,7 +8233,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-05381762.cfd
 0.0.0.0 allegrolokalnie.oferta-1025612.cfd
 0.0.0.0 allegrolokalnie.oferta-1050135.icu
-0.0.0.0 allegrolokalnie.oferta-105754.shop
 0.0.0.0 allegrolokalnie.oferta-1151911.icu
 0.0.0.0 allegrolokalnie.oferta-1205672.sbs
 0.0.0.0 allegrolokalnie.oferta-1235623.shop
@@ -8521,7 +8515,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.ogloszenie-8711318.shop
 0.0.0.0 allegrolokalnie.ogloszenie-8734892.shop
 0.0.0.0 allegrolokalnie.ogloszenie-9029975.shop
-0.0.0.0 allegrolokalnie.ogloszenie-9070954.shop
 0.0.0.0 allegrolokalnie.ogloszenie-9908905.shop
 0.0.0.0 allegrolokalnie.okazje-proponowane-9841.icu
 0.0.0.0 allegrolokalnie.p-582757.sbs
@@ -8868,7 +8861,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-93045492.sbs
 0.0.0.0 allegrolokalnie.pl-93859.cfd
 0.0.0.0 allegrolokalnie.pl-9385940.icu
-0.0.0.0 allegrolokalnie.pl-938596.rest
 0.0.0.0 allegrolokalnie.pl-9402394.shop
 0.0.0.0 allegrolokalnie.pl-941841.xyz
 0.0.0.0 allegrolokalnie.pl-94296953.cfd
@@ -9442,7 +9434,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-oferta658364.com
 0.0.0.0 allegrolokalnie.pl-oferta6647915.cfd
 0.0.0.0 allegrolokalnie.pl-oferta665890.com
-0.0.0.0 allegrolokalnie.pl-oferta6670794.shop
 0.0.0.0 allegrolokalnie.pl-oferta6721554.shop
 0.0.0.0 allegrolokalnie.pl-oferta6723664.shop
 0.0.0.0 allegrolokalnie.pl-oferta674203.sbs
@@ -22469,7 +22460,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 grtb-nj.lfstmedia.com
 0.0.0.0 grtb-sc.lfstmedia.com
 0.0.0.0 grubalerts.com
-0.0.0.0 grupasgb24.611357.com
 0.0.0.0 grupo-bma.online
 0.0.0.0 grupobanat.com
 0.0.0.0 grupoeam.com
@@ -25616,7 +25606,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.livehelper.com
 0.0.0.0 js.logentries.com
 0.0.0.0 js.matheranalytics.com
-0.0.0.0 js.medi-8.net
 0.0.0.0 js.mediad2.jp
 0.0.0.0 js.mediams.mb.softbank.jp
 0.0.0.0 js.mediaz.asia
@@ -28693,7 +28682,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mesotherapy.jino-net.ru
 0.0.0.0 message-authentication-processing.freewebhostmost.com
 0.0.0.0 message.compl.online
-0.0.0.0 message.freestorageupgrade.top
 0.0.0.0 messagent.duvalguillaume.com
 0.0.0.0 messagerie-lcl.fr
 0.0.0.0 messagetag.com
@@ -33350,7 +33338,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.pl-4e56g7456fd3456.sbs
 0.0.0.0 olx.pl-4eg5.icu
 0.0.0.0 olx.pl-5185.cfd
-0.0.0.0 olx.pl-5313.icu
 0.0.0.0 olx.pl-53467437.icu
 0.0.0.0 olx.pl-54134.icu
 0.0.0.0 olx.pl-543076.icu
@@ -33421,7 +33408,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.pl-763.cfd
 0.0.0.0 olx.pl-76511.icu
 0.0.0.0 olx.pl-76982.icu
-0.0.0.0 olx.pl-7829.cfd
 0.0.0.0 olx.pl-7839.cfd
 0.0.0.0 olx.pl-7858761.cfd
 0.0.0.0 olx.pl-7858761.cyou
@@ -33437,7 +33423,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.pl-831.cfd
 0.0.0.0 olx.pl-83256.cfd
 0.0.0.0 olx.pl-83424.cfd
-0.0.0.0 olx.pl-8372.cfd
 0.0.0.0 olx.pl-84232.icu
 0.0.0.0 olx.pl-84382019.rest
 0.0.0.0 olx.pl-847634.rest
@@ -36089,7 +36074,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.adblade.com
 0.0.0.0 pixel.adcrowd.com
 0.0.0.0 pixel.admedia.com
-0.0.0.0 pixel.admobclick.com
 0.0.0.0 pixel.adsniper.ru
 0.0.0.0 pixel.adsparc.net
 0.0.0.0 pixel.adssafeprotected.com
@@ -37899,7 +37883,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 prizequeen.com
 0.0.0.0 prizes.co.uk
 0.0.0.0 prizesfu74.life
-0.0.0.0 prjcq.com
 0.0.0.0 prmqe2t4vs7bxa.dis-pl.lat
 0.0.0.0 prmvz.net
 0.0.0.0 pro-accesssoires.fr
@@ -42318,7 +42301,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 srtandawerkicfaj2025.985753.com
 0.0.0.0 srtnadwerkicfja17.543558.com
 0.0.0.0 srtnadwerkicfja17.699539.com
-0.0.0.0 srtndawtikcj.611357.info
 0.0.0.0 srtndawtikcj.899110.info
 0.0.0.0 srv-us.znaptag.com
 0.0.0.0 srv.adengage.com
@@ -43064,7 +43046,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 store-sale-liquidation.com
 0.0.0.0 store.communitychartcreate.com
 0.0.0.0 store.communitydesignwork.com
-0.0.0.0 store.freestorageupgrade.top
 0.0.0.0 store.share-hodgson.org
 0.0.0.0 store.workshopcurator.com
 0.0.0.0 storecor.net
