@@ -822,7 +822,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 1m50kxe4sz2wynp.njria2.pl
 0.0.0.0 1m50kxe4sz2wynp.ntvspa.pl
 0.0.0.0 1m50kxe4sz2wynp.plntfxauto.pl
-0.0.0.0 1man2needles.com
 0.0.0.0 1mpost.18915487.xyz
 0.0.0.0 1mpost.48915487.xyz
 0.0.0.0 1nl.cqcounter.com
@@ -7414,7 +7413,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-rezerwacja09184.click
 0.0.0.0 allegro.pl-rezerwacja3638.icu
 0.0.0.0 allegro.pl-rezerwacja6530907.icu
-0.0.0.0 allegro.pl-rezerwacja9112893.shop
 0.0.0.0 allegro.pl-sll-kup-8075bf329fd4509c.icu
 0.0.0.0 allegro.pl-uzywane-inne-42333.cfd
 0.0.0.0 allegro.pl-uzywane-inne-545431.cfd
@@ -8233,7 +8231,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-1050135.icu
 0.0.0.0 allegrolokalnie.oferta-1151911.icu
 0.0.0.0 allegrolokalnie.oferta-1205672.sbs
-0.0.0.0 allegrolokalnie.oferta-1235623.shop
 0.0.0.0 allegrolokalnie.oferta-124125.icu
 0.0.0.0 allegrolokalnie.oferta-125822.cyou
 0.0.0.0 allegrolokalnie.oferta-1296373.icu
@@ -9795,7 +9792,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-rezerwacja09184.click
 0.0.0.0 allegrolokalnie.pl-rezerwacja3638.icu
 0.0.0.0 allegrolokalnie.pl-rezerwacja6530907.icu
-0.0.0.0 allegrolokalnie.pl-rezerwacja9112893.shop
 0.0.0.0 allegrolokalnie.pl-sll-kup-8075bf329fd4509c.icu
 0.0.0.0 allegrolokalnie.pl-smart-aukcja24h.shop
 0.0.0.0 allegrolokalnie.pl-uuu.icu
