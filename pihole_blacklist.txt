@@ -1046,7 +1046,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 2mdn.info
 0.0.0.0 2mj.pl
 0.0.0.0 2mj5pqwfh0sg9a.diruwa.pl
-0.0.0.0 2no.co
 0.0.0.0 2p9fyvx.com
 0.0.0.0 2pd.cybxersphere.ru
 0.0.0.0 2perc.info
@@ -12623,7 +12622,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 beboveneno.com
 0.0.0.0 bebuild.org
 0.0.0.0 becali.net
-0.0.0.0 beckybeaver.com
 0.0.0.0 becomegorgeous.us.intellitxt.com
 0.0.0.0 becomeiguana.com
 0.0.0.0 becyzay.online
@@ -12866,10 +12864,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 bidtraffic.com
 0.0.0.0 biedr0nkafans.blogspot.com
 0.0.0.0 biedronka-fans.blogspot.com
-0.0.0.0 biedronka-zamyka-sklepy.24.eu
 0.0.0.0 biedronka.iecned.top
 0.0.0.0 biedronkafans2025.blogspot.com
-0.0.0.0 biedronkowe-karty.24.eu
 0.0.0.0 bienestar-docente.com
 0.0.0.0 bienestarsaludintegrativa.com
 0.0.0.0 big.freetheme.top
@@ -13308,7 +13304,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bonkmillenniium.authw.net
 0.0.0.0 bonn.berlin
 0.0.0.0 bonneville.112.2o7.net
-0.0.0.0 bonswiateczny.24.eu
 0.0.0.0 bonthedeleonecapital.com
 0.0.0.0 bonthedeleonedevelopment.com
 0.0.0.0 bontho.com
@@ -13351,14 +13346,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 booking.guest-stolen.com
 0.0.0.0 booking.guest-verification.com
 0.0.0.0 booking.guestdocfound.com
-0.0.0.0 booking.guestidreviews.com
-0.0.0.0 booking.guests-reservid.com
 0.0.0.0 booking.invitation-prop58746952.homes
 0.0.0.0 booking.invitation-reservation-35159124-guests-properties-4727351.homes
-0.0.0.0 booking.itemsidguest.com
 0.0.0.0 booking.order-session684.world
 0.0.0.0 booking.parteet-id539847.com
-0.0.0.0 booking.partner-id345871.com
 0.0.0.0 booking.partner-id365411.com
 0.0.0.0 booking.rescomunicationshow.com
 0.0.0.0 booking.reserv-confirms-vrf-it.com
@@ -15771,7 +15762,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clorec4.net
 0.0.0.0 closerfoster.xyz
 0.0.0.0 closetlondon.org
-0.0.0.0 clothesshelf.com
 0.0.0.0 cloud-based-service.us-south.cf.appdomain.cloud
 0.0.0.0 cloud-emea.analytics-egain.com
 0.0.0.0 cloud-observer.ip-label.net
@@ -17333,7 +17323,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 darknagar.ru
 0.0.0.0 darkskysociety.top
 0.0.0.0 darlamack.us.intellitxt.com
-0.0.0.0 darmowe-bony.24.eu
 0.0.0.0 darmowe-liczniki.info
 0.0.0.0 darmowedoladowania25.blogspot.com
 0.0.0.0 darmowefilmyhd.blogspot.com
@@ -17830,7 +17819,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 designweekmalaga.com
 0.0.0.0 desk.mspaceads.com
 0.0.0.0 desk.opt.fimserve.com
-0.0.0.0 despideatujefe.net
 0.0.0.0 despina.dmkeliteblog.info
 0.0.0.0 dessertstudioacademy.com
 0.0.0.0 dest.modestsunf.com
@@ -17839,7 +17827,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 destructoid.us.intellitxt.com
 0.0.0.0 deszczowka24.pl
 0.0.0.0 deta.ero-advertising.com
-0.0.0.0 details-update.com
 0.0.0.0 detaranco.com
 0.0.0.0 detecfuga.com
 0.0.0.0 detect-survey.effectivemeasure.net
@@ -18235,7 +18222,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dnps.us.intellitxt.com
 0.0.0.0 dns-info.dyndns.pro
 0.0.0.0 dns-upload.com
-0.0.0.0 dns.0pengl.com
 0.0.0.0 dns2.net1.it
 0.0.0.0 dnsbak.mediaz.vn
 0.0.0.0 dnsclocknow.com
@@ -18982,7 +18968,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ecenntral.com
 0.0.0.0 ecess1.cdn.continent8.com
 0.0.0.0 ecestats.theglobeandmail.com
-0.0.0.0 echo-dnia.24.eu
 0.0.0.0 echo.teasernet.ru
 0.0.0.0 echoalert.cfd
 0.0.0.0 echoatlas.site
@@ -21021,10 +21006,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 fota5s.adups.cn
 0.0.0.0 fota5t.adups.cn
 0.0.0.0 fota5tbk.adups.com
-0.0.0.0 fotaonline.24.eu
 0.0.0.0 fotbalstyle.com
 0.0.0.0 foto-filmproduktion.com
-0.0.0.0 foto-zdjecia.24.eu
 0.0.0.0 fotofresh.com
 0.0.0.0 fotograma3.com
 0.0.0.0 fotolog.crwdcntrl.net
@@ -21513,7 +21496,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gax.siraran.com
 0.0.0.0 gayedaproperty.net
 0.0.0.0 gayworldcongress.com
-0.0.0.0 gazeta-polska.24.eu
 0.0.0.0 gazetapl-wia.icu
 0.0.0.0 gazia.fr
 0.0.0.0 gb-gmtdmp.mookie1.com
@@ -24281,7 +24263,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 influai.net
 0.0.0.0 influencers.tapinfluence.com
 0.0.0.0 influenciademarca.com
-0.0.0.0 info-polska.24.eu
 0.0.0.0 info-ro.com
 0.0.0.0 info-sectes.fr
 0.0.0.0 info-trendly.info
@@ -25671,7 +25652,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jumbohomeloan.net
 0.0.0.0 jumboqualify.net
 0.0.0.0 jumcna.cjt1.net
-0.0.0.0 jump.aragontrack.com
 0.0.0.0 jump.ewoss.net
 0.0.0.0 jumpinwithbothfeet.com
 0.0.0.0 jumplowerth.xyz
@@ -25837,12 +25817,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 kartmet.metplxx.com
 0.0.0.0 kartmet.opnteseu.com
 0.0.0.0 kartwhat.opnlibreu.com
-0.0.0.0 karty-biedronkowe.24.eu
 0.0.0.0 kas-clubs.com
 0.0.0.0 kashflowpositive.com
 0.0.0.0 kashmanent.com
 0.0.0.0 kashmirmunch.com
-0.0.0.0 kasia-czat.24.eu
 0.0.0.0 kaskus4drtpbless.com
 0.0.0.0 kaskus4drtpdiamond.com
 0.0.0.0 kaskus4drtpnice.com
@@ -26149,7 +26127,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 koneomobiledsp.com
 0.0.0.0 konfdek.com
 0.0.0.0 konicaminoltahd.122.2o7.net
-0.0.0.0 konkurskauffland.24.eu
 0.0.0.0 konnect.videoplaza.tv
 0.0.0.0 konstructhor.com
 0.0.0.0 konto.otodom.site
@@ -26442,7 +26419,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 landingpages.sunnytoolz.com
 0.0.0.0 landings.trafficz.com
 0.0.0.0 landings.twin.com
-0.0.0.0 landingtor.com
 0.0.0.0 landolakescomprod.112.2o7.net
 0.0.0.0 landrovergaragedubai.com
 0.0.0.0 landscapefoo.online
@@ -28522,7 +28498,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mediterraneanroom.org
 0.0.0.0 mediterraneansummerwedding.com
 0.0.0.0 medivance247.com
-0.0.0.0 medlightcr.com
 0.0.0.0 medplanadvisers.com
 0.0.0.0 medpop.oewabox.at
 0.0.0.0 medscapedfp285029738901.s.moatpixel.com
@@ -29447,7 +29422,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 moviestarpllanet.fr
 0.0.0.0 moviestreams.club
 0.0.0.0 movieszonex.com
-0.0.0.0 moviewatchsite.com
 0.0.0.0 movieweb.us.intellitxt.com
 0.0.0.0 movimientovip.com
 0.0.0.0 movingtousa.com
@@ -29934,7 +29908,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 na.v7.cdn.onthe.io
 0.0.0.0 na4qbj.cyou
 0.0.0.0 nabilacengal.blogspot.com
-0.0.0.0 nadegrees.com
 0.0.0.0 nadiakronflidesigns.com
 0.0.0.0 nafacco.com
 0.0.0.0 nafipyo.online
@@ -30457,7 +30430,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 newstoyoulive.world
 0.0.0.0 newstreampulse.top
 0.0.0.0 newsweekpolska.info
-0.0.0.0 newtechengg.com
 0.0.0.0 newtod.website
 0.0.0.0 newtoday.uno
 0.0.0.0 newtontool.ca
@@ -31273,7 +31245,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ocx.umeng.com
 0.0.0.0 od1vyt.lol
 0.0.0.0 od3irvheufiojsmiouyegruafdjk.pages.dev
-0.0.0.0 odbieramy-karty.24.eu
 0.0.0.0 odd-onead.cdn.hinet.net
 0.0.0.0 oddbanner.bet-at-home.com
 0.0.0.0 oddpossum.com
@@ -36217,7 +36188,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-cnt8g2ny9353noycg35.cyou
 0.0.0.0 pl-dvftg567gfrt.icu
 0.0.0.0 pl-dwxe4.icu
-0.0.0.0 pl-engine.intextad.net
 0.0.0.0 pl-eroprostin.relty-goods.com
 0.0.0.0 pl-eroxent.fiven-goods.com
 0.0.0.0 pl-firmowe-id244.icu
@@ -37556,7 +37526,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 portugtr.top
 0.0.0.0 pos88login.net
 0.0.0.0 posavenol.online
-0.0.0.0 posbd.com
 0.0.0.0 posgradum.net
 0.0.0.0 positiv80.com
 0.0.0.0 positiveeways.info
@@ -37985,7 +37954,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 promo.worldprofitcenter.com
 0.0.0.0 promoaction.space
 0.0.0.0 promocionesba.com
-0.0.0.0 promocjezkauflandu.24.eu
 0.0.0.0 promogrim.fr
 0.0.0.0 promojustforyou.click
 0.0.0.0 promokiav.com
@@ -39832,7 +39800,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.adtelligent.com
 0.0.0.0 s.advertiserurl.com
 0.0.0.0 s.atemda.com
-0.0.0.0 s.ato.mx
 0.0.0.0 s.boom.ro
 0.0.0.0 s.btstatic.com
 0.0.0.0 s.c.appier.net
@@ -40153,9 +40120,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 samsownsongs.com
 0.0.0.0 samsung-klimatyzacja.pl
 0.0.0.0 samsung-kr.com
-0.0.0.0 samsung-produkcja.24.eu
-0.0.0.0 samsung-stop.24.eu
-0.0.0.0 samsung.24.eu
 0.0.0.0 samsung.apps.linkpc.net
 0.0.0.0 samsung3.solution.weborama.fr
 0.0.0.0 samuel-beckett.site
@@ -41516,7 +41480,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 slideboc.fr
 0.0.0.0 slim-up.xyz
 0.0.0.0 sllate.fr
-0.0.0.0 slo-engine.intextad.net
 0.0.0.0 slodki.shop
 0.0.0.0 slog.trackingio.com
 0.0.0.0 sloppydiskrecords.com
@@ -42110,7 +42073,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 spl9tt.lol
 0.0.0.0 splash-screen.voodoo-ads.io
 0.0.0.0 splashnews.uk.intellitxt.com
-0.0.0.0 splitter.ndsplitter.com
 0.0.0.0 spltt1i.lol
 0.0.0.0 splubotyn.pl
 0.0.0.0 spmeasure.i-mobile.co.jp
@@ -42165,7 +42127,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sppszezz.com
 0.0.0.0 spragnienimilosci.pl
 0.0.0.0 sprawdzktopodgglada.blogspot.com
-0.0.0.0 sprawdzzdjecia.24.eu
 0.0.0.0 spreadinggoogle.com
 0.0.0.0 springclick-ads.s3.amazonaws.com
 0.0.0.0 springcrocus.sbs
@@ -45738,7 +45699,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 twobluecranes.com
 0.0.0.0 twoj-typ.pl
 0.0.0.0 twoj-voucher.com
-0.0.0.0 twoja-historia.24.eu
 0.0.0.0 twoja-wygrana.com
 0.0.0.0 twojdlug.pl
 0.0.0.0 twoje-nagrody.com.pl
@@ -47495,7 +47455,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 w2h2qqq3du1bja663cb2d57o.fashionjuck.com
 0.0.0.0 w2npitiqdofne2s63vhvdpdi.fitbriute.com
 0.0.0.0 w2spl.top
-0.0.0.0 w2uopvngsjko80183moeqdck.travelzooka.com
 0.0.0.0 w3.hitbox.com
 0.0.0.0 w30.hitbox.com
 0.0.0.0 w31.hitbox.com
@@ -47977,7 +47936,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 weupload.topupload.ru
 0.0.0.0 wevoba-bujola.site
 0.0.0.0 wex.clickmain.site
-0.0.0.0 wez-bon.24.eu
 0.0.0.0 wf-ca.minncon.top
 0.0.0.0 wf.basebanner.com
 0.0.0.0 wf.taboola.com
@@ -48109,7 +48067,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wiadomocentry.cfd
 0.0.0.0 wiadomosci-obywatelskie.website
 0.0.0.0 wiadomosci-spoleczne.site
-0.0.0.0 wiadomosci-web.24.eu
 0.0.0.0 wick.direct
 0.0.0.0 widget-1.oncustomer.asia
 0.0.0.0 widget-2.oncustomer.asia
@@ -48308,7 +48265,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wlaptoplogic.122.2o7.net
 0.0.0.0 wlb1.cdn.stickyadstv.com.akadns.net
 0.0.0.0 wlb2.cdn.stickyadstv.com.akadns.net
-0.0.0.0 wldmohkiae3hhu083d61sfau.travelzooka.com
 0.0.0.0 wlgh1okpfai2df363qioelhu.buzzshacks.com
 0.0.0.0 wlh7lh5h6m88pc1632uhqae6.buzzshowcase.com
 0.0.0.0 wlinailzinc.github.io
@@ -119410,7 +119366,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wy.5.p2l.info
 0.0.0.0 wy.adyboh.com
 0.0.0.0 wydawca.lead.network
-0.0.0.0 wygraj-samsunga.24.eu
 0.0.0.0 wyh.minncon.top
 0.0.0.0 wymanbernhard.cfd
 0.0.0.0 wyoutube.fr
@@ -119883,7 +119838,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 za-gmtdmp.mookie1.com
 0.0.0.0 za-ssl.effectivemeasure.net
 0.0.0.0 za.zeroredirect1.com
-0.0.0.0 za2.zeroredirect8.com
 0.0.0.0 zabafashion.net
 0.0.0.0 zabbix.bidgear.com
 0.0.0.0 zabbix.symanteprotection.com
@@ -119914,9 +119868,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 zalo-ads.mediaz.vn
 0.0.0.0 zalokaj.blogspot.com
-0.0.0.0 zalukaj-film.24.eu
-0.0.0.0 zalukaj-online.24.eu
-0.0.0.0 zalukaj-zalukaj.24.eu
 0.0.0.0 zalukaj.cam
 0.0.0.0 zalukajfilmy.pl
 0.0.0.0 zalvix.online
