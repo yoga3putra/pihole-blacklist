@@ -20291,7 +20291,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fam.dsdemo.jp
 0.0.0.0 famartil.com
 0.0.0.0 familiamarruecostours.com
-0.0.0.0 familieberkienslaager.com
 0.0.0.0 familyabroad.net
 0.0.0.0 familyholiday.ml
 0.0.0.0 famvir.1.p2l.info
@@ -39056,7 +39055,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 renew.foundersnw.com
 0.0.0.0 renew.kupujetanio.com.pl
 0.0.0.0 renew.pracabieszczady.pl
-0.0.0.0 renew.syrculturalworkers.com
 0.0.0.0 renewingfaces.com
 0.0.0.0 renewlh.hotel-coppenbruegge.net
 0.0.0.0 renewntfx.com
