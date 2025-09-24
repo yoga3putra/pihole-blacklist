@@ -3026,7 +3026,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adprovider.maru.jp
 0.0.0.0 adpstatic.com
 0.0.0.0 adpulse.ads.targetnet.com
-0.0.0.0 adpush.goforandroid.com
 0.0.0.0 adpushsdk.goforandroid.com
 0.0.0.0 adpxljs.adpxl.co
 0.0.0.0 adq.nextag.com
@@ -23672,7 +23671,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 identity.api.wmcdp.io
 0.0.0.0 identity.mparticle.com
 0.0.0.0 idg.amp.permutive.com
-0.0.0.0 idg.blueconic.net
 0.0.0.0 idgenterprise.112.2o7.net
 0.0.0.0 idgenterprise.d1.sc.omtrdc.net
 0.0.0.0 idiopedia.com
@@ -34960,7 +34958,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 out2.cityads.com
 0.0.0.0 out3.cityads.com
 0.0.0.0 outboundaussies.com
-0.0.0.0 outcast-online.blogspot.com
 0.0.0.0 outcome-cdn.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 outcome.supersonicads.com
@@ -42401,7 +42398,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 starclusterdata.online
 0.0.0.0 stardk.tradedoubler.com
 0.0.0.0 stardustrealm.site
-0.0.0.0 starebenesipuo.it
 0.0.0.0 starfallhaven.site
 0.0.0.0 starflare.icu
 0.0.0.0 stargateexploration.website
@@ -44154,7 +44150,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 theadoned.pics
 0.0.0.0 theadvertiser.us.intellitxt.com
 0.0.0.0 theagentsoracle.com
-0.0.0.0 theatlantic.blueconic.net
 0.0.0.0 thebarbellgarage.com
 0.0.0.0 thebarrevirtual.com
 0.0.0.0 thebaseofbaking.com
@@ -45909,7 +45904,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ultracet.1.p2l.info
 0.0.0.0 ultram.1.p2l.info
 0.0.0.0 ultranetweb.info
-0.0.0.0 ultrasponsor.com
 0.0.0.0 ultravista.online
 0.0.0.0 ulx.0945081.xyz
 0.0.0.0 uly.usualpage.site
@@ -47737,7 +47731,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 web2.deja.com
 0.0.0.0 web3crypt.com
 0.0.0.0 web3poll.com
-0.0.0.0 web4.realtracker.com
 0.0.0.0 web4soft-free-seo-list.xyz
 0.0.0.0 webads.tradeholding.com
 0.0.0.0 webadv.co
