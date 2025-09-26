@@ -12891,7 +12891,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bigo-europe-rtb.liftoff.io
 0.0.0.0 bigo-rtb.liftoff.io
 0.0.0.0 bigotka.pl
-0.0.0.0 bigpond.122.2o7.net
 0.0.0.0 bigseatsout.net
 0.0.0.0 bigsharkmedia.com
 0.0.0.0 bihort.com
