@@ -20048,7 +20048,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 exit.silvercash.com
 0.0.0.0 exit.xpays.com
 0.0.0.0 exitjoin.com
-0.0.0.0 exits.adultcash.com
 0.0.0.0 exitsplash.s3.amazonaws.com
 0.0.0.0 exjoby.top
 0.0.0.0 exkripto.com
@@ -37475,7 +37474,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 popcounter.com
 0.0.0.0 popdirt.us.intellitxt.com
 0.0.0.0 popfill.us.intellitxt.com
-0.0.0.0 popfree.adultcash.com
 0.0.0.0 popit.mediumpimpin.com
 0.0.0.0 popka.join2fa.pro
 0.0.0.0 popoholic.us.intellitxt.com
@@ -43260,7 +43258,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 swapzonet.top
 0.0.0.0 swastikheaters.com
 0.0.0.0 sweetaxrelief.com
-0.0.0.0 sweetbible.com
 0.0.0.0 sweetbite456.sbs
 0.0.0.0 sweethomeengraving.com
 0.0.0.0 sweetkitchenjoy.sbs
