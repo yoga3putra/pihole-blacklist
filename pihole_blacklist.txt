@@ -1569,7 +1569,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 7wmw.adj.st
 0.0.0.0 7x.cc
 0.0.0.0 7xc4n.com
-0.0.0.0 7y7.us
 0.0.0.0 8-olx.6649832.xyz
 0.0.0.0 8.110.206.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 8.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
@@ -4665,7 +4664,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aiebilet.pl72943.cfd
 0.0.0.0 aiexpanse.online
 0.0.0.0 aiflowcapital.store
-0.0.0.0 aiforattention.com
 0.0.0.0 aifrontierstep.website
 0.0.0.0 aihelpyou.com
 0.0.0.0 aiiegro.1941818.xyz
@@ -15501,7 +15499,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clckcloud.com
 0.0.0.0 clcvveb.com
 0.0.0.0 cle.kr
-0.0.0.0 clean-cracks.com
 0.0.0.0 clean-mobilephone.com
 0.0.0.0 clean-search.com
 0.0.0.0 clean-space.com
@@ -43640,7 +43637,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tags.mediaforge.com
 0.0.0.0 tags.native-ad.net
 0.0.0.0 tags.onscroll.com
-0.0.0.0 tags.premiumads.com.br
 0.0.0.0 tags.srv.stackadapt.com
 0.0.0.0 tags.t.tailtarget.com
 0.0.0.0 tags.tagcade.com
