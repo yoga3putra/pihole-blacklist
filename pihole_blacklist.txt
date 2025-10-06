@@ -10473,7 +10473,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 analyzer5.fc2.com
 0.0.0.0 analyzer5.fc2cn.com
 0.0.0.0 analyzer53.fc2.com
-0.0.0.0 analyzer54.fc2.com
 0.0.0.0 ananashotel.com
 0.0.0.0 anandabazar.pushengage.com
 0.0.0.0 anatemacacao.com
