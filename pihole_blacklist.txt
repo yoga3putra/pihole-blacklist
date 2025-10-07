@@ -929,8 +929,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 228.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 229.31.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 2312568.xyz
-0.0.0.0 231944-coinbase.com
-0.0.0.0 231954-coinbase.com
 0.0.0.0 233.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 23315.hittail.com
 0.0.0.0 234.media.lbn.ru
@@ -1183,8 +1181,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 3jjsh76.lat
 0.0.0.0 3jmcwio.com
 0.0.0.0 3jsvenada.com
-0.0.0.0 3keysafe.com
-0.0.0.0 3kingvn01.com
 0.0.0.0 3lazos.com
 0.0.0.0 3lm.info
 0.0.0.0 3lp2qznvfem8cr4.vtvsa.pl
@@ -1367,7 +1363,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 52d12.cc
 0.0.0.0 52d154.cc
 0.0.0.0 52f4d8.cc
-0.0.0.0 52hzweb.com
 0.0.0.0 53.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 53.localytics.com
 0.0.0.0 531.xg4ken.com
@@ -1576,7 +1571,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 80d4b6e40cc712bf92fcdbabdd4345fd.safeframe.googlesyndication.com
 0.0.0.0 814k7glw2rvnujc.aktuaplat.cfd
 0.0.0.0 815.hittail.com
-0.0.0.0 815012-coinbase.com
 0.0.0.0 8168974.fls.doubleclick.net
 0.0.0.0 820.joomsearch.com
 0.0.0.0 8210643.fls.doubleclick.net
@@ -16716,7 +16710,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 creativedigitality.com
 0.0.0.0 creativehavenas.com
 0.0.0.0 creativehubdesign.com
-0.0.0.0 creativemindhacks.com
 0.0.0.0 creatives.ads.memob.com
 0.0.0.0 creatives.crossinstall.com
 0.0.0.0 creatives.gunosy.com
@@ -21663,7 +21656,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 geoip.goforandroid.com
 0.0.0.0 geoip.securitetotale.com
 0.0.0.0 geolantis.fr
-0.0.0.0 geoloc13.geovisite.com
 0.0.0.0 geometryeasyas123.net
 0.0.0.0 geometryeasyas123.org
 0.0.0.0 geoparqueelhierro.com
