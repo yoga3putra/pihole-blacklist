@@ -6581,7 +6581,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-6723.cfd
 0.0.0.0 allegro.pl-676504.icu
 0.0.0.0 allegro.pl-68756671.icu
-0.0.0.0 allegro.pl-7113942.shop
 0.0.0.0 allegro.pl-7124444.icu
 0.0.0.0 allegro.pl-7168125.icu
 0.0.0.0 allegro.pl-717273638594207.buzz
@@ -6623,7 +6622,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-89278.cfd
 0.0.0.0 allegro.pl-89294.cfd
 0.0.0.0 allegro.pl-8930492.icu
-0.0.0.0 allegro.pl-8930492.rest
 0.0.0.0 allegro.pl-894284.cfd
 0.0.0.0 allegro.pl-89537.cfd
 0.0.0.0 allegro.pl-9027443.rest
@@ -8165,7 +8163,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-1735300.icu
 0.0.0.0 allegrolokalnie.oferta-17464472.icu
 0.0.0.0 allegrolokalnie.oferta-17899.shop
-0.0.0.0 allegrolokalnie.oferta-1894361.shop
 0.0.0.0 allegrolokalnie.oferta-1951823.icu
 0.0.0.0 allegrolokalnie.oferta-1957373.icu
 0.0.0.0 allegrolokalnie.oferta-1985627.shop
@@ -8206,7 +8203,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-3547247.icu
 0.0.0.0 allegrolokalnie.oferta-3555256.com
 0.0.0.0 allegrolokalnie.oferta-3650864.icu
-0.0.0.0 allegrolokalnie.oferta-3729453.shop
 0.0.0.0 allegrolokalnie.oferta-3868233.com
 0.0.0.0 allegrolokalnie.oferta-4023021.icu
 0.0.0.0 allegrolokalnie.oferta-4031837.shop
@@ -8232,7 +8228,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-472846.icu
 0.0.0.0 allegrolokalnie.oferta-47735629.sale
 0.0.0.0 allegrolokalnie.oferta-4869401.cfd
-0.0.0.0 allegrolokalnie.oferta-4941812.shop
 0.0.0.0 allegrolokalnie.oferta-4952804.shop
 0.0.0.0 allegrolokalnie.oferta-4978904.shop
 0.0.0.0 allegrolokalnie.oferta-5029172.cfd
@@ -8282,7 +8277,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-7637547.icu
 0.0.0.0 allegrolokalnie.oferta-764315.icu
 0.0.0.0 allegrolokalnie.oferta-7740566.icu
-0.0.0.0 allegrolokalnie.oferta-7767383.shop
 0.0.0.0 allegrolokalnie.oferta-7771738.icu
 0.0.0.0 allegrolokalnie.oferta-7824082.icu
 0.0.0.0 allegrolokalnie.oferta-7957748.icu
@@ -8415,16 +8409,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.ogloszenie-5292293.shop
 0.0.0.0 allegrolokalnie.ogloszenie-534119.shop
 0.0.0.0 allegrolokalnie.ogloszenie-534581.shop
-0.0.0.0 allegrolokalnie.ogloszenie-574311.shop
-0.0.0.0 allegrolokalnie.ogloszenie-574826.shop
 0.0.0.0 allegrolokalnie.ogloszenie-7375599.shop
-0.0.0.0 allegrolokalnie.ogloszenie-7449315.shop
 0.0.0.0 allegrolokalnie.ogloszenie-745115.shop
 0.0.0.0 allegrolokalnie.ogloszenie-812366.shop
-0.0.0.0 allegrolokalnie.ogloszenie-834562.shop
 0.0.0.0 allegrolokalnie.ogloszenie-851134.shop
 0.0.0.0 allegrolokalnie.ogloszenie-851192.shop
-0.0.0.0 allegrolokalnie.ogloszenie-854366.shop
 0.0.0.0 allegrolokalnie.ogloszenie-8711318.shop
 0.0.0.0 allegrolokalnie.ogloszenie-8734892.shop
 0.0.0.0 allegrolokalnie.ogloszenie-9029975.shop
@@ -8823,7 +8812,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-9juo.icu
 0.0.0.0 allegrolokalnie.pl-a.icu
 0.0.0.0 allegrolokalnie.pl-a7d83mxp5lkq9zfu21ceq8.com
-0.0.0.0 allegrolokalnie.pl-a7d83mxp5lkq9zfu21ceq8.info
 0.0.0.0 allegrolokalnie.pl-app-82368.cfd
 0.0.0.0 allegrolokalnie.pl-aukcja-5774345.icu
 0.0.0.0 allegrolokalnie.pl-aukcja-id34.buzz
@@ -9042,7 +9030,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-oferta-521456.shop
 0.0.0.0 allegrolokalnie.pl-oferta-5345553454.cfd
 0.0.0.0 allegrolokalnie.pl-oferta-85739278.icu
-0.0.0.0 allegrolokalnie.pl-oferta-9284589.rest
 0.0.0.0 allegrolokalnie.pl-oferta-979328.shop
 0.0.0.0 allegrolokalnie.pl-oferta-9847331.shop
 0.0.0.0 allegrolokalnie.pl-oferta-bilety-93820.shop
@@ -9169,7 +9156,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-oferta2732553.icu
 0.0.0.0 allegrolokalnie.pl-oferta27425909.icu
 0.0.0.0 allegrolokalnie.pl-oferta2773.online
-0.0.0.0 allegrolokalnie.pl-oferta2784529.shop
 0.0.0.0 allegrolokalnie.pl-oferta2785847.icu
 0.0.0.0 allegrolokalnie.pl-oferta2802741.cfd
 0.0.0.0 allegrolokalnie.pl-oferta2821486.icu
@@ -9285,7 +9271,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-oferta5243.cfd
 0.0.0.0 allegrolokalnie.pl-oferta5273316.icu
 0.0.0.0 allegrolokalnie.pl-oferta528437.icu
-0.0.0.0 allegrolokalnie.pl-oferta5322803.shop
 0.0.0.0 allegrolokalnie.pl-oferta5338221.shop
 0.0.0.0 allegrolokalnie.pl-oferta5345068.shop
 0.0.0.0 allegrolokalnie.pl-oferta5410739.shop
@@ -9358,7 +9343,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-oferta6845.icu
 0.0.0.0 allegrolokalnie.pl-oferta6856583.cfd
 0.0.0.0 allegrolokalnie.pl-oferta6857666.icu
-0.0.0.0 allegrolokalnie.pl-oferta6859469.shop
 0.0.0.0 allegrolokalnie.pl-oferta6894958.com
 0.0.0.0 allegrolokalnie.pl-oferta6949607.icu
 0.0.0.0 allegrolokalnie.pl-oferta6993371.icu
@@ -9702,7 +9686,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-prywatne-id111.icu
 0.0.0.0 allegrolokalnie.pl-prywatne-id129.icu
 0.0.0.0 allegrolokalnie.pl-prywatne-id894.icu
-0.0.0.0 allegrolokalnie.pl-prywatnie-kup-teraz-93203.shop
 0.0.0.0 allegrolokalnie.pl-r5k72vdx1jcm8lqz94tneo.com
 0.0.0.0 allegrolokalnie.pl-redirect-app-13563.cfd
 0.0.0.0 allegrolokalnie.pl-redirect8273.icu
@@ -13252,7 +13235,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 booking.invitation-reservation-35159124-guests-properties-4727351.homes
 0.0.0.0 booking.order-session684.world
 0.0.0.0 booking.parteet-id539847.com
-0.0.0.0 booking.partner-id365411.com
 0.0.0.0 booking.rescomunicationshow.com
 0.0.0.0 booking.reserv-confirms-vrf-it.com
 0.0.0.0 booking.reservation-id758454.com
@@ -27705,7 +27687,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 main.phonemicistos.com
 0.0.0.0 main.planohoriz.com
 0.0.0.0 main.pomoc-net.online
-0.0.0.0 main.psaltefrium.com
 0.0.0.0 main.rampidads.com
 0.0.0.0 main.semiautonomyz.com
 0.0.0.0 main.tormentums.com
@@ -42790,7 +42771,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 success-vision.info
 0.0.0.0 success.go-host.shop
 0.0.0.0 success.my-confirm.shop
-0.0.0.0 sucikornisos.inovaperf.me
 0.0.0.0 sudokuwhiz.com
 0.0.0.0 suebusinessgroup.com
 0.0.0.0 sueclkabel.com
