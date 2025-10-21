@@ -8412,7 +8412,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.ogloszenie-7375599.shop
 0.0.0.0 allegrolokalnie.ogloszenie-745115.shop
 0.0.0.0 allegrolokalnie.ogloszenie-812366.shop
-0.0.0.0 allegrolokalnie.ogloszenie-851134.shop
 0.0.0.0 allegrolokalnie.ogloszenie-851192.shop
 0.0.0.0 allegrolokalnie.ogloszenie-8711318.shop
 0.0.0.0 allegrolokalnie.ogloszenie-8734892.shop
@@ -20440,7 +20439,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 film-vod-online.blogspot.com
 0.0.0.0 film24owo.pl
 0.0.0.0 filmdrunk.us.intellitxt.com
-0.0.0.0 filmes-hd.com
 0.0.0.0 filmforcedvd.ign.us.intellitxt.com
 0.0.0.0 filmhir.net
 0.0.0.0 filmoo-maniacy.blogspot.com
