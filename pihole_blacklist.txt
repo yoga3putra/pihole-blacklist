@@ -10906,7 +10906,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.userstyles.org
 0.0.0.0 api.verticalscope.com
 0.0.0.0 api.vidora.com
-0.0.0.0 api.vigo.ru
 0.0.0.0 api.vodus.com
 0.0.0.0 api.voiceads.cn
 0.0.0.0 api.vungle.akadns.net
@@ -14562,7 +14561,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.hot-mob.com
 0.0.0.0 cdn.iads.unity3d.com
-0.0.0.0 cdn.iasrv.com
 0.0.0.0 cdn.id5-sync.com
 0.0.0.0 cdn.idtargeting.com
 0.0.0.0 cdn.imhd.io
@@ -23961,7 +23959,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 in.adserver.yahoo.com
 0.0.0.0 in.analytics.glance.inmobi.com
 0.0.0.0 in.api.glance.inmobi.com
-0.0.0.0 in.cuebiq.com
 0.0.0.0 in.cybererotica.com
 0.0.0.0 in.energyinwaste.com
 0.0.0.0 in.ff5.com
@@ -30103,7 +30100,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 new.lerian-nti.be
 0.0.0.0 new.let8.online
 0.0.0.0 new.livejasmin.com
-0.0.0.0 new.mmtimes.org
 0.0.0.0 new.nowej-get.online
 0.0.0.0 newads.cmpnet.com
 0.0.0.0 newafricanglobalsenergy.com
@@ -42163,7 +42159,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 static-content-1.smadex.com
 0.0.0.0 static-downloads.com
 0.0.0.0 static-google-analtyic.com
-0.0.0.0 static-hotjar.com
 0.0.0.0 static-rtb.adkernel.com
 0.0.0.0 static-tagr.gd1.mookie1.com
 0.0.0.0 static-trackers.adtarget.me
@@ -43675,7 +43670,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 telefonino.it.intellitxt.com
 0.0.0.0 telegraph.grapeshot.co.uk
 0.0.0.0 telegraphcouk.skimlinks.com
-0.0.0.0 telel.thehcaresystem.com
 0.0.0.0 telelienzo.com
 0.0.0.0 telemetries.jeeng.com
 0.0.0.0 telemetry-cii.api.playstation.com
@@ -47425,7 +47419,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 webmail-autho.xuanzhenge.com
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 webmail.case-update325.click
-0.0.0.0 webmail.mmtimes.net
 0.0.0.0 webmailer.skydynamics.com
 0.0.0.0 webmaster.topbucks.com
 0.0.0.0 webmaster.utherverse.com
@@ -119031,7 +119024,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 x.clickcertain.com
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 x.fidelity-media.com
-0.0.0.0 x.iasrv.com
 0.0.0.0 x.interia.pl
 0.0.0.0 x.mochiads.com
 0.0.0.0 x.shoplifeweb.online
@@ -119652,7 +119644,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zgarniij_vouchher.skroc.pl
 0.0.0.0 zgarnij-nagrode.com
 0.0.0.0 zgloszeniaiwypadki.pl
-0.0.0.0 zh.yomobi.net
 0.0.0.0 zh1.zeroredirect11.com
 0.0.0.0 zhivi.prostosdavai.top
 0.0.0.0 ziablov.com
