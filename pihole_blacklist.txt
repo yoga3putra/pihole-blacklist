@@ -3350,7 +3350,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.ka6tata.com
 0.0.0.0 ads.kabbmedia.com
 0.0.0.0 ads.kabooaffiliates.com
-0.0.0.0 ads.kaldata.com
 0.0.0.0 ads.keywordblocks.com
 0.0.0.0 ads.koreanfriendfinder.com
 0.0.0.0 ads.kozmetika-bg.com
@@ -11591,7 +11590,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 au.effectivemeasure.net
 0.0.0.0 au.res.keymedia.com
 0.0.0.0 au.umeng.co
-0.0.0.0 aubankprod.112.2o7.net
 0.0.0.0 aubreyskitchenandbath.com
 0.0.0.0 auc.ca-conv.jp
 0.0.0.0 auctera.gotrackier.com
