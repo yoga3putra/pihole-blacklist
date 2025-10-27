@@ -3366,7 +3366,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.livepromotools.com
 0.0.0.0 ads.localyokelmedia.com
 0.0.0.0 ads.lucidmedia.com
-0.0.0.0 ads.lycos.com
 0.0.0.0 ads.lzjl.com
 0.0.0.0 ads.magnetic.is
 0.0.0.0 ads.mail3x.com
@@ -14010,7 +14009,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cantoyterapia.com
 0.0.0.0 canuckmethod.com
 0.0.0.0 canva2023.com
-0.0.0.0 canvas-group.com
 0.0.0.0 canwest.112.2o7.net
 0.0.0.0 canwestcom.112.2o7.net
 0.0.0.0 canwestglobal.112.2o7.net
@@ -15782,7 +15780,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 codeotel.com
 0.0.0.0 coderustle.com
 0.0.0.0 codeventure.site
-0.0.0.0 codexgen.com
 0.0.0.0 codice.shinystat.com
 0.0.0.0 codicebusiness.shinystat.com
 0.0.0.0 codicefl.shinystat.com
@@ -16303,7 +16300,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cosmicwaves.site
 0.0.0.0 cosmicwhirlwind.site
 0.0.0.0 cosmoeng2i.com
-0.0.0.0 cosmolinc.com
 0.0.0.0 cosmopolian.fr
 0.0.0.0 cosmopolita.fr
 0.0.0.0 cosplayslut.com
@@ -16600,7 +16596,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 crypticteapot.site
 0.0.0.0 cryptiony.com
 0.0.0.0 crypto-inversor.com
-0.0.0.0 cryptoassetlawgroup.com
 0.0.0.0 cryptoblog.biz
 0.0.0.0 cryptobnkz.xyz
 0.0.0.0 cryptocurrecny.com
@@ -17067,7 +17062,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 danicantos.com
 0.0.0.0 danielamorcarnero.com
 0.0.0.0 danielcredit.com
-0.0.0.0 danieljohnsonblog.com
 0.0.0.0 danielsecchi.com
 0.0.0.0 daniknews24.com
 0.0.0.0 danilov-jewellers.com
@@ -17370,7 +17364,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 decathlon.trendwin.info
 0.0.0.0 deccandomino.com
 0.0.0.0 decebal.net
-0.0.0.0 decentrallearn.com
 0.0.0.0 decision.taplytics.com
 0.0.0.0 deckers.112.2o7.net
 0.0.0.0 deckthelights.org
@@ -17618,7 +17611,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 detroitinitiative.org
 0.0.0.0 deutschebahn.sc.omtrdc.net
 0.0.0.0 dev-as.cluep.com
-0.0.0.0 dev-team26.com
 0.0.0.0 dev-track.adthrive.com
 0.0.0.0 dev.adflex.vn
 0.0.0.0 dev.adforum.com
@@ -21296,7 +21288,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gcirm.jacksonsun.com
 0.0.0.0 gcirm.lsj.com
 0.0.0.0 gcirm.montgomeryadvertiser.com
-0.0.0.0 gcirm.muskogeephoenix.com
 0.0.0.0 gcirm.news-press.com
 0.0.0.0 gcirm.newsleader.com
 0.0.0.0 gcirm.press-citizen.com
@@ -21339,7 +21330,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 geburtstermin-berechnen.online
 0.0.0.0 gecu.reviewssphere.com
 0.0.0.0 geek.us.intellitxt.com
-0.0.0.0 geekpius.com
 0.0.0.0 geekstogo.us.intellitxt.com
 0.0.0.0 geekyambuj.com
 0.0.0.0 geizhals.oewabox.at
@@ -24513,7 +24503,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 invoices.jit.free.hr
 0.0.0.0 invoke.ml
 0.0.0.0 invorlanew.eu
-0.0.0.0 inwestycje-orlen.pl
 0.0.0.0 inwestycje-orlen.top
 0.0.0.0 io2zev.cyou
 0.0.0.0 ioads.ero-advertising.com
@@ -26581,7 +26570,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 link.theatlantic.com
 0.0.0.0 link.uk.expediamail.com
 0.0.0.0 link.wetrackall.com
-0.0.0.0 link4ads.com
 0.0.0.0 link4pos.com
 0.0.0.0 link4win.net
 0.0.0.0 linkage.kakaku.com
@@ -41646,7 +41634,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 spotxcdn.com.edgekey.net
 0.0.0.0 spp12l.lol
 0.0.0.0 sppszezz.com
-0.0.0.0 spragnienimilosci.pl
 0.0.0.0 sprawdzktopodgglada.blogspot.com
 0.0.0.0 spreadinggoogle.com
 0.0.0.0 springclick-ads.s3.amazonaws.com
