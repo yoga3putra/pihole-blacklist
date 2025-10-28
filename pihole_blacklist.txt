@@ -20337,7 +20337,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fileshare-storage.com
 0.0.0.0 filestation.nocoshop.ru
 0.0.0.0 filestation.uploadbox.world
-0.0.0.0 filipelucio.com
 0.0.0.0 fillfox.xyz
 0.0.0.0 fillour.website
 0.0.0.0 film-vod-online.blogspot.com
@@ -25251,7 +25250,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.rating-widget.com
 0.0.0.0 js.rfp.fout.jp
 0.0.0.0 js.ru.redtram.com
-0.0.0.0 js.smi2.ru
 0.0.0.0 js.softreklam.com
 0.0.0.0 js.spacenine.biz
 0.0.0.0 js.speead.jp
@@ -27356,7 +27354,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.servebom.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 m.tidebuy.com
-0.0.0.0 m.topiccore.com
 0.0.0.0 m.tribalfusion.com
 0.0.0.0 m.v.fwmrm.net
 0.0.0.0 m.vpadn.com
