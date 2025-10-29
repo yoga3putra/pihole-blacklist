@@ -13097,7 +13097,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bodegadelhumor.com
 0.0.0.0 bodegapalabras.com
 0.0.0.0 bodegascastilla.com
-0.0.0.0 bodelen.com
 0.0.0.0 bodyfitness-epernon.fr
 0.0.0.0 bodyhousse.fr
 0.0.0.0 bodynutritionplus.com
@@ -17064,7 +17063,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 danielcredit.com
 0.0.0.0 danielsecchi.com
 0.0.0.0 daniknews24.com
-0.0.0.0 danilov-jewellers.com
 0.0.0.0 danimiret.com
 0.0.0.0 danimontero.com
 0.0.0.0 danisasu.com
@@ -40701,7 +40699,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 shoparty.metrilo.com
 0.0.0.0 shopcaribbeancollection.net
 0.0.0.0 shopdoowwood.com
-0.0.0.0 shopigo.fr
 0.0.0.0 shopkeep.fr
 0.0.0.0 shoppaff.com
 0.0.0.0 shopperpromotions.com
@@ -41591,7 +41588,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 spolecznosci.mgr.consensu.org
 0.0.0.0 spongillid.com
 0.0.0.0 sponsor-sex.pl
-0.0.0.0 sponsor.imacdn.com
 0.0.0.0 sponsorships.net
 0.0.0.0 spoofter88.com
 0.0.0.0 spookywookies.com
