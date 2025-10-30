@@ -7034,7 +7034,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-oferta6402901.icu
 0.0.0.0 allegro.pl-oferta642748.icu
 0.0.0.0 allegro.pl-oferta643225.icu
-0.0.0.0 allegro.pl-oferta6449004.shop
 0.0.0.0 allegro.pl-oferta6478417.cfd
 0.0.0.0 allegro.pl-oferta6480325.cfd
 0.0.0.0 allegro.pl-oferta6506090.sbs
@@ -8206,7 +8205,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-421454.icu
 0.0.0.0 allegrolokalnie.oferta-426631.icu
 0.0.0.0 allegrolokalnie.oferta-4302880.icu
-0.0.0.0 allegrolokalnie.oferta-4303518.shop
 0.0.0.0 allegrolokalnie.oferta-4319222.shop
 0.0.0.0 allegrolokalnie.oferta-435621.icu
 0.0.0.0 allegrolokalnie.oferta-4417653.cfd
@@ -32600,7 +32598,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.oferta-2932823.cyou
 0.0.0.0 olx.oferta-2932823.icu
 0.0.0.0 olx.oferta-3036743.icu
-0.0.0.0 olx.oferta-3136196.digital
 0.0.0.0 olx.oferta-3156512.shop
 0.0.0.0 olx.oferta-321452.icu
 0.0.0.0 olx.oferta-324543.icu
