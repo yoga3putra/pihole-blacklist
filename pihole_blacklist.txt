@@ -14471,7 +14471,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.ezca.asia
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.firstlook.com
-0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.flashtalking.com.edgekey.net
 0.0.0.0 cdn.fqtag.com
 0.0.0.0 cdn.freefaits.com
@@ -41930,7 +41929,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stat.aport.ru
 0.0.0.0 stat.appsgeyser.com
 0.0.0.0 stat.delo.ua
-0.0.0.0 stat.flashtalking.com
 0.0.0.0 stat.flygame.io
 0.0.0.0 stat.ganbox.com
 0.0.0.0 stat.hasmobi.net
