@@ -21534,7 +21534,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 girlsaskguys.us.intellitxt.com
 0.0.0.0 girlslight.com
 0.0.0.0 gistoforn.site
-0.0.0.0 git-hub.co
 0.0.0.0 git.younetmedia.com
 0.0.0.0 githb.co
 0.0.0.0 github.com.cnpmjs.org
@@ -24439,7 +24438,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 interstellarodyssey.site
 0.0.0.0 interstitial.fyber.com
 0.0.0.0 intertakekuhy.info
-0.0.0.0 intertech.co.jp
 0.0.0.0 interview.craftsman-nabeo.info
 0.0.0.0 interwencjapraawna-gov-pl.pkhid.com
 0.0.0.0 interyield.jmp9.com
@@ -35399,7 +35397,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 phono.gotrackier.com
 0.0.0.0 phorm.ch
 0.0.0.0 phorm.co.uk
-0.0.0.0 phorm.dk
 0.0.0.0 photo-cam.com
 0.0.0.0 photobox-tracking.adalyser.com
 0.0.0.0 photoculinaireblog.com
@@ -48026,7 +48023,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wwtdd.us.intellitxt.com
 0.0.0.0 www-dailymotion-video.blogspot.com
 0.0.0.0 www-dpd.platba-cz.sbs
-0.0.0.0 www-google.nl
 0.0.0.0 www-old.nastydollars.com
 0.0.0.0 www-rolblox.com
 0.0.0.0 www-stats.unipi.it
