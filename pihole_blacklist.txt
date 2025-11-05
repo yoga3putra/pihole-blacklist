@@ -2392,7 +2392,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.caprofitx.com
 0.0.0.0 ad.caradisiac.com
 0.0.0.0 ad.cauly.co.kr
-0.0.0.0 ad.chieuhoa.com
 0.0.0.0 ad.cibleclick.com
 0.0.0.0 ad.cl.doubleclick.net
 0.0.0.0 ad.cosp.jp
@@ -11215,7 +11214,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 arganoilanti-aging.com
 0.0.0.0 argar-it.com
 0.0.0.0 argent-cn.com
-0.0.0.0 argenta.fr
 0.0.0.0 argonaut-investor-ai.com
 0.0.0.0 arhicstudio.com
 0.0.0.0 aria.successisalifestyle.info
@@ -34177,7 +34175,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 onlyforpl.site
 0.0.0.0 onlyonesies.com
 0.0.0.0 onlytoday.biz
-0.0.0.0 onmarshtompor.com
 0.0.0.0 onmypc.net
 0.0.0.0 onna-co.com
 0.0.0.0 onomaui.com
