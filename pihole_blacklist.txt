@@ -14881,7 +14881,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cfd.altasgroup.proxy121-1.com
 0.0.0.0 cfd.amadeus-markets.com
 0.0.0.0 cfd.ampalliance.proxy121-1.com
-0.0.0.0 cfd.argonintgroup.com
 0.0.0.0 cfd.arteon-investor-limited.com
 0.0.0.0 cfd.aurum-brokersltd.com
 0.0.0.0 cfd.avetrade.co
