@@ -2265,7 +2265,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 action.mathtag.com
 0.0.0.0 action.media6degrees.com
 0.0.0.0 action.metaffiliation.com
-0.0.0.0 actionissuedetectedinfo.top
 0.0.0.0 actionmeister.com
 0.0.0.0 actionprotectionadvancedinternet.top
 0.0.0.0 actionsafedatadetected.top
@@ -4404,7 +4403,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 agrizia.com
 0.0.0.0 agro-tecnica.com
 0.0.0.0 agroeconom.kz
-0.0.0.0 agroforestrydesigners.com
 0.0.0.0 agrofotovoltaica.com
 0.0.0.0 agromecanicalarrosa.com
 0.0.0.0 agronaturbiocontrol.com
@@ -10485,7 +10483,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 answering-services-bridgeport.online
 0.0.0.0 answers.us.intellitxt.com
 0.0.0.0 answerstedhctbek.onion.pet
-0.0.0.0 ant-top.com
 0.0.0.0 ant.conversive.nl
 0.0.0.0 antaliaenergia.com
 0.0.0.0 antaluta.com
@@ -11235,7 +11232,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 arllfulfill.com
 0.0.0.0 arm.c.appier.net
 0.0.0.0 armantark.com
-0.0.0.0 arminajef.com
 0.0.0.0 armktboostx.icu
 0.0.0.0 armorseo.com
 0.0.0.0 armoure.net
@@ -11435,7 +11431,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 assaabl0y.com
 0.0.0.0 assembled-battery.com
 0.0.0.0 assemblyfacts.com
-0.0.0.0 assessoriaclient.com
 0.0.0.0 assests-neftlix0ecze.cfolks.pl
 0.0.0.0 asset.adserver.vrizead.com
 0.0.0.0 asset.bidgear.com
@@ -11759,7 +11754,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 avndrealouer.fr
 0.0.0.0 avnglobalprod.112.2o7.net
 0.0.0.0 avocadohomesolutions.com
-0.0.0.0 avoidconscription.org
 0.0.0.0 avoidfilter.net
 0.0.0.0 avon-severozapad.ru
 0.0.0.0 avon-ukraine.com
@@ -12636,7 +12630,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bf20578xco.bf.dynatrace.com
 0.0.0.0 bfile.shinobi.jp
 0.0.0.0 bfordesign.com
-0.0.0.0 bfsy.xyz
 0.0.0.0 bg.2.cqcounter.com
 0.0.0.0 bg.search.etargetnet.com
 0.0.0.0 bg.static.etargetnet.com
@@ -13191,7 +13184,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bookingorder.help
 0.0.0.0 bookpdf.services
 0.0.0.0 bookpl.club
-0.0.0.0 bookpl.top
 0.0.0.0 bookreservesup.com
 0.0.0.0 boombit-api.exponea.com
 0.0.0.0 boomthefuntoyleague.com
@@ -13323,7 +13315,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 breakingtimes.life
 0.0.0.0 breakthroughtrend.com
 0.0.0.0 breaktutorials.com
-0.0.0.0 breathrise.com
 0.0.0.0 breizh-ile.fr
 0.0.0.0 brentwood-roofing.com
 0.0.0.0 brevardmusic.com
@@ -15792,7 +15783,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 coindigiq.top
 0.0.0.0 coindigiv.top
 0.0.0.0 coindigiz.top
-0.0.0.0 coindiscussion.net
 0.0.0.0 coindropx.top
 0.0.0.0 coinelevate.website
 0.0.0.0 coinexn.top
@@ -16719,7 +16709,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cuquetesdesign.com
 0.0.0.0 curatedtrip.com
 0.0.0.0 curediabetesinthirtydays.com
-0.0.0.0 curmic.com
 0.0.0.0 currency.prebid.org
 0.0.0.0 currencynow.xyz
 0.0.0.0 currencyst.xyz
@@ -17580,7 +17569,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dessertstudioacademy.com
 0.0.0.0 dest.modestsunf.com
 0.0.0.0 dest3536-finral392.deepimaginative.live
-0.0.0.0 destino-chile.com
 0.0.0.0 destructoid.us.intellitxt.com
 0.0.0.0 deszczowka24.pl
 0.0.0.0 deta.ero-advertising.com
@@ -17690,7 +17678,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 diamondbincleaning.com
 0.0.0.0 diamondexecutivestaffing.com
 0.0.0.0 diamondtrujillo.com
-0.0.0.0 dianabarsan.com
 0.0.0.0 diapi.webgains.com
 0.0.0.0 diarioliderazgo.com
 0.0.0.0 diazepam.ourtablets.com
@@ -17992,7 +17979,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dockerslacker.com
 0.0.0.0 docksidefashions.com
 0.0.0.0 docs-downloading.com
-0.0.0.0 docs-drive.com
 0.0.0.0 docs.googl.com.documents.idc1.pl
 0.0.0.0 docs.ukr.net.ssl2.in
 0.0.0.0 docs1.iwon.com
@@ -20066,7 +20052,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 faro.jackpotsurveys.store
 0.0.0.0 faroso.deepfieldview.com
 0.0.0.0 fartuchy-kuchenne.pl
-0.0.0.0 fashion-online.net
 0.0.0.0 fashioncontainer.net
 0.0.0.0 fashionphy.com
 0.0.0.0 fashionvenusians.com
@@ -20144,7 +20129,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fbcolor.blogspot.com
 0.0.0.0 fbd.holcom.top
 0.0.0.0 fbfredericksburgcom.112.2o7.net
-0.0.0.0 fbirecovery.com
 0.0.0.0 fbkmnr.112.2o7.net
 0.0.0.0 fbl-headoffice.com
 0.0.0.0 fbmeta-veriify-pages.com
@@ -20696,7 +20680,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 foroseguridad.org
 0.0.0.0 forplant.cfd
 0.0.0.0 forsi.net
-0.0.0.0 forthype.com
 0.0.0.0 fortmilschools.org
 0.0.0.0 fortnight.space
 0.0.0.0 fortnite64.com
@@ -20811,7 +20794,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 frbocx13wpoey7whtigy.onfobu.ru
 0.0.0.0 frecnhweb.fr
 0.0.0.0 fredperrypolska-pl.com
-0.0.0.0 free-box.fr
 0.0.0.0 free-dating-girls.online
 0.0.0.0 free-groupsex.com
 0.0.0.0 free-hairy-pussy.net
@@ -20830,7 +20812,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 freeallsafe.com
 0.0.0.0 freebiegb.co.uk
 0.0.0.0 freebiesms.co.uk
-0.0.0.0 freebos.fr
 0.0.0.0 freecamerasource.com
 0.0.0.0 freecharge.demdex.net
 0.0.0.0 freecontent.bid
@@ -20871,7 +20852,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 freewheeleventsbidder-east.extend.tv
 0.0.0.0 freezedriedprofit.com
 0.0.0.0 freezestructure.xyz
-0.0.0.0 fref.fr
 0.0.0.0 freighsystems.com
 0.0.0.0 freighttools.live
 0.0.0.0 freimantal.com
@@ -22459,7 +22439,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 healthgrades.112.2o7.net
 0.0.0.0 healthguides.cnn.com
 0.0.0.0 healthination.122.2o7.net
-0.0.0.0 healthisfit.com
 0.0.0.0 healthlineus.com
 0.0.0.0 healthychoices.top
 0.0.0.0 healtyrecipe.com
@@ -23223,7 +23202,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 i9httg.rest
 0.0.0.0 i9qwgt.hair
 0.0.0.0 ia-codigo.com
-0.0.0.0 ia-tradesignals.com
 0.0.0.0 ia.5.p2l.info
 0.0.0.0 ia.spinbox.net
 0.0.0.0 ia1.7search.com
@@ -23938,7 +23916,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ineucd.top
 0.0.0.0 inexity.com
 0.0.0.0 inf.dataeconomist.finance
-0.0.0.0 inf0rma.com
 0.0.0.0 infinite-vision.info
 0.0.0.0 infiniteconcepts.space
 0.0.0.0 infinitecraftss.com
@@ -24077,7 +24054,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 innovatesphere.site
 0.0.0.0 innovationzone.info
 0.0.0.0 innovativemasonry.net
-0.0.0.0 innovativestrategy.sbs
 0.0.0.0 innoveox.fr
 0.0.0.0 innovgrowz.xyz
 0.0.0.0 innoviahospital.com
@@ -44125,7 +44101,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 top-elite.site
 0.0.0.0 top-kopi.net
 0.0.0.0 top.addfreestats.com
-0.0.0.0 top.flixmax.stream
 0.0.0.0 top.oewabox.at
 0.0.0.0 top.proext.com
 0.0.0.0 top100countdown.com
@@ -45288,7 +45263,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ufa8.net
 0.0.0.0 ufoencounters.space
 0.0.0.0 ufs.adkmob.com
-0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ug.whampl.top
 0.0.0.0 ugc-network.com
 0.0.0.0 ugcrohk5jl3tsm.plus-show.lat
