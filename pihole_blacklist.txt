@@ -1637,8 +1637,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 8iu7t32zpcr9ds.plus-dis.online
 0.0.0.0 8ljtp3hsiw271rq.asruw.pl
 0.0.0.0 8roj1val9k62fu.plus-show.lat
-0.0.0.0 8uc1.jave.xyz
-0.0.0.0 8uch.jave.xyz
 0.0.0.0 8ue9q7i.com
 0.0.0.0 8wrqgetmbip3vj.dsn-plus.lat
 0.0.0.0 8z4efviq3mu1xd.promodis.lat
@@ -2308,7 +2306,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-dev.globalnoticias.pt
 0.0.0.0 ad-diactivat.pages.dev
 0.0.0.0 ad-distributorsstore.top
-0.0.0.0 ad-events.flashtalking.com
 0.0.0.0 ad-feeds.com
 0.0.0.0 ad-fuse.com
 0.0.0.0 ad-gbn.com
@@ -3206,7 +3203,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.cobrad.com
 0.0.0.0 ads.collegemix.com
 0.0.0.0 ads.consumeraffairs.com
-0.0.0.0 ads.contextweb.com
 0.0.0.0 ads.coopson.com
 0.0.0.0 ads.corusradionetwork.com
 0.0.0.0 ads.courierpostonline.com
@@ -12664,7 +12660,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bid.adpicker.net
 0.0.0.0 bid.adview.com
 0.0.0.0 bid.axiatraders.com
-0.0.0.0 bid.contextweb.com
 0.0.0.0 bid.dr.socdm.com
 0.0.0.0 bid.openx.net
 0.0.0.0 bid.pubmatic.com
@@ -14383,7 +14378,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.banner.thumbplay.com
 0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.banners.scubl.com
-0.0.0.0 cdn.bannersnack.com
 0.0.0.0 cdn.barscreative1.com
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.beaconads.com
@@ -14741,7 +14735,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cds.adecn.com
 0.0.0.0 cds.connatix.com
 0.0.0.0 cds.taboola.com
-0.0.0.0 cdslog.contextweb.com
 0.0.0.0 cdssdaw.endiim.com
 0.0.0.0 cdsusa.veinteractive.com
 0.0.0.0 cdxninteractive.blueadvertise.com
@@ -16975,7 +16968,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 d7mv05tf4nluphs.platalerts.pl
 0.0.0.0 d806-us.api.decibelinsight.net
 0.0.0.0 d8wj17bovxl46ac.vtvsa.pl
-0.0.0.0 d9.flashtalking.com
 0.0.0.0 d9.zedo.com
 0.0.0.0 d9650.com
 0.0.0.0 d98f51.cc
@@ -18286,7 +18278,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ds-vn.serving-sys.com
 0.0.0.0 ds-www.addthis.com.edgekey.net
 0.0.0.0 ds.advg.jp
-0.0.0.0 ds.contextweb.com
 0.0.0.0 ds.cybereps.com
 0.0.0.0 ds.eyeblaster.com
 0.0.0.0 ds.ign.us.intellitxt.com
@@ -20162,7 +20153,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fdn-en.net
 0.0.0.0 fdoverbilled.com
 0.0.0.0 fdsb.troove.top
-0.0.0.0 fdz.flashtalking.com
 0.0.0.0 fe.brandreachsys.com
 0.0.0.0 fe.lea.lycos.es
 0.0.0.0 fe6rrx.lol
@@ -23620,7 +23610,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 img.e-nls.com
 0.0.0.0 img.eclick.vn
 0.0.0.0 img.en25.com
-0.0.0.0 img.flashtalking.com
 0.0.0.0 img.fluct.jp
 0.0.0.0 img.fluct.jp.eimg.jp
 0.0.0.0 img.i2i.jp
@@ -24801,7 +24790,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jaspiblog.blogspot.com
 0.0.0.0 jassoma.top
 0.0.0.0 jav.ee
-0.0.0.0 jav.jave.xyz
 0.0.0.0 javaiklan.com
 0.0.0.0 javajive.xyz
 0.0.0.0 javajubilee.xyz
@@ -28007,7 +27995,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 media.cashcownetworks.com
 0.0.0.0 media.charter.com
 0.0.0.0 media.cloudbytesolutions.org
-0.0.0.0 media.contextweb.com
 0.0.0.0 media.corevantage.org
 0.0.0.0 media.easyads.bg
 0.0.0.0 media.espace-plus.net
@@ -37781,7 +37768,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 push.connecto.io
 0.0.0.0 push.mgage.com
 0.0.0.0 push.mob.com
-0.0.0.0 push.mobilefonex.com
 0.0.0.0 push.oncustomer.asia
 0.0.0.0 push.poptm.com
 0.0.0.0 push.scloud.lfengmobile.com
@@ -40987,7 +40973,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 smartbizline.buzz
 0.0.0.0 smartcanvas.net
 0.0.0.0 smartcarfinder.us.intellitxt.com
-0.0.0.0 smartclip.net
 0.0.0.0 smartcloudss.info
 0.0.0.0 smartdatahub.info
 0.0.0.0 smartdevicecentral.us.intellitxt.com
@@ -42094,7 +42079,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.atrl.co
 0.0.0.0 stats.avast.com
 0.0.0.0 stats.aws.rubiconproject.com
-0.0.0.0 stats.bannersnack.com
 0.0.0.0 stats.canalblog.com
 0.0.0.0 stats.cityadstrack.com
 0.0.0.0 stats.clickability.com
@@ -42862,7 +42846,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sypharmaequipments.com
 0.0.0.0 syqutiu.autos
 0.0.0.0 syqutiu.store
-0.0.0.0 sys.jave.xyz
 0.0.0.0 sysadmin.map24.com
 0.0.0.0 syscodezz.xyz
 0.0.0.0 sysip.net
@@ -43029,7 +43012,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tag.brainient.com
 0.0.0.0 tag.clrstm.com
 0.0.0.0 tag.cogocast.net
-0.0.0.0 tag.contextweb.com
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 tag.demandbase.com
 0.0.0.0 tag.dickssportinggoods.com
@@ -118956,7 +118938,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xyz.freelogs.com
 0.0.0.0 xyz.freeweblogger.com
 0.0.0.0 xyz.verifications.io.vn
-0.0.0.0 xz.jave.xyz
 0.0.0.0 y.atwola.com
 0.0.0.0 y.cdn.adblade.com
 0.0.0.0 y.extreme-dm.com
