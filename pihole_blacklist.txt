@@ -21302,7 +21302,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gemevo.com
 0.0.0.0 gemininx.com
 0.0.0.0 gemohub.com
-0.0.0.0 gemoneysinsbicard2.112.2o7.net
 0.0.0.0 gems1oneg11mmer.xyz
 0.0.0.0 generaldigital.site
 0.0.0.0 generation-nt.fr.intellitxt.com
@@ -29341,7 +29340,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 myfreedinner.com
 0.0.0.0 myfreegifts.co.uk
 0.0.0.0 myfreemp3player.com
-0.0.0.0 mygreatrewards.com
 0.0.0.0 myhealthician.com
 0.0.0.0 myhomecareny.com
 0.0.0.0 myjammerz.com
@@ -30789,7 +30787,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ochnikqx.shop
 0.0.0.0 ociasb.adtiming.com
 0.0.0.0 ocio.leadzu.com
-0.0.0.0 oclaserver.com
 0.0.0.0 oclopes.fr
 0.0.0.0 ocpersian.com
 0.0.0.0 ocs.websponsors.com
@@ -39966,7 +39963,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdk.jiguang.cn
 0.0.0.0 sdk.moneyoyo.com
 0.0.0.0 sdk.open.inc2.igexin.com
-0.0.0.0 sdk.out.usbla.net
 0.0.0.0 sdk.playtem.com
 0.0.0.0 sdk.push.mob.com
 0.0.0.0 sdk.pushdi.com
@@ -42175,7 +42171,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stayissueguest015538.world
 0.0.0.0 stbarbara-church.org
 0.0.0.0 stbarth-adventure.top
-0.0.0.0 stbottles.com
 0.0.0.0 stc.adtima.vn
 0.0.0.0 stc.gammaplatform.com
 0.0.0.0 stc.interactive.brand.zing.vn
@@ -44937,7 +44932,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tube8vidszmi.ddns.name
 0.0.0.0 tubemogul154237275611.s.moatpixel.com
 0.0.0.0 tubemogulvideoint58768396734.s.moatpixel.com
-0.0.0.0 tubgirl.org
 0.0.0.0 tublogueramental.com
 0.0.0.0 tubolsilloloagradecera.com
 0.0.0.0 tubr8.fr
