@@ -1182,7 +1182,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 3jmcwio.com
 0.0.0.0 3jsvenada.com
 0.0.0.0 3lazos.com
-0.0.0.0 3lm.info
 0.0.0.0 3lp2qznvfem8cr4.vtvsa.pl
 0.0.0.0 3mfrances.fr
 0.0.0.0 3omtnogn5g.id-14582258.zerkajstudio.com
@@ -2085,7 +2084,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ab65627912.my-plus.online
 0.0.0.0 ab8awk.rest
 0.0.0.0 ab9fxq.lat
-0.0.0.0 aba.gumgum.com
 0.0.0.0 abacusfinance.co.uk
 0.0.0.0 abadislot93.com
 0.0.0.0 abagril.com
@@ -3020,7 +3018,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-i2i.jp
 0.0.0.0 ads-lfi3olnec7fr.stackpathdns.com
-0.0.0.0 ads-link.net
 0.0.0.0 ads-mediafin.adhese.com
 0.0.0.0 ads-nrc.adhese.com
 0.0.0.0 ads-pebblemedia.adhese.com
@@ -3373,7 +3370,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.megaproxy.com
 0.0.0.0 ads.memob.com
 0.0.0.0 ads.metblogs.com
-0.0.0.0 ads.miarroba.com
 0.0.0.0 ads.milliyet.cubecdn.net
 0.0.0.0 ads.mindsetnetwork.com
 0.0.0.0 ads.mindviz.com
@@ -11198,7 +11194,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 arena.altitude-arena.com
 0.0.0.0 arena.altitudeplatform.com
 0.0.0.0 aresboot.xyz
-0.0.0.0 aresweb.fr
 0.0.0.0 aretireearly.com
 0.0.0.0 arevah-blog.online
 0.0.0.0 arevu.net
@@ -13672,7 +13667,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.fqtag.com
 0.0.0.0 c.ftstats.com
 0.0.0.0 c.gmtrack.com
-0.0.0.0 c.gumgum.com
 0.0.0.0 c.hrzn-nxt.com
 0.0.0.0 c.isdspeed.qq.com
 0.0.0.0 c.jsrdn.com
@@ -16174,7 +16168,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cookiematch-us-west-2.prod.justpremium.com
 0.0.0.0 cookies.nextmillmedia.com
 0.0.0.0 cookingcom.112.2o7.net
-0.0.0.0 cookingtiprewards.com
 0.0.0.0 cooknfit.com
 0.0.0.0 cooknova.click
 0.0.0.0 cookpath.xyz
@@ -16428,7 +16421,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cra-arc-gc-ca.noads.biz
 0.0.0.0 cra-etransfer.online
 0.0.0.0 crackguru.tk
-0.0.0.0 cracksplanet.com
 0.0.0.0 crackzplanet.com
 0.0.0.0 craftergardener.com
 0.0.0.0 craftpdf.com
@@ -21035,7 +21027,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 g1woft.lol
 0.0.0.0 g2.072m.com
 0.0.0.0 g2.112.2o7.net
-0.0.0.0 g2.gumgum.com
 0.0.0.0 g2eld.doctorhey.com
 0.0.0.0 g2hministries.org
 0.0.0.0 g2lq8.top
@@ -22671,7 +22662,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hitboxbenchmarker.com
 0.0.0.0 hitboxcentral.com
 0.0.0.0 hitcounter01.xspp.com
-0.0.0.0 hitcounters.miarroba.com
 0.0.0.0 hiteck.fr
 0.0.0.0 hitpro.us
 0.0.0.0 hitrafficip.com
@@ -22791,7 +22781,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 homegymsweb.com
 0.0.0.0 homehre.bravehost.com
 0.0.0.0 homehre.ifrance.com
-0.0.0.0 homeishere.co
 0.0.0.0 homekeepinghouse.com
 0.0.0.0 homemakershive.com
 0.0.0.0 homemanage-acc-renew.work.gd
@@ -23984,7 +23973,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 infoworldmediagroup.112.2o7.net
 0.0.0.0 infoworldnews.site
 0.0.0.0 infozonekw.com
-0.0.0.0 infra.by
 0.0.0.0 infrapulse.online
 0.0.0.0 infrastrategy.122.2o7.net
 0.0.0.0 infratotalduicom.122.2o7.net
@@ -25175,7 +25163,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.genieessp.com
 0.0.0.0 js.gleam.io
 0.0.0.0 js.goods.redtram.com
-0.0.0.0 js.gumgum.com
 0.0.0.0 js.himediads.com
 0.0.0.0 js.hotkeys.com
 0.0.0.0 js.hscollectedforms.net
@@ -30163,7 +30150,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nl1.ero-advertising.com
 0.0.0.0 nl2.ero-advertising.com
 0.0.0.0 nl4.hit.stat24.com
-0.0.0.0 nlocalhost.wordtheminer.com
 0.0.0.0 nm.5.p2l.info
 0.0.0.0 nmanchorage.112.2o7.net
 0.0.0.0 nmbakersfieldca.112.2o7.net
@@ -34097,7 +34083,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 online-prod.zenmxapps.com
 0.0.0.0 online-store2.vip
 0.0.0.0 online.lettters.click
-0.0.0.0 online.miarroba.com
 0.0.0.0 online.mobify.net
 0.0.0.0 online.privacys.click
 0.0.0.0 online.sh.cn
@@ -34155,7 +34140,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 oofun.com
 0.0.0.0 oojx.14782503.xyz
 0.0.0.0 oojx.34782503.xyz
-0.0.0.0 oolo.fr
 0.0.0.0 oolx-834.784154871.xyz
 0.0.0.0 oolx-92.984154871.xyz
 0.0.0.0 oolx.039715481.xyz
@@ -34316,8 +34300,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 opx-winners-us-east-1-rtb.adroll.com
 0.0.0.0 oqhkwlnufb.cfolks.pl
 0.0.0.0 oqx.46124723.xyz
-0.0.0.0 or-g2.gumgum.com
-0.0.0.0 or-lb.gumgum.com
 0.0.0.0 or.5.p2l.info
 0.0.0.0 or1ydh.icu
 0.0.0.0 or3xmi.lat
@@ -37799,7 +37781,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pwwysydh.com
 0.0.0.0 px-eu.adhigh.net
 0.0.0.0 px.a8.net
-0.0.0.0 px.gumgum.com
 0.0.0.0 px.moatads.com
 0.0.0.0 px.quantserve.com
 0.0.0.0 px.saostar.vn
@@ -38694,7 +38675,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 retirewellinvestors.com
 0.0.0.0 retreatabroad.com
 0.0.0.0 retreatpro.com
-0.0.0.0 retrofuture.fr
 0.0.0.0 retrohordestore.com
 0.0.0.0 retroprofit.net
 0.0.0.0 retroprofit.org
@@ -39075,7 +39055,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rtb.d.adup-tech.com
 0.0.0.0 rtb.da.us.criteo.com
 0.0.0.0 rtb.eclick.vn
-0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtb.hk.as.criteo.com
 0.0.0.0 rtb.metrigo.com
 0.0.0.0 rtb.mfadsrvr.com
@@ -41026,7 +41005,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 smile-angel.com
 0.0.0.0 smithplatinum.com
 0.0.0.0 smithwick.net
-0.0.0.0 smitt.nl
 0.0.0.0 smobiilifi-kampanja.com
 0.0.0.0 smobiilifikampanja.com
 0.0.0.0 smobiilisuomifi.com
@@ -45429,7 +45407,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 update.spotlfy-48382.servernux.com
 0.0.0.0 update.stickyadstv.com
 0.0.0.0 update.tas.yieldmo.com
-0.0.0.0 update.wo.gumgum.com
 0.0.0.0 update.wtag.adaptv.advertising.com
 0.0.0.0 update714.membership.louis-ip.com
 0.0.0.0 update714.membership.servernux.com
@@ -45506,7 +45483,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 urlregistrar.net
 0.0.0.0 urlreload.net
 0.0.0.0 urlscanner.net
-0.0.0.0 urlsync.com
 0.0.0.0 urlupdates.com
 0.0.0.0 urlviaweb.com
 0.0.0.0 urologiemoderna.com
@@ -45707,7 +45683,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 v2.viayonetici.com
 0.0.0.0 v2.yieldlove-ad-serving.net
 0.0.0.0 v2hpl1.skin
-0.0.0.0 v2profit.com
 0.0.0.0 v2qcca.hair
 0.0.0.0 v3-ads-st-vcdn.anthill.vn
 0.0.0.0 v3-st-vcdn.anthill.vn
@@ -45735,8 +45710,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 v8push.pinsightmedia.com
 0.0.0.0 v8ulgh.webwave.dev
 0.0.0.0 v9or14.sbs
-0.0.0.0 va-g2.gumgum.com
-0.0.0.0 va-lb.gumgum.com
 0.0.0.0 va-pool.2o7.net
 0.0.0.0 va.5.p2l.info
 0.0.0.0 va.oneteaams.top
@@ -46172,7 +46145,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 view.jamba.de
 0.0.0.0 viewerstats.docstoc.com.s3.amazonaws.com
 0.0.0.0 views.m4n.nl
-0.0.0.0 viewstracker.com
 0.0.0.0 viewtools.com
 0.0.0.0 viglink.fr
 0.0.0.0 viglink.pgpartner.com
@@ -47129,7 +47101,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 webnetra.entelnet.bo
 0.0.0.0 webnodelink.xyz
 0.0.0.0 weborg.hut1.ru
-0.0.0.0 webpagetest.net
 0.0.0.0 webpageupdate.co
 0.0.0.0 webpaypal.com
 0.0.0.0 webprog.oewabox.at
@@ -119330,7 +119301,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zgloszeniaiwypadki.pl
 0.0.0.0 zh1.zeroredirect11.com
 0.0.0.0 zhivi.prostosdavai.top
-0.0.0.0 ziablov.com
 0.0.0.0 zicare-uk.com
 0.0.0.0 zientist.com
 0.0.0.0 zierzolab.com
