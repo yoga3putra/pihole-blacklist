@@ -13308,7 +13308,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 breizh-ile.fr
 0.0.0.0 brentwood-roofing.com
 0.0.0.0 brevardmusic.com
-0.0.0.0 brevio.pl
 0.0.0.0 breviralabs.store
 0.0.0.0 brewedbeauty.xyz
 0.0.0.0 bribonxl.com
@@ -15088,7 +15087,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 chillfrostdreams.cfd
 0.0.0.0 chillguycto.com
 0.0.0.0 chillyhiss.update-checker-status.cc
-0.0.0.0 chilyregistrycleaner.com
 0.0.0.0 china-allegro.online
 0.0.0.0 china-hbq.com
 0.0.0.0 china-ihbp.com
@@ -18080,7 +18078,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 douwalk.com
 0.0.0.0 dove.saymedia.com
 0.0.0.0 dovril.click
-0.0.0.0 dowhatyouneed.com
 0.0.0.0 dowjones.122.2o7.net
 0.0.0.0 down.feiyang163.com
 0.0.0.0 down.sqlnetcat.com
@@ -19256,7 +19253,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 enhance.genieesspv.jp
 0.0.0.0 enhancecredit.com
 0.0.0.0 enigmahearth.store
-0.0.0.0 enigmasoftware.com
 0.0.0.0 eninnovation.xyz
 0.0.0.0 enjoyhearts.blogspot.com
 0.0.0.0 enjoyyourwebs.com
@@ -25773,7 +25769,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 korune-wajatu.site
 0.0.0.0 kos.interseek.si
 0.0.0.0 kosanyi.pics
-0.0.0.0 kosmetyki24.eu
 0.0.0.0 kosmichesska.top
 0.0.0.0 kosterkeunen.net
 0.0.0.0 koszykrd.wp.pl
@@ -45427,7 +45422,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 updatingpage.com
 0.0.0.0 updatingwebpage.com
 0.0.0.0 updima.net
-0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 upgrade-ms-home.com
 0.0.0.0 upgradforbusiness.com
 0.0.0.0 upi.112.2o7.net
