@@ -118678,7 +118678,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 x.clickcertain.com
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 x.fidelity-media.com
-0.0.0.0 x.interia.pl
 0.0.0.0 x.mochiads.com
 0.0.0.0 x.shoplifeweb.online
 0.0.0.0 x.waptrad.top
