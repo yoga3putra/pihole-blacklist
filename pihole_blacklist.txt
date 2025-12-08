@@ -67,7 +67,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0-olx.05326325.xyz
 0.0.0.0 0-olx.1850943.xyz
 0.0.0.0 0-olz.165094325.xyz
-0.0.0.0 0-pixel.com
 0.0.0.0 0.0.0.0
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -1395,7 +1394,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 59.124.106.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 59.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 59154812.xyz
-0.0.0.0 595s.com
 0.0.0.0 596e921984.plus3m.fun
 0.0.0.0 59837a9cf0.my-dplus.online
 0.0.0.0 599.stats.misstrends.com
@@ -1530,7 +1528,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 762d46b4fc.40aliegro.fun
 0.0.0.0 77.229.31.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 77266.hittail.com
-0.0.0.0 77search.com
 0.0.0.0 781.metrd.site
 0.0.0.0 78265956.xyz
 0.0.0.0 78276.ussdns01.heketwe.com
@@ -1596,7 +1593,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 84.56.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 84.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 8482194.fls.doubleclick.net
-0.0.0.0 849818.com
 0.0.0.0 85.10.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 85103.hittail.com
 0.0.0.0 854.api.swrve.com
@@ -1604,7 +1600,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
 0.0.0.0 86-a-adm.one
 0.0.0.0 8604.engine.mobileapptracking.com
-0.0.0.0 865709.com
 0.0.0.0 8659154.xyz
 0.0.0.0 869f3e5755.my-plus.fun
 0.0.0.0 87362736.xyz
@@ -2274,7 +2269,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 active.hit.stat24.com
 0.0.0.0 activebeat.fr
 0.0.0.0 activechoice.info
-0.0.0.0 activehyip.com
 0.0.0.0 activelifeibiza.com
 0.0.0.0 activestin-pl.great-beauty.org
 0.0.0.0 activewin.us.intellitxt.com
@@ -4351,7 +4345,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aftertheputin.com
 0.0.0.0 aftertheupdate.online
 0.0.0.0 aftinu.lat
-0.0.0.0 afuplabinrtes.com
 0.0.0.0 afx.tagcdn.com
 0.0.0.0 ag.gbc.criteo.com
 0.0.0.0 ag.innovid.com
@@ -4595,7 +4588,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aiparquitectura.com
 0.0.0.0 aiplvitkac.vip
 0.0.0.0 aiproj.facepl.com
-0.0.0.0 aiprophoto.com
 0.0.0.0 aiqua-config.c.appier.net
 0.0.0.0 aiqua-sdk.c.appier.net
 0.0.0.0 aiqua-user.c.appier.net
@@ -4612,7 +4604,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 airmore.co
 0.0.0.0 airoadzxyz.xyz
 0.0.0.0 aironn-tr.com
-0.0.0.0 airpause.com
 0.0.0.0 airporttransferlondon.com
 0.0.0.0 airydress.com
 0.0.0.0 aisafoto.com
@@ -4632,7 +4623,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ajc.us.intellitxt.com
 0.0.0.0 ajcclassifieds.com
 0.0.0.0 ajeaangola.com
-0.0.0.0 ajfrult.com
 0.0.0.0 ajjegro.26253652.xyz
 0.0.0.0 ajouny.com
 0.0.0.0 ajuarstudio.com
@@ -11530,7 +11520,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 atlasformrn.fr
 0.0.0.0 atlassbx.com
 0.0.0.0 atlassian.122.2o7.net
-0.0.0.0 atlaszanzibar.com
 0.0.0.0 atlauncher.fr
 0.0.0.0 atlotion.com
 0.0.0.0 atodamadre.com
@@ -11793,7 +11782,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ay.eastmoney.com
 0.0.0.0 ay.pay.www.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru
 0.0.0.0 ay.www.youla.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru
-0.0.0.0 ay5snx.rest
 0.0.0.0 ayboll.sgsrv.com
 0.0.0.0 aymantalukder.com
 0.0.0.0 ayuda-gratis.com
@@ -11867,7 +11855,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 b10trmb342.lol
 0.0.0.0 b174.s240.meetrics.net
 0.0.0.0 b1fe8a95ae27823.com
-0.0.0.0 b1qahe.one
 0.0.0.0 b1t-chidc2.zemanta.com
 0.0.0.0 b1t-nydc1.zemanta.com
 0.0.0.0 b24a202416.dis-plus.fun
@@ -11900,7 +11887,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 b7ad4cb575.dplsus.online
 0.0.0.0 b7xgsz.skin
 0.0.0.0 b8af7682b6.diruwa.pl
-0.0.0.0 b8xmug.cyou
 0.0.0.0 b95.s79.research.de.com
 0.0.0.0 b9kdkc.skin
 0.0.0.0 babanetwork.adk2x.com
@@ -12986,7 +12972,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bloombergprebidheader853620778109.s.moatpixel.com
 0.0.0.0 bloomessence91.sbs
 0.0.0.0 bloomfield202.sbs
-0.0.0.0 bloomgardenhub.com
 0.0.0.0 bloominggarden9.sbs
 0.0.0.0 bloopveer5.store
 0.0.0.0 blossdesignandfab.com
@@ -13770,7 +13755,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 c5.somalisounds.com
 0.0.0.0 c5.zedo.com
 0.0.0.0 c507c02a0f.www-dis.lat
-0.0.0.0 c5cxmh.bond
 0.0.0.0 c5merc.lat
 0.0.0.0 c5yev7q9spfijdw.plto920dl20a-28ad.pl
 0.0.0.0 c6.amazingcounters.com
@@ -14115,10 +14099,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 case-id-100038843.dafea.co.uk
 0.0.0.0 case.clmbtech.com
 0.0.0.0 caseinteligente.com
-0.0.0.0 caserix.com
 0.0.0.0 casetasdeocasion.com
-0.0.0.0 caseteos.com
-0.0.0.0 caseters.com
 0.0.0.0 casetesy.com
 0.0.0.0 cash-advance.now-cash.com
 0.0.0.0 cashandlife.com
@@ -15697,7 +15678,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 co.dewrain.life
 0.0.0.0 co.rapidfinancekingdom.com
 0.0.0.0 co.vaicore.site
-0.0.0.0 co8ccj.cyou
 0.0.0.0 coachingbusinesschallenge.com
 0.0.0.0 coastalcapriclub.org
 0.0.0.0 coastalsuperior.com
@@ -16510,7 +16490,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cricket.mobileposse.com
 0.0.0.0 cricrosterrumble.com
 0.0.0.0 crid.bfmio.com
-0.0.0.0 criip.uno
 0.0.0.0 crilly.top
 0.0.0.0 crilns.com
 0.0.0.0 crimesound.xyz
@@ -16712,7 +16691,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 custom-wrs.api.responsys.net
 0.0.0.0 custom.yieldify.com
 0.0.0.0 customcarvideos.com
-0.0.0.0 customek.com
 0.0.0.0 customer.cludo.com
 0.0.0.0 customerarealog.es
 0.0.0.0 customers-lidl.kameleoon.com
@@ -16959,7 +16937,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 d806-us.api.decibelinsight.net
 0.0.0.0 d8wj17bovxl46ac.vtvsa.pl
 0.0.0.0 d9.zedo.com
-0.0.0.0 d9650.com
 0.0.0.0 d98f51.cc
 0.0.0.0 d9d0e0.r.axf8.net
 0.0.0.0 da.chartboost.com
@@ -17329,7 +17306,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 decebal.net
 0.0.0.0 decision.taplytics.com
 0.0.0.0 deckers.112.2o7.net
-0.0.0.0 deckthelights.org
 0.0.0.0 decolonizepalestine.org
 0.0.0.0 decompiler.fr
 0.0.0.0 decoorma.com
@@ -17538,7 +17514,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 descuentosparamimoto.com
 0.0.0.0 desede-ch.com
 0.0.0.0 deseretnews.112.2o7.net
-0.0.0.0 deshibajar.com
 0.0.0.0 deshmedia.com
 0.0.0.0 designbloxlive.com
 0.0.0.0 designbytufa.com
@@ -17558,7 +17533,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 detecfuga.com
 0.0.0.0 detect-survey.effectivemeasure.net
 0.0.0.0 detect.rayjump.com
-0.0.0.0 detected-advanced-data-issue.top
 0.0.0.0 detected-proven-issue-network.top
 0.0.0.0 detectedactivitiesrecommendedscanner.top
 0.0.0.0 detectedprovenissuenetwork.top
@@ -17952,7 +17926,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dnu-sociology-pua.com
 0.0.0.0 dnythgt.com
 0.0.0.0 dobbenetes.com
-0.0.0.0 dobre-programy.pl
 0.0.0.0 dobre-programy.xyz
 0.0.0.0 dobrefilmyhd.blogspot.com
 0.0.0.0 dobreprogramy.pro
@@ -18563,7 +18536,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 e111.yt.srs.doubleverify.com
 0.0.0.0 e112.yt.srs.doubleverify.com
 0.0.0.0 e1345286.api.splkmobile.com
-0.0.0.0 e1dwwk.icu
 0.0.0.0 e1ymgv.skin
 0.0.0.0 e2.cdn.qnsr.com
 0.0.0.0 e2.extreme-dm.com
@@ -18596,7 +18568,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 e89.friendfinder.com
 0.0.0.0 e93-apps.com
 0.0.0.0 e9lvau.lat
-0.0.0.0 e9qtif.icu
 0.0.0.0 ea.zebestof.com
 0.0.0.0 ea2hgw.lat
 0.0.0.0 eabf3452b3.dis-plus.fun
@@ -19343,7 +19314,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eretracoih.com
 0.0.0.0 erfg2.finstart.life
 0.0.0.0 ergensu.com
-0.0.0.0 ericpalma.net
 0.0.0.0 erie.smartage.com
 0.0.0.0 erieareahomes.com
 0.0.0.0 erimmuyn.github.io
@@ -19831,7 +19801,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 extremereach.com
 0.0.0.0 extremetech.us.intellitxt.com
 0.0.0.0 extrovert.122.2o7.net
-0.0.0.0 ey4vfj.icu
 0.0.0.0 eycnlprod.112.2o7.net
 0.0.0.0 eyeblaster.akadns.net
 0.0.0.0 eyeconscy.com
@@ -19849,7 +19818,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ezgds.112.2o7.net
 0.0.0.0 ezpayrollhr.com
 0.0.0.0 eztracks.us.intellitxt.com
-0.0.0.0 eztrck.com
 0.0.0.0 f-ev1.imml.top
 0.0.0.0 f-js1.spotsniper.ru
 0.0.0.0 f-pl3.alre.top
@@ -20331,7 +20299,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 finance4impact.com
 0.0.0.0 financeequitenewz.com
 0.0.0.0 financeforanyone.com
-0.0.0.0 financephantomai.com
 0.0.0.0 financetrack.cfd
 0.0.0.0 financeworldcongress.com
 0.0.0.0 financialtimesdfp415669142494.s.moatpixel.com
@@ -20414,7 +20381,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fitnessfacets.com
 0.0.0.0 fitnessfeminista.com
 0.0.0.0 fitnesshealthreporter.com
-0.0.0.0 fitnesstips.pl
 0.0.0.0 fitoquite.shop
 0.0.0.0 fittruejet.xyz
 0.0.0.0 fiu-fiu.xyz
@@ -20570,7 +20536,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 foolsbean.com
 0.0.0.0 foopossession.xyz
 0.0.0.0 foosimplicity.xyz
-0.0.0.0 footballyouthclub.com
 0.0.0.0 footedadultpajamas.com
 0.0.0.0 footedjammers.com
 0.0.0.0 footedjammerz.com
