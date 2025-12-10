@@ -44878,7 +44878,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 turoziy.online
 0.0.0.0 turquiebariatrique.com
 0.0.0.0 turtbag.com
-0.0.0.0 turutaperfecta.com
 0.0.0.0 turystyczne-suwalki.pl
 0.0.0.0 tuscontenidos.com
 0.0.0.0 tusdecimosdeloteria.net
@@ -45032,7 +45031,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 u5687.48.spylog.com
 0.0.0.0 u574.07.spylog.com
 0.0.0.0 u5cpue.rest
-0.0.0.0 u5pqrr.cyou
 0.0.0.0 u604.41.spylog.com
 0.0.0.0 u6442896.ct.sendgrid.net
 0.0.0.0 u6762.46.spylog.com
@@ -45592,7 +45590,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 v3-st-vcdn.anthill.vn
 0.0.0.0 v3.toolbar.soso.com
 0.0.0.0 v3.viayonetici.com
-0.0.0.0 v3bzvg.icu
 0.0.0.0 v3sopl.top
 0.0.0.0 v3spl2.top
 0.0.0.0 v3wlxn.lat
@@ -45662,7 +45659,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 valuadeals.com
 0.0.0.0 valuecommerce.ne.jp
 0.0.0.0 valuehost.co.uk
-0.0.0.0 valyro.com
 0.0.0.0 valzcorp.com
 0.0.0.0 vamosareformar.com
 0.0.0.0 vampiresunscreen.org
@@ -45674,7 +45670,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vandler.com
 0.0.0.0 vanguardair.com
 0.0.0.0 vaniqa.1.p2l.info
-0.0.0.0 vanityhealthclub.com
 0.0.0.0 vanlai.com
 0.0.0.0 vanns.112.2o7.net
 0.0.0.0 vantageboost.cfd
@@ -45740,7 +45735,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vblimanews.xyz
 0.0.0.0 vbluenewspro.xyz
 0.0.0.0 vc.hotjar.io
-0.0.0.0 vc5jfy.rest
 0.0.0.0 vcard50.ru
 0.0.0.0 vcdn.anthill.vn
 0.0.0.0 vcdn.media.innity.net
@@ -46720,7 +46714,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 w55ue23g8jbh01873h77soik.musicpuse.com
 0.0.0.0 w56h4nje9rf59ou538qje9hq.makeupfrit.com
 0.0.0.0 w5fesg7nkm51sa47jah93lus.techdase.com
-0.0.0.0 w5iypn.icu
 0.0.0.0 w5jd1s8joolmb8c63odjv7os.gadgetazure.com
 0.0.0.0 w5nkagu3isu8sg06317755ui.animalsleash.com
 0.0.0.0 w5nl58s1f54fdat83b78o2l6.joystickjoygame.com
@@ -47579,7 +47572,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 workingdem.com
 0.0.0.0 workingwifemom.com
 0.0.0.0 workopolis.122.2o7.net
-0.0.0.0 workpedia.org
 0.0.0.0 workplanetida.com
 0.0.0.0 workpostworkshop.com
 0.0.0.0 works-power.com
@@ -118813,9 +118805,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 y0.extreme-dm.com
 0.0.0.0 y1.extreme-dm.com
 0.0.0.0 y10ifb.online
-0.0.0.0 y1ibco.cyou
 0.0.0.0 y2ncox.lol
-0.0.0.0 y3abde.rest
 0.0.0.0 y3dx36f6.love6d.com
 0.0.0.0 y3ebie.top
 0.0.0.0 y3vprq.top
