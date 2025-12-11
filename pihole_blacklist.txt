@@ -1539,7 +1539,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 791026.com
 0.0.0.0 7930264.xyz
 0.0.0.0 79423.analytics.edgekey.net
-0.0.0.0 7adpower.com
 0.0.0.0 7aseb.com
 0.0.0.0 7b41a95ced.dis-plus.fun
 0.0.0.0 7b62s3hfwo8vg9.my-dis.site
@@ -3425,7 +3424,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.perfectaudience.com
 0.0.0.0 ads.persgroep.adhese.com
 0.0.0.0 ads.persgroep.net
-0.0.0.0 ads.pexi.nl
 0.0.0.0 ads.phillipsdata.us
 0.0.0.0 ads.phillyburbs.com
 0.0.0.0 ads.phonearena.com
@@ -44326,7 +44324,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracker.remp.impresa.pt
 0.0.0.0 tracker.squidanalytics.com
 0.0.0.0 tracker.truehits.net
-0.0.0.0 tracker.zmaticoo.com
 0.0.0.0 tracker1.leadiya.com
 0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 trackertracker.com
@@ -47592,7 +47589,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 worldsgreatestroofer.com
 0.0.0.0 worldtrack789.sbs
 0.0.0.0 worldtravelguide.uk.intellitxt.com
-0.0.0.0 worldtus.com
 0.0.0.0 worldwide40.com
 0.0.0.0 worldwidefestival.fr
 0.0.0.0 worldwlde-express.com
