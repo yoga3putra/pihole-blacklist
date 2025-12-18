@@ -2864,7 +2864,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adimpkwd.excite.co.jp
 0.0.0.0 adimpression.startappservice.com
 0.0.0.0 adin.bigpoint.com
-0.0.0.0 adingo.jp.eimg.jp
 0.0.0.0 adinterax.cnet.com.edgesuite.net
 0.0.0.0 adipex.1.p2l.info
 0.0.0.0 adipex.24sws.ws
@@ -12496,7 +12495,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 benveturkiye.com
 0.0.0.0 beoagencia.com
 0.0.0.0 beonlinetrainer.com
-0.0.0.0 bepayedtoday.com
 0.0.0.0 bepureglow.com
 0.0.0.0 berabiz.autos
 0.0.0.0 berbrokerseguros.com
@@ -12521,7 +12519,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 best2017games.com
 0.0.0.0 best2019-games-web1.com
 0.0.0.0 bestabove.net
-0.0.0.0 bestadbid.com
 0.0.0.0 bestappinstalls.com
 0.0.0.0 bestblackhatforum.fr
 0.0.0.0 bestbuilderuk.com
@@ -12954,7 +12951,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blog.ero-advertising.com
 0.0.0.0 blog.intext.ero-advertising.com
 0.0.0.0 blog.livedooor.info
-0.0.0.0 blog.livelog.biz
 0.0.0.0 blog.whampl.top
 0.0.0.0 blog.with2.net
 0.0.0.0 blogadswap.com
@@ -14099,7 +14095,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 casetasdeocasion.com
 0.0.0.0 casetesy.com
 0.0.0.0 cash-advance.now-cash.com
-0.0.0.0 cashandlife.com
 0.0.0.0 cashbackwow.co.uk
 0.0.0.0 cashbridge.website
 0.0.0.0 cashcarbuying.com
@@ -25626,7 +25621,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 klorey.top
 0.0.0.0 klosemyshoes.xyz
 0.0.0.0 klosinakist.xyz
-0.0.0.0 klove.fr
 0.0.0.0 klowns4phun.com
 0.0.0.0 kls.secure-cart.biz
 0.0.0.0 klsdee.com
@@ -34504,7 +34498,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 p.multiquicks.net
 0.0.0.0 p.nexac.com
 0.0.0.0 p.nxtck.com
-0.0.0.0 p.permalink-system.com
 0.0.0.0 p.placemypixel.com
 0.0.0.0 p.presage.io
 0.0.0.0 p.profistats.net
