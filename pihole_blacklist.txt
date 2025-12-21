@@ -22573,7 +22573,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hiq.fotolog.com
 0.0.0.0 hir-tv.com
 0.0.0.0 hirado.top
-0.0.0.0 hirek-online.com
 0.0.0.0 hireproplus.com
 0.0.0.0 hirfolyam24.blogspot.hu
 0.0.0.0 hirmadar.com
@@ -27005,7 +27004,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 loopverse.site
 0.0.0.0 loopvista.online
 0.0.0.0 loopweaver.site
-0.0.0.0 loopybatl.site
 0.0.0.0 lopa.freetheme.top
 0.0.0.0 lopar.bestospastos.top
 0.0.0.0 lopertest.com
@@ -42028,7 +42026,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats5.lightningcast.com
 0.0.0.0 stats6.lightningcast.net
 0.0.0.0 statsandprofits.com
-0.0.0.0 statsf-tm.everesttech.net
 0.0.0.0 statsf.tubemogul.com
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 statsp.fpop.net
