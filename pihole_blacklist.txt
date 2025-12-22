@@ -2489,7 +2489,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.rs.doubleclick.net
 0.0.0.0 ad.ru.doubleclick.net
 0.0.0.0 ad.samsungadhub.com
-0.0.0.0 ad.se.doubleclick.net
 0.0.0.0 ad.searchhound.com
 0.0.0.0 ad.searchteria.co.jp
 0.0.0.0 ad.sensismediasmart.com
@@ -4009,7 +4008,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adssrv.nationmultimedia.com
 0.0.0.0 adstaces.ero-advertising.com
 0.0.0.0 adstacks.gotrackier.com
-0.0.0.0 adstars.co.id
 0.0.0.0 adstax-cdn.adrtx.net
 0.0.0.0 adstax-match-proxy.adrtx.net
 0.0.0.0 adstax-match.adrtx.net
@@ -44475,7 +44473,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 trafficex.adlandpro.com
 0.0.0.0 trafficgateway.research-int.se
 0.0.0.0 traffick.jivox.com
-0.0.0.0 trafficnetworkads24.com
 0.0.0.0 trafficopen.com
 0.0.0.0 traffprofit.com
 0.0.0.0 trafsearchonline.com
