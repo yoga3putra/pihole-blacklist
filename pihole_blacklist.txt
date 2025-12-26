@@ -13971,7 +13971,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 capecodonlinecom.112.2o7.net
 0.0.0.0 capelladev.112.2o7.net
 0.0.0.0 capfundai.online
-0.0.0.0 capi.connatix.com
 0.0.0.0 capitalgroup.112.2o7.net
 0.0.0.0 capitallyourmap.xyz
 0.0.0.0 capitalpulse.sa.com
@@ -16556,7 +16555,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 cs.exitmonitor.com
 0.0.0.0 cs.lkqd.net
-0.0.0.0 cs.media.net
 0.0.0.0 cs.montrealplus.ca
 0.0.0.0 cs.nex8.net
 0.0.0.0 cs.r-ad.ne.jp
