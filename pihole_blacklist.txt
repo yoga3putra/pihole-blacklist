@@ -41159,7 +41159,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sonycorporate.112.2o7.net
 0.0.0.0 sonycorporate.122.2o7.net
 0.0.0.0 sonyelectronicssupportus.112.2o7.net
-0.0.0.0 sonyglobal.112.2o7.net
 0.0.0.0 sonygs.112.2o7.net
 0.0.0.0 sonymediasoftware.112.2o7.net
 0.0.0.0 sonypanasia.112.2o7.net
