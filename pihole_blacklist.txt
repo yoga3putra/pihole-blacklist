@@ -1171,7 +1171,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 3eirjeka09wpomwue.pages.dev
 0.0.0.0 3f0eed3ce9.pluspl.space
 0.0.0.0 3f125g.cc
-0.0.0.0 3fns.com
 0.0.0.0 3g.qq.com
 0.0.0.0 3gqwq.com
 0.0.0.0 3gupload.112.2o7.net
