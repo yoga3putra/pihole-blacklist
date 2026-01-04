@@ -20176,7 +20176,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 filmserialeonlineee.blogspot.com
 0.0.0.0 filmstew.us.intellitxt.com
 0.0.0.0 filmthreat.us.intellitxt.com
-0.0.0.0 filmy-seriale.net
 0.0.0.0 filmy-za-free.blogspot.com
 0.0.0.0 filmyonlien.blogspot.com
 0.0.0.0 filmyonline-24.blogspot.com
