@@ -6033,7 +6033,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alimtex.com
 0.0.0.0 aliorbank.slajan.com.pl.hostingasp.pl
 0.0.0.0 aliqgkczod.quest
-0.0.0.0 alirey.com
 0.0.0.0 alist.unitedblades.co.jp
 0.0.0.0 alive.us.intellitxt.com
 0.0.0.0 aljamaa.fr
@@ -11318,7 +11317,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aschreib.oewabox.at
 0.0.0.0 ascout24.oewabox.at
 0.0.0.0 ascribe.rqmob.com
-0.0.0.0 asd-cn.com
 0.0.0.0 asd.tynt.com
 0.0.0.0 asdjp.kbm5u68544b.4jnb3mdnvfnnxf3r493s22lu4.com
 0.0.0.0 asdpoliziamunicipalepa.it
@@ -11738,7 +11736,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aws-oregon-ohio-virginia.s.innovid.com.akadns.net
 0.0.0.0 aws-update.net
 0.0.0.0 awstrack.me
-0.0.0.0 awuam.com
 0.0.0.0 axdget-sync.nuggad.net
 0.0.0.0 axenoistudio.com
 0.0.0.0 axeramus-poeta.blogspot.com
@@ -12851,7 +12848,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blacksexycam.com
 0.0.0.0 blackspnut.store
 0.0.0.0 blacksportsonline.us.intellitxt.com
-0.0.0.0 blacktieeventsco.com
 0.0.0.0 blackwhitebags.com
 0.0.0.0 blackwindllc.com
 0.0.0.0 bladeshadowlauncherdev.112.2o7.net
@@ -12900,7 +12896,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blockpayy.top
 0.0.0.0 blockruny.top
 0.0.0.0 blocksendn.top
-0.0.0.0 blockshifthub.com
 0.0.0.0 blocktaskc.top
 0.0.0.0 blocktaskh.top
 0.0.0.0 blocktaskm.top
@@ -12952,7 +12947,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blueinfinityai.com
 0.0.0.0 bluekai.com.edgekey.net
 0.0.0.0 bluemagmapro.com
-0.0.0.0 blueoceancarpetcleaning.com
 0.0.0.0 bluepartner.fr
 0.0.0.0 bluequbit.online
 0.0.0.0 blueridgeyamahapolaris.com
@@ -13084,7 +13078,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 book-discounts.top
 0.0.0.0 book-pl.top
 0.0.0.0 book-robotcapture1767.com
-0.0.0.0 bookable-room.com
 0.0.0.0 bookco.top
 0.0.0.0 bookindatesconfirmius.quest
 0.0.0.0 booking-id4617.world
@@ -14053,7 +14046,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 case.clmbtech.com
 0.0.0.0 caseinteligente.com
 0.0.0.0 casetasdeocasion.com
-0.0.0.0 casetesy.com
 0.0.0.0 cash-advance.now-cash.com
 0.0.0.0 cashbackwow.co.uk
 0.0.0.0 cashbridge.website
@@ -14192,7 +14184,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cd82e75b0a.sferpls.fun
 0.0.0.0 cd8iw9mh.cricket
 0.0.0.0 cda-vod.blogspot.com
-0.0.0.0 cdaflix.pl
 0.0.0.0 cdamall.com
 0.0.0.0 cdata.carambo.la
 0.0.0.0 cdd568773d.dsnplus.one
@@ -15469,7 +15460,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cloudtracked.com
 0.0.0.0 cloudwhirl.online
 0.0.0.0 cls.vrvm.com
-0.0.0.0 cltxhot.fun
 0.0.0.0 club4you.pl
 0.0.0.0 clubcanteras.com
 0.0.0.0 clubdetirodeportivoapertaarma.com
@@ -15546,7 +15536,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cnb-m.com
 0.0.0.0 cnbnews.com
 0.0.0.0 cncarnbalaj.com
-0.0.0.0 cndbjj.com
 0.0.0.0 cndpt.fr
 0.0.0.0 cnet.us.intellitxt.com
 0.0.0.0 cnetasiapacific.122.2o7.net
@@ -42054,7 +42043,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stleamcomlmunity.com
 0.0.0.0 stlukeinthefields.net
 0.0.0.0 stmicroelectronics.d3.sc.omtrdc.net
-0.0.0.0 stna24werifkcje.302203.com
 0.0.0.0 stna24werifkcje.865709.com
 0.0.0.0 sto-zipauto.com
 0.0.0.0 stoamcoommnunlty.com
