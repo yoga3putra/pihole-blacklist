@@ -12747,7 +12747,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bitceptor.com
 0.0.0.0 bitchek-now.top
 0.0.0.0 bitcoin-now.tivuwici.com
-0.0.0.0 bitcoin-prime.io
 0.0.0.0 bitcoin-upappl.com
 0.0.0.0 bitcoinavaproaiapp.com
 0.0.0.0 bitcoinbanknational.tivuwici.com
@@ -16447,7 +16446,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cryptoleaf.website
 0.0.0.0 cryptonowz.xyz
 0.0.0.0 cryptopulse.website
-0.0.0.0 cryptorno.com
 0.0.0.0 cryptoshade.store
 0.0.0.0 cryptoshift.store
 0.0.0.0 cryptospan.online
@@ -16551,7 +16549,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cukierniatylczynscy.lh.pl
 0.0.0.0 cullligan.fr
 0.0.0.0 cultivatingconnectionspodcast.org
-0.0.0.0 cultivosdiaz.com
 0.0.0.0 cultl.com
 0.0.0.0 culturalfoundation.fr
 0.0.0.0 cultureandbusinessglobalnetwork.org
@@ -20515,7 +20512,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 forsi.net
 0.0.0.0 fortmilschools.org
 0.0.0.0 fortnight.space
-0.0.0.0 fortnite64.com
 0.0.0.0 fortnite70.com
 0.0.0.0 fortnive.com
 0.0.0.0 fortreez.com
@@ -20956,7 +20952,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gamedev.us.intellitxt.com
 0.0.0.0 gameflixer.com
 0.0.0.0 gamefunbox.com
-0.0.0.0 gamegratis.org
 0.0.0.0 gamejolt.fr
 0.0.0.0 gamelux.buzz
 0.0.0.0 gamerstemple.us.intellitxt.com
@@ -22263,7 +22258,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 healthgrades.112.2o7.net
 0.0.0.0 healthguides.cnn.com
 0.0.0.0 healthination.122.2o7.net
-0.0.0.0 healthlineus.com
 0.0.0.0 healthychoices.top
 0.0.0.0 healtyrecipe.com
 0.0.0.0 hearst.amp.permutive.com
@@ -23176,7 +23170,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 idreamofthemes.com
 0.0.0.0 idreamofthemes.net
 0.0.0.0 idropships.com
-0.0.0.0 ids-agency.com
 0.0.0.0 ids-dmp.vpadn.com
 0.0.0.0 ids.ad.gt
 0.0.0.0 ids.cdnwidget.com
@@ -23240,7 +23233,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ikaromarket.com
 0.0.0.0 ikeacemos.com
 0.0.0.0 iki.daleriki.com
-0.0.0.0 ikigaielements.com
 0.0.0.0 ikj.troove.top
 0.0.0.0 iklan-indo.org
 0.0.0.0 iklan-sukses.com
@@ -23774,7 +23766,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 infopolza.xyz
 0.0.0.0 infoprosource.info
 0.0.0.0 infopulsehub.online
-0.0.0.0 informacja-dnia.com
 0.0.0.0 informacje-koncie.com
 0.0.0.0 informacjepowiattwojemiasto24.online
 0.0.0.0 informacjeszok24.blogspot.com
@@ -24150,7 +24141,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 intellectualmindsouce.org
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligent-area.com
-0.0.0.0 intenfix.com
 0.0.0.0 intensedigital.adk2x.com
 0.0.0.0 intera-x.com
 0.0.0.0 interac-etransfer.net
