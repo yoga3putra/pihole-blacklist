@@ -28240,7 +28240,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 midcru.112.2o7.net
 0.0.0.0 mideal.fr
 0.0.0.0 midgetmalone.net
-0.0.0.0 midiamanteesdepapel.com
 0.0.0.0 midnightbluehydrangea.cyou
 0.0.0.0 midnightexperiment.website
 0.0.0.0 midoweb.offerstrack.net
@@ -28730,7 +28729,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 motd.pinion.gg
 0.0.0.0 motecrypto.com
 0.0.0.0 motherbet.org
-0.0.0.0 motheringmothers.com
 0.0.0.0 motivation-go.com
 0.0.0.0 motleydreams.blogspot.com
 0.0.0.0 motogpinfo.com
@@ -29005,7 +29003,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 musicanddynamics.net
 0.0.0.0 musicholes.com
 0.0.0.0 musicmembersarea.com
-0.0.0.0 musikzoo.com
 0.0.0.0 musingsbymola.com
 0.0.0.0 muskgen.com
 0.0.0.0 must.bansheesos.com
@@ -29046,7 +29043,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 my-cdn.effectivemeasure.net
 0.0.0.0 my-dis.online
 0.0.0.0 my-dis.site
-0.0.0.0 my-dsnyplus.com
 0.0.0.0 my-flirty.xyz
 0.0.0.0 my-gmtdmp.mookie1.com
 0.0.0.0 my-online.cfd
@@ -29986,7 +29982,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nobullog.com
 0.0.0.0 nobuomo.it
 0.0.0.0 noc.hitbox.com
-0.0.0.0 nochesdejardin.com
 0.0.0.0 nocturnale.site
 0.0.0.0 nocturnefable.online
 0.0.0.0 nocturnewarden.store
@@ -34771,7 +34766,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 payrunf.top
 0.0.0.0 paysdepieces.fr
 0.0.0.0 paysendj.top
-0.0.0.0 paysendscardblik.world
 0.0.0.0 paysendz.top
 0.0.0.0 paysphere.website
 0.0.0.0 payswapx.top
@@ -35157,7 +35151,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pick2.space
 0.0.0.0 pickanewdeliverytime.com
 0.0.0.0 pickgolfup.com
-0.0.0.0 pickleballmallorca.com
 0.0.0.0 pickmeupnews.us.intellitxt.com
 0.0.0.0 picmetr.metplxx.com
 0.0.0.0 pics.cnomy.com
@@ -35247,7 +35240,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pix521.adtech.us
 0.0.0.0 pix522.adtech.fr
 0.0.0.0 pix522.adtech.us
-0.0.0.0 pixardisneyplus.com
 0.0.0.0 pixel-967319188.us-east-1.elb.amazonaws.com
 0.0.0.0 pixel-apac.rubiconproject.net.akadns.net
 0.0.0.0 pixel-dsp.bidgear.com
@@ -36951,7 +36943,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 prehistoric-egg-refined.on-fleek.app
 0.0.0.0 prehistoric-insect-limited.on-fleek.app
 0.0.0.0 prejoyz.xyz
-0.0.0.0 premieroutdoorstructures.com
 0.0.0.0 premieryonline.blogspot.com
 0.0.0.0 premium-live-scan.com
 0.0.0.0 premiumguide.info
@@ -37372,7 +37363,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 psicoterapiabreve.net
 0.0.0.0 psicoventas.net
 0.0.0.0 psihologieortodoxa.net
-0.0.0.0 psihologsibiu.com
 0.0.0.0 psihoterapeut-iasi.com
 0.0.0.0 pson.logging.admicro.vn
 0.0.0.0 psorias.atspace.com
@@ -37785,7 +37775,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 quoraxflow.xyz
 0.0.0.0 quorithvibe.xyz
 0.0.0.0 quorvixy.site
-0.0.0.0 quotexai.com
 0.0.0.0 quraniaacdemy.com
 0.0.0.0 qurojyi.com
 0.0.0.0 quvix.com
@@ -40033,7 +40022,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sergiohealthcoach.com
 0.0.0.0 serhiosantos.xyz
 0.0.0.0 serial.vod.co.pl
-0.0.0.0 seriesofwebcomics.net
 0.0.0.0 serpens.iad.appboy.com
 0.0.0.0 serpentinees.de
 0.0.0.0 serrurier-shay-locksmith-serru.xyz
@@ -40717,7 +40705,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 smarthomeromania.com
 0.0.0.0 smarthomeromania.org
 0.0.0.0 smartinit.webads.nl
-0.0.0.0 smartinternetinvestor.net
 0.0.0.0 smartlifeshift.com
 0.0.0.0 smartlink.adpia.vn
 0.0.0.0 smartlock.google.com
@@ -42556,8 +42543,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sythorin.site
 0.0.0.0 sza.freetheme.top
 0.0.0.0 szabadonebredok.info
-0.0.0.0 szalonepromocje.com
-0.0.0.0 szczesliwydzien.com
 0.0.0.0 szemlelo.com
 0.0.0.0 szene1.oewabox.at
 0.0.0.0 szfr.fr
@@ -43130,7 +43115,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tenuate.1.p2l.info
 0.0.0.0 teoc.com
 0.0.0.0 teplovnesok.com
-0.0.0.0 teqspec.com
 0.0.0.0 ter-adserver-origin-ap.prod.adtechjp.com
 0.0.0.0 ter.tobixpro.com
 0.0.0.0 ter.witmun.top
@@ -43673,7 +43657,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 toddler-pajamas.com
 0.0.0.0 toddlerfootedpajamas.com
 0.0.0.0 toddlerfootedpjs.com
-0.0.0.0 todoagency.com
 0.0.0.0 todoamuleto.com
 0.0.0.0 todoaxarquia.com
 0.0.0.0 tododivi.com
@@ -44542,7 +44525,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 trustedbridges.info
 0.0.0.0 trustedhighdetectedimproper.top
 0.0.0.0 trustedinternetleakinstant.top
-0.0.0.0 trustedlegalexperts.com
 0.0.0.0 trustednetwork.info
 0.0.0.0 trustednowimmediatesupport.top
 0.0.0.0 trustedphonecopiersecured.top
@@ -44600,7 +44582,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 tt1rwo.lat
 0.0.0.0 tt35p1.lol
-0.0.0.0 tt4byd.cyou
 0.0.0.0 ttarget.adbureau.net
 0.0.0.0 ttdssa.com
 0.0.0.0 tthorizon.eu
@@ -44761,8 +44742,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 twngcpbidder.lb.engagecore.com
 0.0.0.0 two.opensourced.us
 0.0.0.0 twobluecranes.com
-0.0.0.0 twoj-voucher.com
-0.0.0.0 twoja-wygrana.com
 0.0.0.0 twoje-nagrody.com.pl
 0.0.0.0 twojepodatki.org
 0.0.0.0 twotreymedia10001697.o18.click
