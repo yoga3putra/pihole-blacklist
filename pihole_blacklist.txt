@@ -46562,7 +46562,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 walgrns.112.2o7.net
 0.0.0.0 walkallin.com
 0.0.0.0 walkofkvig.icu
-0.0.0.0 walksoftlyinc.net
 0.0.0.0 wall.adgaterewards.com
 0.0.0.0 wallasvape.com
 0.0.0.0 wallet.mediaz.vn
@@ -118961,7 +118960,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zg5mct.lat
 0.0.0.0 zg7oprc3dwxjlu5.powadniedorplat.pl
 0.0.0.0 zgarniij_vouchher.skroc.pl
-0.0.0.0 zgarnij-nagrode.com
 0.0.0.0 zgloszeniaiwypadki.pl
 0.0.0.0 zh1.zeroredirect11.com
 0.0.0.0 zhivi.prostosdavai.top
