@@ -11036,7 +11036,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 applecmscoedeploymenttraining.112.2o7.net
 0.0.0.0 applecmscoeedwebprd.112.2o7.net
 0.0.0.0 appleglobal.102.112.2o7.net
-0.0.0.0 appleking.pl
 0.0.0.0 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
 0.0.0.0 appleleaveit.co
 0.0.0.0 appleton-divorce-attorney.top
@@ -15773,7 +15772,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 com-thebigwillow-prod1.collector.snplow.net
 0.0.0.0 com-upday-main.collector.snplow.net
 0.0.0.0 com-vw.netmng.com
-0.0.0.0 com.com
 0.0.0.0 com.htmlwww.youfck.com
 0.0.0.0 comairairlines.com
 0.0.0.0 comcast.tt.omtrdc.net
@@ -41140,7 +41138,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 speedclicks.ero-advertising.com
 0.0.0.0 speedclics.ero-advertising.com
 0.0.0.0 speedcounts.com
-0.0.0.0 speedd.net
 0.0.0.0 speedd.pl
 0.0.0.0 speeddtc.com
 0.0.0.0 speedforest.net
@@ -45760,7 +45757,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vidanalytics.taboola.com
 0.0.0.0 vidasilvestrenani.com
 0.0.0.0 vidaweird.blogspot.com
-0.0.0.0 vidaxl.pl
 0.0.0.0 videa.123mopie.com
 0.0.0.0 videntesdaycana.com
 0.0.0.0 video-adserver.ibillboard.com
