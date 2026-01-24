@@ -9166,7 +9166,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-oferta4474710.shop
 0.0.0.0 allegrolokalnie.pl-oferta4500446.shop
 0.0.0.0 allegrolokalnie.pl-oferta4512837.shop
-0.0.0.0 allegrolokalnie.pl-oferta45334.com
 0.0.0.0 allegrolokalnie.pl-oferta45334.sale
 0.0.0.0 allegrolokalnie.pl-oferta45334.sbs
 0.0.0.0 allegrolokalnie.pl-oferta45334.shop
@@ -10841,7 +10840,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api2.restartad.com
 0.0.0.0 api3.siftscience.com
 0.0.0.0 api4.1mobile.com
-0.0.0.0 api5.batmobil.net
 0.0.0.0 api6.agilone.com
 0.0.0.0 api8.agilone.com
 0.0.0.0 apiadapter.ad5track.com
@@ -18135,7 +18133,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dsp.adviad.com
 0.0.0.0 dsp.api.vungle.com
 0.0.0.0 dsp.batmobi.net
-0.0.0.0 dsp.batmobil.net
 0.0.0.0 dsp.bidgear.com
 0.0.0.0 dsp.cityads.com
 0.0.0.0 dsp.dable.io
@@ -20933,7 +20930,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gamesindustry.uk.intellitxt.com
 0.0.0.0 gamestopone.com
 0.0.0.0 gamesw.oewabox.at
-0.0.0.0 gaming-box.com
 0.0.0.0 gaminglubricant.com
 0.0.0.0 gamma-ember.net
 0.0.0.0 gamonic.fr
