@@ -12169,7 +12169,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bannikov-fund.com
 0.0.0.0 bansys.onzin.com
 0.0.0.0 bantam.ai.net
-0.0.0.0 banvar.com
 0.0.0.0 baogia.vads.vn
 0.0.0.0 baquba-rum.xyz
 0.0.0.0 bar.freelogs.com
@@ -12529,7 +12528,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 betterwordsonline.xyz
 0.0.0.0 bettors-ghana.com
 0.0.0.0 betweenreviews.com
-0.0.0.0 beucapital.com
 0.0.0.0 beutrev.metplxx.com
 0.0.0.0 bevilla.fr
 0.0.0.0 bewiners.com
@@ -12837,7 +12835,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blackwhitebags.com
 0.0.0.0 blackwindllc.com
 0.0.0.0 bladeshadowlauncherdev.112.2o7.net
-0.0.0.0 blancamuela.com
 0.0.0.0 blancodeboda.com
 0.0.0.0 blankc2.fun
 0.0.0.0 blanyo.com
@@ -13339,7 +13336,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 btno3i4.com
 0.0.0.0 btpelouadghiri.com
 0.0.0.0 btplussoftware.com
-0.0.0.0 btruss.com
 0.0.0.0 bts.vpon.com
 0.0.0.0 btw.ero-advertising.com
 0.0.0.0 bualivetrade.com
@@ -14929,7 +14925,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 check-contr.shop
 0.0.0.0 check-device-map.com
 0.0.0.0 check-dosz.shop
-0.0.0.0 check-info.xyz
 0.0.0.0 check-tcp.rayjump.com
 0.0.0.0 check.cloud-too.online
 0.0.0.0 check.favop.icu
@@ -15576,7 +15571,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 coastalsuperior.com
 0.0.0.0 coastnut.xyz
 0.0.0.0 cobafamlly.com
-0.0.0.0 cobroimpagadosinternacionales.com
 0.0.0.0 cocacolaasuu.blogspot.com
 0.0.0.0 coccyxwickimp.com
 0.0.0.0 cocerhanconstructii.com
@@ -16555,7 +16549,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cursor.kvada.globescale.com
 0.0.0.0 cursoreparadores.com
 0.0.0.0 cursos-de.xyz
-0.0.0.0 cursosbienestar.com
 0.0.0.0 cursoscazaypesca.net
 0.0.0.0 curu.rhythmyspeak.com
 0.0.0.0 cuscoviajes.com
@@ -17901,7 +17894,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 doslowneinformacje.online
 0.0.0.0 dota2manager.com
 0.0.0.0 dotnet.endai.com
-0.0.0.0 dotnook.com
 0.0.0.0 dotomi.weighted.com.akadns.net
 0.0.0.0 dotpay.pocztapolska24.pl
 0.0.0.0 dotster.112.2o7.net
@@ -18544,7 +18536,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ecommerce.datatrics.com
 0.0.0.0 ecommercetimes.us.intellitxt.com
 0.0.0.0 econnova.xyz
-0.0.0.0 econobeach.com
 0.0.0.0 economatoiberico.com
 0.0.0.0 economisttestcollect.insightfirst.com
 0.0.0.0 economytodayinsights.click
@@ -18594,7 +18585,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 editorialvoca.com
 0.0.0.0 edits.mywebsearch.com
 0.0.0.0 edmedsnow.com
-0.0.0.0 edmo.fr
 0.0.0.0 edmunds.112.2o7.net
 0.0.0.0 edmundsinsideline.112.2o7.net
 0.0.0.0 ednojabri.com
@@ -19997,7 +19987,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 feedback.adrecover.com
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.uc.cn
-0.0.0.0 feedbackguest84950.world
 0.0.0.0 feedbackroom08350.world
 0.0.0.0 feedimages.simpli.fi
 0.0.0.0 feedinghungryhearts.org
