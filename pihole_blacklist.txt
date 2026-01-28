@@ -7267,7 +7267,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-redirect-app-13563.cfd
 0.0.0.0 allegro.pl-redirect8273.icu
 0.0.0.0 allegro.pl-redirect927.cfd
-0.0.0.0 allegro.pl-rezerwacja09184.click
 0.0.0.0 allegro.pl-rezerwacja3638.icu
 0.0.0.0 allegro.pl-rezerwacja6530907.icu
 0.0.0.0 allegro.pl-sll-kup-8075bf329fd4509c.icu
@@ -9624,7 +9623,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-redirect-app-13563.cfd
 0.0.0.0 allegrolokalnie.pl-redirect8273.icu
 0.0.0.0 allegrolokalnie.pl-redirect927.cfd
-0.0.0.0 allegrolokalnie.pl-rezerwacja09184.click
 0.0.0.0 allegrolokalnie.pl-rezerwacja3638.icu
 0.0.0.0 allegrolokalnie.pl-rezerwacja6530907.icu
 0.0.0.0 allegrolokalnie.pl-sll-kup-8075bf329fd4509c.icu
@@ -11823,7 +11821,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 b3.mookie1.com
 0.0.0.0 b34rightym.com
 0.0.0.0 b3a70b.t.axf8.net
-0.0.0.0 b3d.com
 0.0.0.0 b3spl1.skin
 0.0.0.0 b400393baba7cd476a3.com
 0.0.0.0 b4h9cezox7trj1.dis-pl.lat
@@ -15977,7 +15974,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 context.qc.coccoc.com
 0.0.0.0 contextad.pl
 0.0.0.0 contextlinks.netseer.com
-0.0.0.0 contextual.media.net
 0.0.0.0 contextualyield.com
 0.0.0.0 continentalkingshop.com
 0.0.0.0 contnental-corporation.com
@@ -26018,7 +26014,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lefigarop.fr
 0.0.0.0 lefiogaro.fr
 0.0.0.0 lefirgaro.fr
-0.0.0.0 lefos.net
 0.0.0.0 lefsechos.fr
 0.0.0.0 leftoverdense.com
 0.0.0.0 legendaryvisionllc.com
@@ -28186,7 +28181,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mileu.plawax.com
 0.0.0.0 milf-finder.pl
 0.0.0.0 milioner.popunder.ru
-0.0.0.0 milioner2023.pl
 0.0.0.0 military.us.intellitxt.com
 0.0.0.0 miliville.org
 0.0.0.0 milleniaktywc2025.com
@@ -29727,7 +29721,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nextlevelcommerce.buzz
 0.0.0.0 nextlevelhub.info
 0.0.0.0 nextlevelideas.info
-0.0.0.0 nextlnk2.com
 0.0.0.0 nextlogix.info
 0.0.0.0 nextreport.life
 0.0.0.0 nextround.us.intellitxt.com
@@ -33754,7 +33747,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 onetag.io.edgekey.net
 0.0.0.0 onetapgames.com
 0.0.0.0 onetoone.112.2o7.net
-0.0.0.0 onetreewebsite.com
 0.0.0.0 onievasolutions.com
 0.0.0.0 onionfive.net
 0.0.0.0 onlamp.us.intellitxt.com
@@ -35332,7 +35324,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-83424.cfd
 0.0.0.0 pl-8432.cfd
 0.0.0.0 pl-85341.icu
-0.0.0.0 pl-8540.cfd
 0.0.0.0 pl-8712124.icu
 0.0.0.0 pl-8714214.sbs
 0.0.0.0 pl-87654.cfd
@@ -37252,7 +37243,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ps2.interpolls.com
 0.0.0.0 ps3news.us.intellitxt.com
 0.0.0.0 ps4ux.com
-0.0.0.0 ps7894.com
 0.0.0.0 psa.carambo.la
 0.0.0.0 psacet.xyz
 0.0.0.0 pshoey.com
@@ -38270,9 +38260,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 reselling-corp.com
 0.0.0.0 reserv-it-guest27891.world
 0.0.0.0 reservationszone.com
-0.0.0.0 reserve-click.com
-0.0.0.0 reserve-service.com
-0.0.0.0 reserves-page.com
 0.0.0.0 resetcibc-logincibc.com
 0.0.0.0 residenciallasandanas.com
 0.0.0.0 residenciasdestudiantes.com
@@ -38312,7 +38299,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 resumersvo.fun
 0.0.0.0 resumewritersforhire.com
 0.0.0.0 retailconsult360.com
-0.0.0.0 retaildetail.fr
 0.0.0.0 retailwithgold.com
 0.0.0.0 retanaeglobal.com
 0.0.0.0 retanev-it.com
@@ -39430,7 +39416,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 scottfcholmes.com
 0.0.0.0 scottrade.112.2o7.net
 0.0.0.0 scr.kliksaya.com
-0.0.0.0 scrapcentre.net
 0.0.0.0 scrapcentre.org
 0.0.0.0 scrapebox.xyz
 0.0.0.0 screamcommnunlty.com
@@ -40017,7 +40002,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 servicescontraventions-antai.com
 0.0.0.0 servicesecurity.org
 0.0.0.0 servicesenergia.net
-0.0.0.0 servicesnl.se
 0.0.0.0 servicetrustedinternetactivities.autos
 0.0.0.0 servicetrustedsecuredprotection.top
 0.0.0.0 serviceupdates.net
@@ -40964,7 +40948,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 spacebridemag.com
 0.0.0.0 spacecolonization.online
 0.0.0.0 spaceinnovation.website
-0.0.0.0 spacemodelling.com
 0.0.0.0 spaceobservatory.website
 0.0.0.0 spaces.ero-advertising.com
 0.0.0.0 spacetimechronicles.site
@@ -41959,7 +41942,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 storyofmemories.com
 0.0.0.0 storytellingvital.com
 0.0.0.0 storyw.promq.top
-0.0.0.0 stottz.com
 0.0.0.0 stpaulsonthehillmn.org
 0.0.0.0 stpetersburgtimes.122.2o7.net
 0.0.0.0 stportal.eclick.vn
@@ -42174,7 +42156,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 surgicalward.com
 0.0.0.0 suritastudio.com
 0.0.0.0 surmerstore.com
-0.0.0.0 surokkhabd.com
 0.0.0.0 surplus-suppliers.com
 0.0.0.0 surprise-shop.store
 0.0.0.0 surprisegiftbasket.com
@@ -42683,7 +42664,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 taniezakupy.pl
 0.0.0.0 tanio-najtaniej.com
 0.0.0.0 tannoer.top
-0.0.0.0 tantra-madrid.com
 0.0.0.0 tantrayanaresorts.com
 0.0.0.0 taobaoafp.allyes.cn
 0.0.0.0 taodelagua.com
@@ -44864,7 +44844,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 uni-littoral.fr
 0.0.0.0 unicentrumplus.org
 0.0.0.0 uniclick.openv.com
-0.0.0.0 unicoaz.com
 0.0.0.0 unicreditbanlk.com
 0.0.0.0 uniekmobile.com
 0.0.0.0 unifiedbidding.ad.smaato.net
@@ -44921,7 +44900,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 unrealcommander.biz
 0.0.0.0 unrealcommander.com
 0.0.0.0 unrealcommander.org
-0.0.0.0 unrulywomen.com
 0.0.0.0 unsaaz.com
 0.0.0.0 unser-en.de
 0.0.0.0 unserrob.com
@@ -45701,7 +45679,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vietnamdaily-log.trithuccuocsong.vn
 0.0.0.0 vietnamdiscovery.fr
 0.0.0.0 vietrealty.com
-0.0.0.0 view-reserves.com
 0.0.0.0 view.binlayer.com
 0.0.0.0 view.jamba.de
 0.0.0.0 viewerstats.docstoc.com.s3.amazonaws.com
@@ -46166,7 +46143,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vst.c.appier.net
 0.0.0.0 vstats.digitaltrends.com
 0.0.0.0 vsumecong.lol
-0.0.0.0 vsvfactories.com
 0.0.0.0 vt.5.p2l.info
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 vt9und.rest
@@ -46744,7 +46720,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wellcoined.com
 0.0.0.0 wellnessmonitor.bravehost.com
 0.0.0.0 wellresearchco.com
-0.0.0.0 wellthia.com
 0.0.0.0 wellthymovement.com
 0.0.0.0 welobidd5bkt0p5732i5q25l.techdeny.com
 0.0.0.0 welrev.metplxx.com
@@ -118394,7 +118369,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xoada0pzosa.appspot.com
 0.0.0.0 xoaninhacarminha.com
 0.0.0.0 xoffersbot.com
-0.0.0.0 xofferunique.com
 0.0.0.0 xohiru.fungizmos.st
 0.0.0.0 xokocif.store
 0.0.0.0 xoponia.xyz
