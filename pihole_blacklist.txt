@@ -4623,7 +4623,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 akibaol.com
 0.0.0.0 akihabaranews.us.intellitxt.com
 0.0.0.0 akinitus.com
-0.0.0.0 ako.cc
 0.0.0.0 akornex.com
 0.0.0.0 akr.usesfathom.com
 0.0.0.0 akrilvann.com
@@ -18236,7 +18235,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dzismikolajki24.eu
 0.0.0.0 dzxcq.com
 0.0.0.0 dzyob.com
-0.0.0.0 dzzrenjanin.rs
 0.0.0.0 e-10077.adzerk.net
 0.0.0.0 e-10220.adzerk.net
 0.0.0.0 e-10457.adzerk.net
@@ -19040,7 +19038,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 engage3515gvrnr.deltadna.net
 0.0.0.0 engage5081wrdch.deltadna.net
 0.0.0.0 engage8829thscr.deltadna.net
-0.0.0.0 engagement-collector.mobify.net
 0.0.0.0 engagement.inmarket.com
 0.0.0.0 engajamentoreal.com
 0.0.0.0 engelfire.com
@@ -24964,7 +24961,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jsfiddle.usesfathom.com
 0.0.0.0 jsfp.coremetrics.com
 0.0.0.0 jsg.dt07.net
-0.0.0.0 jsing.net
 0.0.0.0 jskdjsjdw.buzz
 0.0.0.0 jslog.krxd.net
 0.0.0.0 jsmyjl.com
@@ -33763,7 +33759,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 online-prod.zenmxapps.com
 0.0.0.0 online-store2.vip
 0.0.0.0 online.lettters.click
-0.0.0.0 online.mobify.net
 0.0.0.0 online.privacys.click
 0.0.0.0 online.sh.cn
 0.0.0.0 online.uptyme.click
@@ -47121,7 +47116,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wmg.112.2o7.net
 0.0.0.0 wmgmulti.112.2o7.net
 0.0.0.0 wmhq1qbna6u50k883id7pjk8.gadgetshom.com
-0.0.0.0 wmmax.com
 0.0.0.0 wmqkledl3324dt58jgkp5l1o.petsnows.com
 0.0.0.0 wms-tools.com
 0.0.0.0 wms.assoc-amazon.jp
@@ -118349,7 +118343,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xml.yepmedia.com
 0.0.0.0 xml1.adsimilate.com
 0.0.0.0 xml2.nbcsearch.com
-0.0.0.0 xmlheads.com
 0.0.0.0 xmlpitstop.us.intellitxt.com
 0.0.0.0 xmlserving.mobagent.com
 0.0.0.0 xn--adspace-kvg.ero-advertising.com
