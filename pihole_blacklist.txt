@@ -39396,7 +39396,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 screensavers.us.intellitxt.com
 0.0.0.0 scribbens.fr
 0.0.0.0 scribe.logs.roku.com
-0.0.0.0 scribe.ttwitter.com
 0.0.0.0 scrippsbathvert.112.2o7.net
 0.0.0.0 scrippsdiy.112.2o7.net
 0.0.0.0 scrippsfineliving.112.2o7.net
@@ -41514,7 +41513,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.ifa.empflixlive.com
 0.0.0.0 static.ifa.slutloadlive.com
 0.0.0.0 static.innovid.com
-0.0.0.0 static.intentarget.com
 0.0.0.0 static.inviziads.com
 0.0.0.0 static.iterable.com
 0.0.0.0 static.itrack.it
