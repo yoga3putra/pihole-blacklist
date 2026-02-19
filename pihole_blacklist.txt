@@ -8128,7 +8128,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-3136196.digital
 0.0.0.0 allegrolokalnie.oferta-321452.icu
 0.0.0.0 allegrolokalnie.oferta-324543.icu
-0.0.0.0 allegrolokalnie.oferta-32862.shop
 0.0.0.0 allegrolokalnie.oferta-33569.store
 0.0.0.0 allegrolokalnie.oferta-3412900.icu
 0.0.0.0 allegrolokalnie.oferta-3439076.sbs
@@ -21769,7 +21768,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 greatdealautomechanics.com
 0.0.0.0 greaterdsmpartnership.com
 0.0.0.0 greatest-store.com
-0.0.0.0 greatfireoflondon.org.uk
 0.0.0.0 greatfuturebydesign.com
 0.0.0.0 greatindiangrill.com
 0.0.0.0 greatlakessurveillance.com
@@ -39838,7 +39836,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sent0.cfd
 0.0.0.0 sentirhotel.com
 0.0.0.0 sento.122.2o7.net
-0.0.0.0 sentrol.cl
 0.0.0.0 sentry.justwatch.com
 0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 seo-galicia.com
