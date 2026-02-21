@@ -13776,7 +13776,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cafemom.us.intellitxt.com
 0.0.0.0 cafj.fr
 0.0.0.0 cafumo.cybersvaults.com
-0.0.0.0 caicaraexpedicoes.com
 0.0.0.0 cainiaos.sbs
 0.0.0.0 caitlinjamieart.com
 0.0.0.0 cajonerasmadrid.com
@@ -16268,7 +16267,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 crazycratess.com
 0.0.0.0 crazymamababy.com
 0.0.0.0 crazymasale.com
-0.0.0.0 crazyprotocol.com
 0.0.0.0 crb.kargo.com
 0.0.0.0 crcdn01.adnxs.com
 0.0.0.0 crcdn09.adnxs.com
