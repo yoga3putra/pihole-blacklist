@@ -8272,7 +8272,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.ogloszenie-354793.shop
 0.0.0.0 allegrolokalnie.ogloszenie-415965.cfd
 0.0.0.0 allegrolokalnie.ogloszenie-4275612.shop
-0.0.0.0 allegrolokalnie.ogloszenie-4285825.shop
 0.0.0.0 allegrolokalnie.ogloszenie-5015326.shop
 0.0.0.0 allegrolokalnie.ogloszenie-5292293.shop
 0.0.0.0 allegrolokalnie.ogloszenie-534119.shop
@@ -34954,7 +34953,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pics.cnomy.com
 0.0.0.0 picture-uploads.com
 0.0.0.0 picturesque-mountain-lake-3890.newdesign.sbs
-0.0.0.0 picura.it
 0.0.0.0 pido.widgetmarkething.com
 0.0.0.0 pidoco.fr
 0.0.0.0 pie.freetheme.top
