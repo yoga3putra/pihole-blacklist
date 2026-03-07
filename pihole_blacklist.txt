@@ -3014,7 +3014,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.admaximize.com
 0.0.0.0 ads.adnet.am
 0.0.0.0 ads.adone.com
-0.0.0.0 ads.adroar.com
 0.0.0.0 ads.ads.netlog.com
 0.0.0.0 ads.adsag.com
 0.0.0.0 ads.adsbookie.com
@@ -43207,7 +43206,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 thirst7bvqz.click
 0.0.0.0 thirtydaychange.com
 0.0.0.0 this.content.served.by.addshuffle.com
-0.0.0.0 this.content.served.by.adshuffle.com
 0.0.0.0 thisisperfume.com
 0.0.0.0 thisiswhyimmoving.com
 0.0.0.0 thisplaceishot.com
