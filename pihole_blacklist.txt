@@ -2285,7 +2285,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-diactivat.pages.dev
 0.0.0.0 ad-distributorsstore.top
 0.0.0.0 ad-feeds.com
-0.0.0.0 ad-fuse.com
 0.0.0.0 ad-gbn.com
 0.0.0.0 ad-generator.net
 0.0.0.0 ad-hoc-news.de.intellitxt.com
@@ -11283,7 +11282,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 asmanta.com
 0.0.0.0 asmedia.adsupplyssl.com
 0.0.0.0 asminsure.com
-0.0.0.0 asnanstelek.com
 0.0.0.0 asociacionantoniogomezmartin.com
 0.0.0.0 asociacionhijosfutbolistasprofesionales.com
 0.0.0.0 asociacionmerean.org
@@ -11599,7 +11597,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aux-log2-sh.vertamedia.com
 0.0.0.0 aux.fqtag.com
 0.0.0.0 auxin-box.com
-0.0.0.0 av-scanner.com
 0.0.0.0 avanguardsrl.com
 0.0.0.0 avantoagricola.com
 0.0.0.0 avanzacomunidades.com
@@ -12854,7 +12851,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bluediamondoffers.com
 0.0.0.0 bluefusion.website
 0.0.0.0 bluehparking.com
-0.0.0.0 blueinfinityai.com
 0.0.0.0 bluekai.com.edgekey.net
 0.0.0.0 bluemagmapro.com
 0.0.0.0 bluepartner.fr
@@ -12965,7 +12961,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 boneville.fr
 0.0.0.0 bonintnewsktarcom.112.2o7.net
 0.0.0.0 bonkmillenniium.authw.net
-0.0.0.0 bonn.berlin
 0.0.0.0 bonneville.112.2o7.net
 0.0.0.0 bonthedeleonecapital.com
 0.0.0.0 bonthedeleonedevelopment.com
@@ -13305,7 +13300,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 builditx.info
 0.0.0.0 bukisa.us.intellitxt.com
 0.0.0.0 bulabatiki.com
-0.0.0.0 bulf163.com
 0.0.0.0 bulgariabg.com
 0.0.0.0 bulktheft.com
 0.0.0.0 bulldog.122.2o7.net
@@ -13475,7 +13469,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 c-llck.space
 0.0.0.0 c-martinique.fr
 0.0.0.0 c-rennes.fr
-0.0.0.0 c-suiteops.com
 0.0.0.0 c.4dex.io
 0.0.0.0 c.aaxads.com
 0.0.0.0 c.ad6media.fr
@@ -13858,7 +13851,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 carbonite.tt.omtrdc.net
 0.0.0.0 carcasaschulas.com
 0.0.0.0 carcinogeneticist.com
-0.0.0.0 cardantransmisiones.com
 0.0.0.0 cardeyone.maxen.top
 0.0.0.0 cardioa-pl.treasure-shop.org
 0.0.0.0 cardiosportcentre.com
@@ -16528,7 +16520,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cyberdatay.info
 0.0.0.0 cyberdefender.122.2o7.net
 0.0.0.0 cybereurocharge.com
-0.0.0.0 cybereuropl.com
 0.0.0.0 cyberflowtech.site
 0.0.0.0 cyberfolks0efaktura.blob.core.windows.net
 0.0.0.0 cyberfolks0poczta.blob.core.windows.net
@@ -17282,7 +17273,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 desb.mspaceads.com
 0.0.0.0 descaltronic.net
 0.0.0.0 descubrebudapest.com
-0.0.0.0 descubretumundo.com
 0.0.0.0 descubriendoal.com
 0.0.0.0 descubriendoloesencial.com
 0.0.0.0 descuentosparamicoche.com
@@ -17363,7 +17353,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dextertrapteam.com
 0.0.0.0 deyavo.racepulse40.com
 0.0.0.0 df.mob.com
-0.0.0.0 df3igc.cyou
 0.0.0.0 dfa.troove.top
 0.0.0.0 dfbv.troove.top
 0.0.0.0 dfgdgertdvdf.xyz
@@ -19195,7 +19184,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 esteticasusanabasurto.com
 0.0.0.0 estoesesparta.com
 0.0.0.0 estrategiasdeinvestigacion.com
-0.0.0.0 estratica.com
 0.0.0.0 estudiarcanada.com
 0.0.0.0 estudiodisenografico.com
 0.0.0.0 estudiomeaculpa.com
@@ -20506,7 +20494,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 free.videodownloadconverter.com
 0.0.0.0 freeallsafe.com
 0.0.0.0 freebiegb.co.uk
-0.0.0.0 freebiesms.co.uk
 0.0.0.0 freecamerasource.com
 0.0.0.0 freecharge.demdex.net
 0.0.0.0 freecontent.bid
@@ -20658,7 +20645,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fusionforgestart.site
 0.0.0.0 fusionmatrixtop.info
 0.0.0.0 fusionoza.com
-0.0.0.0 fusionpath.info
 0.0.0.0 fusionpathh.info
 0.0.0.0 fusionpathy.com
 0.0.0.0 fusionprime.info
@@ -21280,8 +21266,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 global.smarterhq.io
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 global.ymtrack.com
-0.0.0.0 globalapp-digiteum.com
-0.0.0.0 globalappdigiteum.com
 0.0.0.0 globalbankibk.com
 0.0.0.0 globalcyberzone.com
 0.0.0.0 globaldisplayca.com
@@ -21906,7 +21890,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 h1.helenrosi.com
 0.0.0.0 h1n6fpcm8y7ivz0.rowepljka.pl
 0.0.0.0 h2.helenrosi.com
-0.0.0.0 h22qw.top
 0.0.0.0 h250p-y3urn.ads.tremorhub.com
 0.0.0.0 h2i39.pl
 0.0.0.0 h2spl1a.lol
@@ -22220,7 +22203,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 heuterest.com
 0.0.0.0 hexagram.rtk.io
 0.0.0.0 hexapulse.site
-0.0.0.0 hexatrinity.com
 0.0.0.0 hextraonic.com
 0.0.0.0 hexus.uk.intellitxt.com
 0.0.0.0 heyheads.com
@@ -22697,7 +22679,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hulu.hb.omtrdc.net
 0.0.0.0 huludev.112.2o7.net
 0.0.0.0 humanandbusinessalmeria.com
-0.0.0.0 humanasydivinas.com
 0.0.0.0 humanblacksmith.com
 0.0.0.0 humanfootball.com
 0.0.0.0 humans.meelou.top
@@ -46242,7 +46223,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 w5nkagu3isu8sg06317755ui.animalsleash.com
 0.0.0.0 w5nl58s1f54fdat83b78o2l6.joystickjoygame.com
 0.0.0.0 w6.hitbox.com
-0.0.0.0 w61.1piecemanga.com
 0.0.0.0 w61ju8scmb9dt2a93etrrolc.exploreglobetoday.com
 0.0.0.0 w636a0s3iaj44776jmp8viha.foodscavil.com
 0.0.0.0 w64up6rjt2t8sp593kluqbkc.weddingsdazel.com
